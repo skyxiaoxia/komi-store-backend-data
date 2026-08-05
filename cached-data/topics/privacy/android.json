@@ -1,7 +1,7 @@
 {
   "category": "topics/privacy",
   "platform": "android",
-  "lastUpdated": "2026-08-04T05:17:30.505383Z",
+  "lastUpdated": "2026-08-05T05:17:34.315936Z",
   "totalCount": 6,
   "repositories": [
     {
@@ -15,8 +15,8 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/florisboard/florisboard",
-      "stargazersCount": 8534,
-      "forksCount": 685,
+      "stargazersCount": 8535,
+      "forksCount": 687,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -26,15 +26,15 @@
         "kotlin-android"
       ],
       "releasesUrl": "https://api.github.com/repos/florisboard/florisboard/releases{/id}",
-      "updatedAt": "2026-08-04T02:10:57Z",
+      "updatedAt": "2026-08-04T15:27:29Z",
       "createdAt": "2020-04-08T21:18:23Z",
       "pushedAt": "2026-07-25T17:33:01Z",
-      "downloadCount": 265725,
+      "downloadCount": 266017,
       "openIssuesCount": 478,
       "archived": false,
       "latestReleaseDate": "2025-11-28T15:17:55Z",
-      "releaseRecency": 248,
-      "releaseRecencyText": "Released 248 days ago"
+      "releaseRecency": 249,
+      "releaseRecencyText": "Released 249 days ago"
     },
     {
       "id": 257841809,
@@ -47,20 +47,20 @@
       "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/uazo/cromite",
-      "stargazersCount": 7992,
-      "forksCount": 282,
+      "stargazersCount": 7996,
+      "forksCount": 281,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/uazo/cromite/releases{/id}",
-      "updatedAt": "2026-08-04T03:37:46Z",
+      "updatedAt": "2026-08-04T21:05:15Z",
       "createdAt": "2020-04-22T08:38:25Z",
-      "pushedAt": "2026-08-03T06:18:06Z",
-      "downloadCount": 3719260,
-      "openIssuesCount": 525,
+      "pushedAt": "2026-08-05T04:57:38Z",
+      "downloadCount": 3721749,
+      "openIssuesCount": 527,
       "archived": false,
       "latestReleaseDate": "2026-05-21T16:26:34Z",
-      "releaseRecency": 74,
-      "releaseRecencyText": "Released 74 days ago"
+      "releaseRecency": 75,
+      "releaseRecencyText": "Released 75 days ago"
     },
     {
       "id": 291438522,
@@ -73,8 +73,8 @@
       "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/siyuan-note/siyuan",
-      "stargazersCount": 45614,
-      "forksCount": 2931,
+      "stargazersCount": 45627,
+      "forksCount": 2930,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -98,15 +98,15 @@
         "wiki"
       ],
       "releasesUrl": "https://api.github.com/repos/siyuan-note/siyuan/releases{/id}",
-      "updatedAt": "2026-08-04T04:23:15Z",
+      "updatedAt": "2026-08-05T04:37:24Z",
       "createdAt": "2020-08-30T09:21:35Z",
-      "pushedAt": "2026-08-04T05:12:00Z",
-      "downloadCount": 2917943,
-      "openIssuesCount": 120,
+      "pushedAt": "2026-08-05T05:24:51Z",
+      "downloadCount": 2923613,
+      "openIssuesCount": 119,
       "archived": false,
       "latestReleaseDate": "2026-07-21T04:54:43Z",
-      "releaseRecency": 14,
-      "releaseRecencyText": "Released 14 days ago"
+      "releaseRecency": 15,
+      "releaseRecencyText": "Released 15 days ago"
     },
     {
       "id": 266231149,
@@ -119,8 +119,8 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/logseq/logseq",
-      "stargazersCount": 44245,
-      "forksCount": 2748,
+      "stargazersCount": 44277,
+      "forksCount": 2747,
       "language": "Clojure",
       "topics": [
         "clojure",
@@ -136,15 +136,15 @@
         "pkm"
       ],
       "releasesUrl": "https://api.github.com/repos/logseq/logseq/releases{/id}",
-      "updatedAt": "2026-08-04T05:20:00Z",
+      "updatedAt": "2026-08-05T05:15:49Z",
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-08-04T04:25:51Z",
-      "downloadCount": 83919765,
-      "openIssuesCount": 934,
+      "pushedAt": "2026-08-05T05:15:10Z",
+      "downloadCount": 84039201,
+      "openIssuesCount": 939,
       "archived": false,
       "latestReleaseDate": "2026-07-13T14:10:34Z",
-      "releaseRecency": 21,
-      "releaseRecencyText": "Released 21 days ago"
+      "releaseRecency": 22,
+      "releaseRecencyText": "Released 22 days ago"
     },
     {
       "id": 877230294,
@@ -157,8 +157,8 @@
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
-      "stargazersCount": 10834,
-      "forksCount": 766,
+      "stargazersCount": 10840,
+      "forksCount": 767,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -171,15 +171,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-08-04T04:35:33Z",
+      "updatedAt": "2026-08-05T03:09:44Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-08-03T14:17:57Z",
-      "downloadCount": 31248,
+      "downloadCount": 31293,
       "openIssuesCount": 407,
       "archived": false,
       "latestReleaseDate": "2026-06-20T08:30:09Z",
-      "releaseRecency": 44,
-      "releaseRecencyText": "Released 44 days ago"
+      "releaseRecency": 45,
+      "releaseRecencyText": "Released 45 days ago"
     },
     {
       "id": 22344874,
@@ -192,7 +192,7 @@
       "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/tutao/tutanota",
-      "stargazersCount": 7821,
+      "stargazersCount": 7822,
       "forksCount": 630,
       "language": "TypeScript",
       "topics": [
@@ -205,15 +205,15 @@
         "tutanota"
       ],
       "releasesUrl": "https://api.github.com/repos/tutao/tutanota/releases{/id}",
-      "updatedAt": "2026-08-04T04:39:57Z",
+      "updatedAt": "2026-08-04T20:40:35Z",
       "createdAt": "2014-07-28T14:14:45Z",
-      "pushedAt": "2026-08-03T16:17:48Z",
-      "downloadCount": 961463,
-      "openIssuesCount": 964,
+      "pushedAt": "2026-08-04T17:07:14Z",
+      "downloadCount": 965217,
+      "openIssuesCount": 962,
       "archived": false,
       "latestReleaseDate": "2026-07-31T09:23:15Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "releaseRecency": 4,
+      "releaseRecencyText": "Released 4 days ago"
     }
   ]
 }
