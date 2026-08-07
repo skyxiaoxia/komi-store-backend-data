@@ -1,8 +1,8 @@
 {
   "category": "topics/privacy",
   "platform": "android",
-  "lastUpdated": "2026-08-06T05:19:46.695332Z",
-  "totalCount": 6,
+  "lastUpdated": "2026-08-07T04:27:28.758957Z",
+  "totalCount": 5,
   "repositories": [
     {
       "id": 254202848,
@@ -15,8 +15,8 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/florisboard/florisboard",
-      "stargazersCount": 8538,
-      "forksCount": 689,
+      "stargazersCount": 8539,
+      "forksCount": 691,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -26,15 +26,15 @@
         "kotlin-android"
       ],
       "releasesUrl": "https://api.github.com/repos/florisboard/florisboard/releases{/id}",
-      "updatedAt": "2026-08-05T23:55:14Z",
+      "updatedAt": "2026-08-07T04:20:38Z",
       "createdAt": "2020-04-08T21:18:23Z",
       "pushedAt": "2026-07-25T17:33:01Z",
-      "downloadCount": 266250,
+      "downloadCount": 266488,
       "openIssuesCount": 478,
       "archived": false,
       "latestReleaseDate": "2025-11-28T15:17:55Z",
-      "releaseRecency": 250,
-      "releaseRecencyText": "Released 250 days ago"
+      "releaseRecency": 251,
+      "releaseRecencyText": "Released 251 days ago"
     },
     {
       "id": 257841809,
@@ -47,20 +47,20 @@
       "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/uazo/cromite",
-      "stargazersCount": 8005,
+      "stargazersCount": 8017,
       "forksCount": 281,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/uazo/cromite/releases{/id}",
-      "updatedAt": "2026-08-06T03:35:32Z",
+      "updatedAt": "2026-08-07T03:54:30Z",
       "createdAt": "2020-04-22T08:38:25Z",
-      "pushedAt": "2026-08-06T05:02:32Z",
-      "downloadCount": 3724141,
-      "openIssuesCount": 529,
+      "pushedAt": "2026-08-07T04:41:27Z",
+      "downloadCount": 3726239,
+      "openIssuesCount": 530,
       "archived": false,
       "latestReleaseDate": "2026-05-21T16:26:34Z",
-      "releaseRecency": 76,
-      "releaseRecencyText": "Released 76 days ago"
+      "releaseRecency": 77,
+      "releaseRecencyText": "Released 77 days ago"
     },
     {
       "id": 291438522,
@@ -73,7 +73,7 @@
       "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/siyuan-note/siyuan",
-      "stargazersCount": 45646,
+      "stargazersCount": 45656,
       "forksCount": 2935,
       "language": "TypeScript",
       "topics": [
@@ -98,11 +98,11 @@
         "wiki"
       ],
       "releasesUrl": "https://api.github.com/repos/siyuan-note/siyuan/releases{/id}",
-      "updatedAt": "2026-08-06T02:12:37Z",
+      "updatedAt": "2026-08-07T03:59:08Z",
       "createdAt": "2020-08-30T09:21:35Z",
-      "pushedAt": "2026-08-06T05:36:05Z",
-      "downloadCount": 2929039,
-      "openIssuesCount": 116,
+      "pushedAt": "2026-08-07T02:54:58Z",
+      "downloadCount": 2933848,
+      "openIssuesCount": 119,
       "archived": false,
       "latestReleaseDate": "2026-07-21T04:54:43Z",
       "releaseRecency": 16,
@@ -119,8 +119,8 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/logseq/logseq",
-      "stargazersCount": 44297,
-      "forksCount": 2752,
+      "stargazersCount": 44302,
+      "forksCount": 2754,
       "language": "Clojure",
       "topics": [
         "clojure",
@@ -136,15 +136,15 @@
         "pkm"
       ],
       "releasesUrl": "https://api.github.com/repos/logseq/logseq/releases{/id}",
-      "updatedAt": "2026-08-06T04:31:43Z",
+      "updatedAt": "2026-08-07T04:41:44Z",
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-08-05T13:16:55Z",
-      "downloadCount": 84159058,
-      "openIssuesCount": 943,
+      "pushedAt": "2026-08-07T01:37:34Z",
+      "downloadCount": 84273665,
+      "openIssuesCount": 946,
       "archived": false,
       "latestReleaseDate": "2026-07-13T14:10:34Z",
-      "releaseRecency": 23,
-      "releaseRecencyText": "Released 23 days ago"
+      "releaseRecency": 24,
+      "releaseRecencyText": "Released 24 days ago"
     },
     {
       "id": 877230294,
@@ -157,8 +157,8 @@
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
-      "stargazersCount": 10843,
-      "forksCount": 767,
+      "stargazersCount": 10847,
+      "forksCount": 768,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -171,49 +171,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-08-05T20:18:24Z",
+      "updatedAt": "2026-08-07T02:30:37Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-08-03T14:17:57Z",
-      "downloadCount": 31320,
+      "downloadCount": 31354,
       "openIssuesCount": 408,
       "archived": false,
       "latestReleaseDate": "2026-06-20T08:30:09Z",
-      "releaseRecency": 46,
-      "releaseRecencyText": "Released 46 days ago"
-    },
-    {
-      "id": 22344874,
-      "name": "tutanota",
-      "fullName": "tutao/tutanota",
-      "owner": {
-        "login": "tutao",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6120691?v=4"
-      },
-      "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
-      "defaultBranch": "master",
-      "htmlUrl": "https://github.com/tutao/tutanota",
-      "stargazersCount": 7827,
-      "forksCount": 630,
-      "language": "TypeScript",
-      "topics": [
-        "email",
-        "encryption",
-        "javascript",
-        "mithril",
-        "privacy",
-        "security",
-        "tutanota"
-      ],
-      "releasesUrl": "https://api.github.com/repos/tutao/tutanota/releases{/id}",
-      "updatedAt": "2026-08-05T22:48:56Z",
-      "createdAt": "2014-07-28T14:14:45Z",
-      "pushedAt": "2026-08-05T16:35:00Z",
-      "downloadCount": 969068,
-      "openIssuesCount": 968,
-      "archived": false,
-      "latestReleaseDate": "2026-07-31T09:23:15Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "releaseRecency": 47,
+      "releaseRecencyText": "Released 47 days ago"
     }
   ]
 }
