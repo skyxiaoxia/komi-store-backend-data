@@ -1,7 +1,7 @@
 {
   "category": "topics/privacy",
   "platform": "macos",
-  "lastUpdated": "2026-08-10T03:59:07.439065Z",
+  "lastUpdated": "2026-08-11T03:47:10.510597Z",
   "totalCount": 46,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FriesI23/mhabit",
-      "stargazersCount": 1446,
+      "stargazersCount": 1449,
       "forksCount": 83,
       "language": "Dart",
       "topics": [
@@ -41,15 +41,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/FriesI23/mhabit/releases{/id}",
-      "updatedAt": "2026-08-10T00:28:31Z",
+      "updatedAt": "2026-08-11T00:49:40Z",
       "createdAt": "2023-04-26T00:03:15Z",
-      "pushedAt": "2026-08-10T01:19:52Z",
-      "downloadCount": 31524,
+      "pushedAt": "2026-08-11T00:49:40Z",
+      "downloadCount": 31891,
       "openIssuesCount": 76,
       "archived": false,
       "latestReleaseDate": "2026-08-10T00:51:28Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 378396257,
@@ -80,15 +80,15 @@
         "signature-verification"
       ],
       "releasesUrl": "https://api.github.com/repos/saturneric/GpgFrontend/releases{/id}",
-      "updatedAt": "2026-08-07T14:45:57Z",
+      "updatedAt": "2026-08-10T21:14:17Z",
       "createdAt": "2021-06-19T11:31:35Z",
-      "pushedAt": "2026-08-07T15:20:26Z",
-      "downloadCount": 75673,
-      "openIssuesCount": 12,
+      "pushedAt": "2026-08-10T21:13:39Z",
+      "downloadCount": 75862,
+      "openIssuesCount": 6,
       "archived": false,
-      "latestReleaseDate": "2026-06-29T20:21:50Z",
-      "releaseRecency": 41,
-      "releaseRecencyText": "Released 41 days ago"
+      "latestReleaseDate": "2026-08-10T20:58:40Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 16446099,
@@ -101,8 +101,8 @@
       "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/cryptomator/cryptomator",
-      "stargazersCount": 15859,
-      "forksCount": 1523,
+      "stargazersCount": 15868,
+      "forksCount": 1522,
       "language": "Java",
       "topics": [
         "cloud-storage",
@@ -115,15 +115,15 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/cryptomator/cryptomator/releases{/id}",
-      "updatedAt": "2026-08-09T23:50:42Z",
+      "updatedAt": "2026-08-11T00:50:57Z",
       "createdAt": "2014-02-02T00:43:47Z",
       "pushedAt": "2026-08-01T16:25:31Z",
-      "downloadCount": 5070728,
+      "downloadCount": 5077257,
       "openIssuesCount": 283,
       "archived": false,
       "latestReleaseDate": "2026-06-29T12:24:45Z",
-      "releaseRecency": 41,
-      "releaseRecencyText": "Released 41 days ago"
+      "releaseRecency": 42,
+      "releaseRecencyText": "Released 42 days ago"
     },
     {
       "id": 4457770,
@@ -136,7 +136,7 @@
       "description": "I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. ",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/i2p/i2p.i2p",
-      "stargazersCount": 2666,
+      "stargazersCount": 2669,
       "forksCount": 352,
       "language": "Java",
       "topics": [
@@ -150,15 +150,15 @@
         "router"
       ],
       "releasesUrl": "https://api.github.com/repos/i2p/i2p.i2p/releases{/id}",
-      "updatedAt": "2026-08-09T20:41:30Z",
+      "updatedAt": "2026-08-11T00:28:39Z",
       "createdAt": "2012-05-26T20:54:59Z",
-      "pushedAt": "2026-08-08T00:26:55Z",
-      "downloadCount": 14575,
+      "pushedAt": "2026-08-11T00:28:30Z",
+      "downloadCount": 14648,
       "openIssuesCount": 16,
       "archived": false,
       "latestReleaseDate": "2026-07-24T00:33:08Z",
-      "releaseRecency": 17,
-      "releaseRecencyText": "Released 17 days ago"
+      "releaseRecency": 18,
+      "releaseRecencyText": "Released 18 days ago"
     },
     {
       "id": 79162682,
@@ -171,8 +171,8 @@
       "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/laurent22/joplin",
-      "stargazersCount": 55885,
-      "forksCount": 6223,
+      "stargazersCount": 55904,
+      "forksCount": 6225,
       "language": "TypeScript",
       "topics": [
         "android",
@@ -195,15 +195,15 @@
         "webdav"
       ],
       "releasesUrl": "https://api.github.com/repos/laurent22/joplin/releases{/id}",
-      "updatedAt": "2026-08-10T04:18:21Z",
+      "updatedAt": "2026-08-11T03:54:12Z",
       "createdAt": "2017-01-16T21:49:41Z",
-      "pushedAt": "2026-08-10T01:55:27Z",
-      "downloadCount": 16237280,
+      "pushedAt": "2026-08-10T07:49:49Z",
+      "downloadCount": 16248266,
       "openIssuesCount": 638,
       "archived": false,
       "latestReleaseDate": "2026-06-20T11:04:11Z",
-      "releaseRecency": 50,
-      "releaseRecencyText": "Released 50 days ago"
+      "releaseRecency": 51,
+      "releaseRecencyText": "Released 51 days ago"
     },
     {
       "id": 249139477,
@@ -216,23 +216,23 @@
       "description": "Desktop Bitcoin Wallet focused on security and privacy. Free and open source.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/sparrowwallet/sparrow",
-      "stargazersCount": 2083,
-      "forksCount": 310,
+      "stargazersCount": 2088,
+      "forksCount": 311,
       "language": "Java",
       "topics": [
         "bitcoin",
         "bitcoin-wallet"
       ],
       "releasesUrl": "https://api.github.com/repos/sparrowwallet/sparrow/releases{/id}",
-      "updatedAt": "2026-08-09T22:25:24Z",
+      "updatedAt": "2026-08-10T23:35:07Z",
       "createdAt": "2020-03-22T08:08:06Z",
-      "pushedAt": "2026-08-06T12:13:34Z",
-      "downloadCount": 2463555,
+      "pushedAt": "2026-08-10T10:42:05Z",
+      "downloadCount": 2466838,
       "openIssuesCount": 247,
       "archived": false,
       "latestReleaseDate": "2026-07-30T09:03:48Z",
-      "releaseRecency": 10,
-      "releaseRecencyText": "Released 10 days ago"
+      "releaseRecency": 11,
+      "releaseRecencyText": "Released 11 days ago"
     },
     {
       "id": 768431601,
@@ -245,8 +245,8 @@
       "description": "Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Materialious/Materialious",
-      "stargazersCount": 1107,
-      "forksCount": 65,
+      "stargazersCount": 1110,
+      "forksCount": 64,
       "language": "TypeScript",
       "topics": [
         "3rd-party",
@@ -270,15 +270,15 @@
         "youtube"
       ],
       "releasesUrl": "https://api.github.com/repos/Materialious/Materialious/releases{/id}",
-      "updatedAt": "2026-08-09T21:46:29Z",
+      "updatedAt": "2026-08-11T03:39:30Z",
       "createdAt": "2024-03-07T04:19:48Z",
-      "pushedAt": "2026-08-09T07:35:18Z",
-      "downloadCount": 205947,
-      "openIssuesCount": 37,
+      "pushedAt": "2026-08-10T15:44:06Z",
+      "downloadCount": 206556,
+      "openIssuesCount": 42,
       "archived": false,
       "latestReleaseDate": "2026-08-09T07:35:18Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 57224308,
@@ -291,8 +291,8 @@
       "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/ActivityWatch/activitywatch",
-      "stargazersCount": 18538,
-      "forksCount": 977,
+      "stargazersCount": 18548,
+      "forksCount": 978,
       "language": "Python",
       "topics": [
         "activitywatch",
@@ -309,15 +309,15 @@
         "timetracking"
       ],
       "releasesUrl": "https://api.github.com/repos/ActivityWatch/activitywatch/releases{/id}",
-      "updatedAt": "2026-08-10T02:04:40Z",
+      "updatedAt": "2026-08-11T00:49:15Z",
       "createdAt": "2016-04-27T15:26:09Z",
       "pushedAt": "2026-08-06T13:30:48Z",
-      "downloadCount": 1096021,
+      "downloadCount": 1097785,
       "openIssuesCount": 191,
       "archived": false,
       "latestReleaseDate": "2024-10-05T13:47:17Z",
-      "releaseRecency": 673,
-      "releaseRecencyText": "Released 673 days ago"
+      "releaseRecency": 674,
+      "releaseRecencyText": "Released 674 days ago"
     },
     {
       "id": 205326947,
@@ -330,8 +330,8 @@
       "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/espanso/espanso",
-      "stargazersCount": 14245,
-      "forksCount": 448,
+      "stargazersCount": 14252,
+      "forksCount": 449,
       "language": "Rust",
       "topics": [
         "espanso",
@@ -344,15 +344,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/espanso/espanso/releases{/id}",
-      "updatedAt": "2026-08-10T02:34:19Z",
+      "updatedAt": "2026-08-11T02:11:24Z",
       "createdAt": "2019-08-30T07:16:58Z",
       "pushedAt": "2026-08-09T00:15:43Z",
-      "downloadCount": 755038,
+      "downloadCount": 756412,
       "openIssuesCount": 525,
       "archived": false,
       "latestReleaseDate": "2026-07-21T15:08:20Z",
-      "releaseRecency": 19,
-      "releaseRecencyText": "Released 19 days ago"
+      "releaseRecency": 20,
+      "releaseRecencyText": "Released 20 days ago"
     },
     {
       "id": 48299818,
@@ -365,8 +365,8 @@
       "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/kopia/kopia",
-      "stargazersCount": 13812,
-      "forksCount": 701,
+      "stargazersCount": 13826,
+      "forksCount": 702,
       "language": "Go",
       "topics": [
         "backup",
@@ -376,15 +376,15 @@
         "google-cloud-storage"
       ],
       "releasesUrl": "https://api.github.com/repos/kopia/kopia/releases{/id}",
-      "updatedAt": "2026-08-10T03:17:32Z",
+      "updatedAt": "2026-08-11T03:32:34Z",
       "createdAt": "2015-12-19T22:47:14Z",
-      "pushedAt": "2026-08-06T05:40:31Z",
-      "downloadCount": 8136690,
-      "openIssuesCount": 854,
+      "pushedAt": "2026-08-10T23:13:32Z",
+      "downloadCount": 8149014,
+      "openIssuesCount": 855,
       "archived": false,
       "latestReleaseDate": "2026-06-16T01:27:33Z",
-      "releaseRecency": 55,
-      "releaseRecencyText": "Released 55 days ago"
+      "releaseRecency": 56,
+      "releaseRecencyText": "Released 56 days ago"
     },
     {
       "id": 1076980,
@@ -397,8 +397,8 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "defaultBranch": "sources",
       "htmlUrl": "https://github.com/peazip/PeaZip",
-      "stargazersCount": 7733,
-      "forksCount": 396,
+      "stargazersCount": 7737,
+      "forksCount": 397,
       "language": "Pascal",
       "topics": [
         "archiver",
@@ -413,15 +413,15 @@
         "zstandard"
       ],
       "releasesUrl": "https://api.github.com/repos/peazip/PeaZip/releases{/id}",
-      "updatedAt": "2026-08-09T23:53:40Z",
+      "updatedAt": "2026-08-10T22:56:59Z",
       "createdAt": "2010-11-13T08:47:03Z",
       "pushedAt": "2026-07-27T14:51:24Z",
-      "downloadCount": 15365563,
+      "downloadCount": 15368594,
       "openIssuesCount": 17,
       "archived": false,
       "latestReleaseDate": "2026-05-11T08:33:50Z",
-      "releaseRecency": 90,
-      "releaseRecencyText": "Released 90 days ago"
+      "releaseRecency": 91,
+      "releaseRecencyText": "Released 91 days ago"
     },
     {
       "id": 55341469,
@@ -434,7 +434,7 @@
       "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/WalletWasabi/WalletWasabi",
-      "stargazersCount": 2597,
+      "stargazersCount": 2598,
       "forksCount": 562,
       "language": "C#",
       "topics": [
@@ -453,15 +453,15 @@
         "wasabi-wallet"
       ],
       "releasesUrl": "https://api.github.com/repos/WalletWasabi/WalletWasabi/releases{/id}",
-      "updatedAt": "2026-08-09T23:38:19Z",
+      "updatedAt": "2026-08-10T13:26:29Z",
       "createdAt": "2016-04-03T10:38:02Z",
-      "pushedAt": "2026-08-09T23:38:16Z",
-      "downloadCount": 9419173,
-      "openIssuesCount": 330,
+      "pushedAt": "2026-08-10T13:24:41Z",
+      "downloadCount": 9423761,
+      "openIssuesCount": 337,
       "archived": false,
       "latestReleaseDate": "2026-07-22T14:45:40Z",
-      "releaseRecency": 18,
-      "releaseRecencyText": "Released 18 days ago"
+      "releaseRecency": 19,
+      "releaseRecencyText": "Released 19 days ago"
     },
     {
       "id": 776190936,
@@ -491,12 +491,12 @@
       "updatedAt": "2026-08-09T15:10:00Z",
       "createdAt": "2024-03-22T21:37:46Z",
       "pushedAt": "2026-06-08T17:44:56Z",
-      "downloadCount": 12678,
+      "downloadCount": 12702,
       "openIssuesCount": 33,
       "archived": false,
       "latestReleaseDate": "2026-01-25T18:16:54Z",
-      "releaseRecency": 196,
-      "releaseRecencyText": "Released 196 days ago"
+      "releaseRecency": 197,
+      "releaseRecencyText": "Released 197 days ago"
     },
     {
       "id": 519859998,
@@ -509,8 +509,8 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
       "defaultBranch": "canary",
       "htmlUrl": "https://github.com/toeverything/AFFiNE",
-      "stargazersCount": 71369,
-      "forksCount": 5130,
+      "stargazersCount": 71403,
+      "forksCount": 5137,
       "language": "TypeScript",
       "topics": [
         "app",
@@ -533,15 +533,15 @@
         "workspace"
       ],
       "releasesUrl": "https://api.github.com/repos/toeverything/AFFiNE/releases{/id}",
-      "updatedAt": "2026-08-10T04:10:22Z",
+      "updatedAt": "2026-08-11T03:50:14Z",
       "createdAt": "2022-07-31T18:45:21Z",
-      "pushedAt": "2026-08-10T02:07:43Z",
-      "downloadCount": 7297270,
-      "openIssuesCount": 693,
+      "pushedAt": "2026-08-10T23:13:49Z",
+      "downloadCount": 7311741,
+      "openIssuesCount": 695,
       "archived": false,
       "latestReleaseDate": "2026-07-23T10:32:57Z",
-      "releaseRecency": 17,
-      "releaseRecencyText": "Released 17 days ago"
+      "releaseRecency": 18,
+      "releaseRecencyText": "Released 18 days ago"
     },
     {
       "id": 291438522,
@@ -554,8 +554,8 @@
       "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/siyuan-note/siyuan",
-      "stargazersCount": 45695,
-      "forksCount": 2941,
+      "stargazersCount": 45711,
+      "forksCount": 2942,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -579,15 +579,15 @@
         "wiki"
       ],
       "releasesUrl": "https://api.github.com/repos/siyuan-note/siyuan/releases{/id}",
-      "updatedAt": "2026-08-10T04:17:57Z",
+      "updatedAt": "2026-08-11T03:52:43Z",
       "createdAt": "2020-08-30T09:21:35Z",
-      "pushedAt": "2026-08-10T01:35:21Z",
-      "downloadCount": 2948497,
-      "openIssuesCount": 93,
+      "pushedAt": "2026-08-11T03:10:17Z",
+      "downloadCount": 2953139,
+      "openIssuesCount": 88,
       "archived": false,
       "latestReleaseDate": "2026-07-21T04:54:43Z",
-      "releaseRecency": 19,
-      "releaseRecencyText": "Released 19 days ago"
+      "releaseRecency": 20,
+      "releaseRecencyText": "Released 20 days ago"
     },
     {
       "id": 266231149,
@@ -600,8 +600,8 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/logseq/logseq",
-      "stargazersCount": 44369,
-      "forksCount": 2759,
+      "stargazersCount": 44383,
+      "forksCount": 2765,
       "language": "Clojure",
       "topics": [
         "clojure",
@@ -617,15 +617,15 @@
         "pkm"
       ],
       "releasesUrl": "https://api.github.com/repos/logseq/logseq/releases{/id}",
-      "updatedAt": "2026-08-10T04:03:12Z",
+      "updatedAt": "2026-08-11T01:03:41Z",
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-08-09T12:16:42Z",
-      "downloadCount": 84603408,
-      "openIssuesCount": 963,
+      "pushedAt": "2026-08-10T15:24:18Z",
+      "downloadCount": 84721929,
+      "openIssuesCount": 962,
       "archived": false,
       "latestReleaseDate": "2026-07-13T14:10:34Z",
-      "releaseRecency": 27,
-      "releaseRecencyText": "Released 27 days ago"
+      "releaseRecency": 28,
+      "releaseRecencyText": "Released 28 days ago"
     },
     {
       "id": 908589694,
@@ -638,8 +638,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Zackriya-Solutions/meetily",
-      "stargazersCount": 28756,
-      "forksCount": 3037,
+      "stargazersCount": 28872,
+      "forksCount": 3051,
       "language": "Rust",
       "topics": [
         "ai",
@@ -664,15 +664,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/Zackriya-Solutions/meetily/releases{/id}",
-      "updatedAt": "2026-08-10T03:57:31Z",
+      "updatedAt": "2026-08-11T03:44:44Z",
       "createdAt": "2024-12-26T12:52:14Z",
       "pushedAt": "2026-06-05T13:53:17Z",
-      "downloadCount": 431312,
-      "openIssuesCount": 338,
+      "downloadCount": 435904,
+      "openIssuesCount": 339,
       "archived": false,
       "latestReleaseDate": "2026-06-05T17:12:25Z",
-      "releaseRecency": 65,
-      "releaseRecencyText": "Released 65 days ago"
+      "releaseRecency": 66,
+      "releaseRecencyText": "Released 66 days ago"
     },
     {
       "id": 708266011,
@@ -685,8 +685,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/Automattic/harper",
-      "stargazersCount": 14309,
-      "forksCount": 555,
+      "stargazersCount": 14339,
+      "forksCount": 554,
       "language": "Rust",
       "topics": [
         "chrome-extension",
@@ -700,15 +700,15 @@
         "webassembly"
       ],
       "releasesUrl": "https://api.github.com/repos/Automattic/harper/releases{/id}",
-      "updatedAt": "2026-08-10T04:03:02Z",
+      "updatedAt": "2026-08-11T03:27:23Z",
       "createdAt": "2023-10-22T02:58:35Z",
-      "pushedAt": "2026-08-10T01:15:04Z",
-      "downloadCount": 280547,
-      "openIssuesCount": 731,
+      "pushedAt": "2026-08-10T20:11:14Z",
+      "downloadCount": 281260,
+      "openIssuesCount": 736,
       "archived": false,
       "latestReleaseDate": "2026-07-28T21:16:46Z",
-      "releaseRecency": 12,
-      "releaseRecencyText": "Released 12 days ago"
+      "releaseRecency": 13,
+      "releaseRecencyText": "Released 13 days ago"
     },
     {
       "id": 26376490,
@@ -721,7 +721,7 @@
       "description": "Disk encryption with strong security based on TrueCrypt",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/veracrypt/VeraCrypt",
-      "stargazersCount": 11194,
+      "stargazersCount": 11214,
       "forksCount": 1297,
       "language": "C",
       "topics": [
@@ -733,15 +733,15 @@
         "veracrypt-source"
       ],
       "releasesUrl": "https://api.github.com/repos/veracrypt/VeraCrypt/releases{/id}",
-      "updatedAt": "2026-08-10T01:46:41Z",
+      "updatedAt": "2026-08-11T04:01:06Z",
       "createdAt": "2014-11-08T22:12:36Z",
       "pushedAt": "2026-07-15T13:49:22Z",
-      "downloadCount": 444372,
+      "downloadCount": 445451,
       "openIssuesCount": 464,
       "archived": false,
       "latestReleaseDate": "2026-06-12T00:21:59Z",
-      "releaseRecency": 59,
-      "releaseRecencyText": "Released 59 days ago"
+      "releaseRecency": 60,
+      "releaseRecencyText": "Released 60 days ago"
     },
     {
       "id": 877230294,
@@ -754,8 +754,8 @@
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
-      "stargazersCount": 10853,
-      "forksCount": 769,
+      "stargazersCount": 10857,
+      "forksCount": 770,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -768,15 +768,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-08-10T03:16:12Z",
+      "updatedAt": "2026-08-11T00:14:07Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-08-03T14:17:57Z",
-      "downloadCount": 31450,
+      "downloadCount": 31526,
       "openIssuesCount": 408,
       "archived": false,
       "latestReleaseDate": "2026-06-20T08:30:09Z",
-      "releaseRecency": 50,
-      "releaseRecencyText": "Released 50 days ago"
+      "releaseRecency": 51,
+      "releaseRecencyText": "Released 51 days ago"
     },
     {
       "id": 1127001921,
@@ -789,20 +789,20 @@
       "description": "PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading them to a server.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/PDFCraftTool/pdfcraft",
-      "stargazersCount": 8198,
-      "forksCount": 1838,
+      "stargazersCount": 8208,
+      "forksCount": 1841,
       "language": "TypeScript",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/PDFCraftTool/pdfcraft/releases{/id}",
-      "updatedAt": "2026-08-10T02:34:56Z",
+      "updatedAt": "2026-08-11T03:17:15Z",
       "createdAt": "2026-01-03T01:14:49Z",
       "pushedAt": "2026-07-31T07:05:43Z",
-      "downloadCount": 18920,
+      "downloadCount": 19014,
       "openIssuesCount": 30,
       "archived": false,
       "latestReleaseDate": "2026-07-31T07:05:43Z",
-      "releaseRecency": 9,
-      "releaseRecencyText": "Released 9 days ago"
+      "releaseRecency": 10,
+      "releaseRecencyText": "Released 10 days ago"
     },
     {
       "id": 22344874,
@@ -815,7 +815,7 @@
       "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/tutao/tutanota",
-      "stargazersCount": 7839,
+      "stargazersCount": 7843,
       "forksCount": 633,
       "language": "TypeScript",
       "topics": [
@@ -828,15 +828,15 @@
         "tutanota"
       ],
       "releasesUrl": "https://api.github.com/repos/tutao/tutanota/releases{/id}",
-      "updatedAt": "2026-08-09T20:37:04Z",
+      "updatedAt": "2026-08-11T02:01:14Z",
       "createdAt": "2014-07-28T14:14:45Z",
-      "pushedAt": "2026-08-07T15:32:15Z",
-      "downloadCount": 984838,
+      "pushedAt": "2026-08-10T16:23:33Z",
+      "downloadCount": 986492,
       "openIssuesCount": 961,
       "archived": false,
       "latestReleaseDate": "2026-08-07T12:49:44Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 416151847,
@@ -849,7 +849,7 @@
       "description": "Cyber Security ALL-IN-ONE Platform",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/yaklang/yakit",
-      "stargazersCount": 7673,
+      "stargazersCount": 7675,
       "forksCount": 821,
       "language": "TypeScript",
       "topics": [
@@ -866,15 +866,15 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/yaklang/yakit/releases{/id}",
-      "updatedAt": "2026-08-10T03:48:05Z",
+      "updatedAt": "2026-08-11T02:58:28Z",
       "createdAt": "2021-10-12T02:15:42Z",
-      "pushedAt": "2026-08-10T04:08:35Z",
-      "downloadCount": 140348,
-      "openIssuesCount": 137,
+      "pushedAt": "2026-08-11T03:20:20Z",
+      "downloadCount": 140441,
+      "openIssuesCount": 142,
       "archived": false,
       "latestReleaseDate": "2026-08-07T10:17:35Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 119336293,
@@ -887,7 +887,7 @@
       "description": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.",
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/purocean/yn",
-      "stargazersCount": 6714,
+      "stargazersCount": 6717,
       "forksCount": 926,
       "language": "TypeScript",
       "topics": [
@@ -913,15 +913,15 @@
         "vue"
       ],
       "releasesUrl": "https://api.github.com/repos/purocean/yn/releases{/id}",
-      "updatedAt": "2026-08-10T02:34:35Z",
+      "updatedAt": "2026-08-10T19:37:43Z",
       "createdAt": "2018-01-29T05:30:00Z",
       "pushedAt": "2026-08-09T14:49:21Z",
-      "downloadCount": 553278,
+      "downloadCount": 553586,
       "openIssuesCount": 74,
       "archived": false,
       "latestReleaseDate": "2026-07-12T03:12:34Z",
-      "releaseRecency": 29,
-      "releaseRecencyText": "Released 29 days ago"
+      "releaseRecency": 30,
+      "releaseRecencyText": "Released 30 days ago"
     },
     {
       "id": 994252890,
@@ -934,7 +934,7 @@
       "description": "The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/11cafe/jaaz",
-      "stargazersCount": 6526,
+      "stargazersCount": 6529,
       "forksCount": 647,
       "language": "TypeScript",
       "topics": [
@@ -951,15 +951,15 @@
         "stable-diffusion"
       ],
       "releasesUrl": "https://api.github.com/repos/11cafe/jaaz/releases{/id}",
-      "updatedAt": "2026-08-09T19:06:41Z",
+      "updatedAt": "2026-08-11T03:42:10Z",
       "createdAt": "2025-06-01T14:53:08Z",
       "pushedAt": "2026-03-02T03:46:42Z",
-      "downloadCount": 45511,
+      "downloadCount": 45553,
       "openIssuesCount": 52,
       "archived": false,
       "latestReleaseDate": "2025-08-09T13:58:14Z",
-      "releaseRecency": 365,
-      "releaseRecencyText": "Released 365 days ago"
+      "releaseRecency": 366,
+      "releaseRecencyText": "Released 366 days ago"
     },
     {
       "id": 8411137,
@@ -972,7 +972,7 @@
       "description": "Privacy enhanced BitTorrent client with P2P content discovery",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Tribler/tribler",
-      "stargazersCount": 5291,
+      "stargazersCount": 5292,
       "forksCount": 472,
       "language": "Python",
       "topics": [
@@ -987,15 +987,15 @@
         "torrent-client"
       ],
       "releasesUrl": "https://api.github.com/repos/Tribler/tribler/releases{/id}",
-      "updatedAt": "2026-08-09T22:54:26Z",
+      "updatedAt": "2026-08-10T13:58:20Z",
       "createdAt": "2013-02-25T14:51:58Z",
       "pushedAt": "2026-07-17T14:23:13Z",
-      "downloadCount": 3122313,
-      "openIssuesCount": 98,
+      "downloadCount": 3123423,
+      "openIssuesCount": 99,
       "archived": false,
       "latestReleaseDate": "2026-06-18T09:19:22Z",
-      "releaseRecency": 52,
-      "releaseRecencyText": "Released 52 days ago"
+      "releaseRecency": 53,
+      "releaseRecencyText": "Released 53 days ago"
     },
     {
       "id": 646089579,
@@ -1008,8 +1008,8 @@
       "description": "Ad-blocker and privacy guard for Windows, macOS and Linux.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/irbis-sh/zen-desktop",
-      "stargazersCount": 4105,
-      "forksCount": 134,
+      "stargazersCount": 4110,
+      "forksCount": 135,
       "language": "Go",
       "topics": [
         "ad-block",
@@ -1025,15 +1025,15 @@
         "zen"
       ],
       "releasesUrl": "https://api.github.com/repos/irbis-sh/zen-desktop/releases{/id}",
-      "updatedAt": "2026-08-09T21:07:22Z",
+      "updatedAt": "2026-08-10T21:39:45Z",
       "createdAt": "2023-05-27T08:49:39Z",
-      "pushedAt": "2026-08-09T21:24:42Z",
-      "downloadCount": 271999,
-      "openIssuesCount": 15,
+      "pushedAt": "2026-08-10T21:39:38Z",
+      "downloadCount": 273570,
+      "openIssuesCount": 14,
       "archived": false,
       "latestReleaseDate": "2026-08-09T21:24:29Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 123909654,
@@ -1047,7 +1047,7 @@
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/rotki/rotki",
       "stargazersCount": 3969,
-      "forksCount": 748,
+      "forksCount": 749,
       "language": "Python",
       "topics": [
         "accounting",
@@ -1066,15 +1066,15 @@
         "tracking"
       ],
       "releasesUrl": "https://api.github.com/repos/rotki/rotki/releases{/id}",
-      "updatedAt": "2026-08-09T23:34:18Z",
+      "updatedAt": "2026-08-10T20:54:38Z",
       "createdAt": "2018-03-05T11:26:09Z",
-      "pushedAt": "2026-08-09T23:34:11Z",
-      "downloadCount": 462692,
-      "openIssuesCount": 430,
+      "pushedAt": "2026-08-10T20:53:50Z",
+      "downloadCount": 462818,
+      "openIssuesCount": 429,
       "archived": false,
       "latestReleaseDate": "2026-06-18T16:00:30Z",
-      "releaseRecency": 52,
-      "releaseRecencyText": "Released 52 days ago"
+      "releaseRecency": 53,
+      "releaseRecencyText": "Released 53 days ago"
     },
     {
       "id": 173961960,
@@ -1087,8 +1087,8 @@
       "description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/SharpAI/DeepCamera",
-      "stargazersCount": 2979,
-      "forksCount": 463,
+      "stargazersCount": 2981,
+      "forksCount": 464,
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -1113,15 +1113,15 @@
         "vlm"
       ],
       "releasesUrl": "https://api.github.com/repos/SharpAI/DeepCamera/releases{/id}",
-      "updatedAt": "2026-08-09T23:12:21Z",
+      "updatedAt": "2026-08-11T04:05:00Z",
       "createdAt": "2019-03-05T14:29:23Z",
       "pushedAt": "2026-06-18T04:37:54Z",
-      "downloadCount": 3184,
+      "downloadCount": 3191,
       "openIssuesCount": 12,
       "archived": false,
       "latestReleaseDate": "2026-03-14T00:43:09Z",
-      "releaseRecency": 149,
-      "releaseRecencyText": "Released 149 days ago"
+      "releaseRecency": 150,
+      "releaseRecencyText": "Released 150 days ago"
     },
     {
       "id": 854084975,
@@ -1134,7 +1134,7 @@
       "description": "Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/botswin/BotBrowser",
-      "stargazersCount": 2571,
+      "stargazersCount": 2572,
       "forksCount": 278,
       "language": "TypeScript",
       "topics": [
@@ -1156,15 +1156,15 @@
         "webdriver"
       ],
       "releasesUrl": "https://api.github.com/repos/botswin/BotBrowser/releases{/id}",
-      "updatedAt": "2026-08-10T00:52:58Z",
+      "updatedAt": "2026-08-11T01:44:43Z",
       "createdAt": "2024-09-08T11:24:03Z",
       "pushedAt": "2026-08-08T03:04:56Z",
-      "downloadCount": 25936,
-      "openIssuesCount": 4,
+      "downloadCount": 26046,
+      "openIssuesCount": 3,
       "archived": false,
       "latestReleaseDate": "2026-08-06T02:21:47Z",
-      "releaseRecency": 4,
-      "releaseRecencyText": "Released 4 days ago"
+      "releaseRecency": 5,
+      "releaseRecencyText": "Released 5 days ago"
     },
     {
       "id": 539497279,
@@ -1177,20 +1177,20 @@
       "description": "Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mullvad/mullvad-browser",
-      "stargazersCount": 2464,
+      "stargazersCount": 2468,
       "forksCount": 63,
       "language": "Shell",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/mullvad/mullvad-browser/releases{/id}",
-      "updatedAt": "2026-08-09T18:05:25Z",
+      "updatedAt": "2026-08-10T23:22:03Z",
       "createdAt": "2022-09-21T13:16:25Z",
       "pushedAt": "2026-07-23T09:12:57Z",
-      "downloadCount": 721317,
-      "openIssuesCount": 172,
+      "downloadCount": 722090,
+      "openIssuesCount": 173,
       "archived": false,
       "latestReleaseDate": "2026-07-24T08:40:41Z",
-      "releaseRecency": 16,
-      "releaseRecencyText": "Released 16 days ago"
+      "releaseRecency": 17,
+      "releaseRecencyText": "Released 17 days ago"
     },
     {
       "id": 1039062676,
@@ -1203,7 +1203,7 @@
       "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/iamsrikanthnani/pluely",
-      "stargazersCount": 2386,
+      "stargazersCount": 2389,
       "forksCount": 496,
       "language": "TypeScript",
       "topics": [
@@ -1228,15 +1228,15 @@
         "voice-activity-detection"
       ],
       "releasesUrl": "https://api.github.com/repos/iamsrikanthnani/pluely/releases{/id}",
-      "updatedAt": "2026-08-10T01:42:27Z",
+      "updatedAt": "2026-08-10T16:47:19Z",
       "createdAt": "2025-08-16T11:57:54Z",
       "pushedAt": "2026-07-14T17:47:19Z",
-      "downloadCount": 112097,
+      "downloadCount": 112333,
       "openIssuesCount": 13,
       "archived": false,
       "latestReleaseDate": "2026-07-14T17:47:19Z",
-      "releaseRecency": 26,
-      "releaseRecencyText": "Released 26 days ago"
+      "releaseRecency": 27,
+      "releaseRecencyText": "Released 27 days ago"
     },
     {
       "id": 744240245,
@@ -1261,8 +1261,8 @@
       "openIssuesCount": 41,
       "archived": false,
       "latestReleaseDate": "2024-09-03T20:18:05Z",
-      "releaseRecency": 705,
-      "releaseRecencyText": "Released 705 days ago"
+      "releaseRecency": 706,
+      "releaseRecencyText": "Released 706 days ago"
     },
     {
       "id": 1184996128,
@@ -1275,7 +1275,7 @@
       "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/silverstein/minutes",
-      "stargazersCount": 1416,
+      "stargazersCount": 1421,
       "forksCount": 146,
       "language": "Rust",
       "topics": [
@@ -1294,15 +1294,15 @@
         "whisper"
       ],
       "releasesUrl": "https://api.github.com/repos/silverstein/minutes/releases{/id}",
-      "updatedAt": "2026-08-10T03:19:56Z",
+      "updatedAt": "2026-08-11T03:27:19Z",
       "createdAt": "2026-03-18T06:11:04Z",
-      "pushedAt": "2026-08-10T03:02:51Z",
-      "downloadCount": 76248,
-      "openIssuesCount": 46,
+      "pushedAt": "2026-08-11T03:49:29Z",
+      "downloadCount": 77116,
+      "openIssuesCount": 44,
       "archived": false,
       "latestReleaseDate": "2026-07-27T20:37:24Z",
-      "releaseRecency": 13,
-      "releaseRecencyText": "Released 13 days ago"
+      "releaseRecency": 14,
+      "releaseRecencyText": "Released 14 days ago"
     },
     {
       "id": 1111053300,
@@ -1315,7 +1315,7 @@
       "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/yuzeguitarist/Deck",
-      "stargazersCount": 1381,
+      "stargazersCount": 1384,
       "forksCount": 48,
       "language": "Swift",
       "topics": [
@@ -1337,15 +1337,15 @@
         "swiftui"
       ],
       "releasesUrl": "https://api.github.com/repos/yuzeguitarist/Deck/releases{/id}",
-      "updatedAt": "2026-08-09T15:44:17Z",
+      "updatedAt": "2026-08-11T01:12:05Z",
       "createdAt": "2025-12-06T07:06:53Z",
       "pushedAt": "2026-05-09T11:59:50Z",
-      "downloadCount": 14849,
+      "downloadCount": 14897,
       "openIssuesCount": 24,
       "archived": false,
       "latestReleaseDate": "2026-05-09T11:59:42Z",
-      "releaseRecency": 92,
-      "releaseRecencyText": "Released 92 days ago"
+      "releaseRecency": 93,
+      "releaseRecencyText": "Released 93 days ago"
     },
     {
       "id": 152491432,
@@ -1379,15 +1379,15 @@
         "wireguard"
       ],
       "releasesUrl": "https://api.github.com/repos/partout-io/passepartout/releases{/id}",
-      "updatedAt": "2026-08-09T17:46:10Z",
+      "updatedAt": "2026-08-10T13:51:15Z",
       "createdAt": "2018-10-10T21:20:52Z",
-      "pushedAt": "2026-08-09T16:13:17Z",
-      "downloadCount": 45077,
+      "pushedAt": "2026-08-10T13:49:32Z",
+      "downloadCount": 45386,
       "openIssuesCount": 140,
       "archived": false,
       "latestReleaseDate": "2026-08-09T14:46:13Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 1040968879,
@@ -1400,7 +1400,7 @@
       "description": "Steno is the highly secure privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. For government and defence sectors.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/stenolabs/stenoai",
-      "stargazersCount": 1264,
+      "stargazersCount": 1265,
       "forksCount": 166,
       "language": "TypeScript",
       "topics": [
@@ -1424,15 +1424,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/stenolabs/stenoai/releases{/id}",
-      "updatedAt": "2026-08-09T16:16:41Z",
+      "updatedAt": "2026-08-10T17:53:23Z",
       "createdAt": "2025-08-19T19:26:28Z",
-      "pushedAt": "2026-08-08T22:01:02Z",
-      "downloadCount": 153375,
-      "openIssuesCount": 48,
+      "pushedAt": "2026-08-10T17:52:13Z",
+      "downloadCount": 156301,
+      "openIssuesCount": 47,
       "archived": false,
       "latestReleaseDate": "2026-08-03T23:17:22Z",
-      "releaseRecency": 6,
-      "releaseRecencyText": "Released 6 days ago"
+      "releaseRecency": 7,
+      "releaseRecencyText": "Released 7 days ago"
     },
     {
       "id": 1172914445,
@@ -1445,8 +1445,8 @@
       "description": "Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/berbicanes/apiark",
-      "stargazersCount": 1261,
-      "forksCount": 75,
+      "stargazersCount": 1260,
+      "forksCount": 76,
       "language": "TypeScript",
       "topics": [
         "api-client",
@@ -1457,15 +1457,15 @@
         "typescript"
       ],
       "releasesUrl": "https://api.github.com/repos/berbicanes/apiark/releases{/id}",
-      "updatedAt": "2026-08-07T13:07:29Z",
+      "updatedAt": "2026-08-10T14:27:04Z",
       "createdAt": "2026-03-04T20:27:53Z",
       "pushedAt": "2026-03-26T08:56:32Z",
-      "downloadCount": 22210,
+      "downloadCount": 22352,
       "openIssuesCount": 65,
       "archived": false,
       "latestReleaseDate": "2026-03-25T07:45:37Z",
-      "releaseRecency": 137,
-      "releaseRecencyText": "Released 137 days ago"
+      "releaseRecency": 138,
+      "releaseRecencyText": "Released 138 days ago"
     },
     {
       "id": 669468498,
@@ -1504,15 +1504,15 @@
         "tauri-app"
       ],
       "releasesUrl": "https://api.github.com/repos/geek-fun/dockit/releases{/id}",
-      "updatedAt": "2026-08-09T09:53:44Z",
+      "updatedAt": "2026-08-11T03:07:39Z",
       "createdAt": "2023-07-22T11:30:02Z",
-      "pushedAt": "2026-08-07T16:38:43Z",
-      "downloadCount": 14412,
+      "pushedAt": "2026-08-11T03:44:39Z",
+      "downloadCount": 14502,
       "openIssuesCount": 8,
       "archived": false,
-      "latestReleaseDate": "2026-08-04T11:44:00Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "latestReleaseDate": "2026-08-11T03:44:39Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 949433844,
@@ -1543,12 +1543,12 @@
       "updatedAt": "2026-08-07T16:23:39Z",
       "createdAt": "2025-03-16T13:06:59Z",
       "pushedAt": "2026-05-30T12:23:49Z",
-      "downloadCount": 675330,
+      "downloadCount": 676704,
       "openIssuesCount": 58,
       "archived": false,
       "latestReleaseDate": "2026-04-15T12:31:18Z",
-      "releaseRecency": 116,
-      "releaseRecencyText": "Released 116 days ago"
+      "releaseRecency": 117,
+      "releaseRecencyText": "Released 117 days ago"
     },
     {
       "id": 616501839,
@@ -1561,7 +1561,7 @@
       "description": ":shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Milkshiift/GoofCord",
-      "stargazersCount": 979,
+      "stargazersCount": 980,
       "forksCount": 27,
       "language": "TypeScript",
       "topics": [
@@ -1583,15 +1583,15 @@
         "vencord"
       ],
       "releasesUrl": "https://api.github.com/repos/Milkshiift/GoofCord/releases{/id}",
-      "updatedAt": "2026-08-08T23:45:56Z",
+      "updatedAt": "2026-08-10T12:44:18Z",
       "createdAt": "2023-03-20T14:08:20Z",
       "pushedAt": "2026-07-21T08:13:07Z",
-      "downloadCount": 120316,
+      "downloadCount": 120493,
       "openIssuesCount": 28,
       "archived": false,
       "latestReleaseDate": "2026-07-21T08:13:07Z",
-      "releaseRecency": 19,
-      "releaseRecencyText": "Released 19 days ago"
+      "releaseRecency": 20,
+      "releaseRecencyText": "Released 20 days ago"
     },
     {
       "id": 1113287126,
@@ -1605,19 +1605,19 @@
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tetherto/pearpass-app-desktop",
       "stargazersCount": 526,
-      "forksCount": 65,
+      "forksCount": 66,
       "language": "TypeScript",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/tetherto/pearpass-app-desktop/releases{/id}",
       "updatedAt": "2026-08-08T19:36:16Z",
       "createdAt": "2025-12-09T19:12:39Z",
       "pushedAt": "2026-06-18T10:22:37Z",
-      "downloadCount": 3887,
+      "downloadCount": 3895,
       "openIssuesCount": 28,
       "archived": false,
       "latestReleaseDate": "2026-05-20T14:17:04Z",
-      "releaseRecency": 81,
-      "releaseRecencyText": "Released 81 days ago"
+      "releaseRecency": 82,
+      "releaseRecencyText": "Released 82 days ago"
     },
     {
       "id": 200452183,
@@ -1647,12 +1647,12 @@
       "updatedAt": "2026-08-08T23:00:49Z",
       "createdAt": "2019-08-04T05:06:57Z",
       "pushedAt": "2026-03-01T10:43:32Z",
-      "downloadCount": 6050,
+      "downloadCount": 6061,
       "openIssuesCount": 20,
       "archived": false,
       "latestReleaseDate": "2026-02-25T04:34:29Z",
-      "releaseRecency": 165,
-      "releaseRecencyText": "Released 165 days ago"
+      "releaseRecency": 166,
+      "releaseRecencyText": "Released 166 days ago"
     },
     {
       "id": 1033965075,
@@ -1665,20 +1665,20 @@
       "description": "A very small, very simple, yet very secure encryption tool.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Picocrypt-NG/Picocrypt-NG",
-      "stargazersCount": 419,
+      "stargazersCount": 421,
       "forksCount": 21,
       "language": "Go",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/Picocrypt-NG/Picocrypt-NG/releases{/id}",
-      "updatedAt": "2026-08-09T10:55:48Z",
+      "updatedAt": "2026-08-10T22:36:24Z",
       "createdAt": "2025-08-07T16:11:35Z",
-      "pushedAt": "2026-08-05T13:49:20Z",
-      "downloadCount": 17597,
-      "openIssuesCount": 6,
+      "pushedAt": "2026-08-10T13:45:24Z",
+      "downloadCount": 17673,
+      "openIssuesCount": 7,
       "archived": false,
       "latestReleaseDate": "2026-06-28T13:08:09Z",
-      "releaseRecency": 42,
-      "releaseRecencyText": "Released 42 days ago"
+      "releaseRecency": 43,
+      "releaseRecencyText": "Released 43 days ago"
     },
     {
       "id": 67684772,
@@ -1703,15 +1703,15 @@
         "sharing-data"
       ],
       "releasesUrl": "https://api.github.com/repos/Scille/parsec-cloud/releases{/id}",
-      "updatedAt": "2026-08-07T17:33:34Z",
+      "updatedAt": "2026-08-10T12:57:23Z",
       "createdAt": "2016-09-08T08:38:02Z",
-      "pushedAt": "2026-08-10T02:33:02Z",
-      "downloadCount": 108676,
-      "openIssuesCount": 715,
+      "pushedAt": "2026-08-10T23:10:15Z",
+      "downloadCount": 108936,
+      "openIssuesCount": 711,
       "archived": false,
       "latestReleaseDate": "2026-07-24T12:05:01Z",
-      "releaseRecency": 16,
-      "releaseRecencyText": "Released 16 days ago"
+      "releaseRecency": 17,
+      "releaseRecencyText": "Released 17 days ago"
     },
     {
       "id": 1157592286,
@@ -1737,13 +1737,13 @@
       "releasesUrl": "https://api.github.com/repos/fjrevoredo/mini-diarium/releases{/id}",
       "updatedAt": "2026-08-08T22:45:45Z",
       "createdAt": "2026-02-14T02:22:58Z",
-      "pushedAt": "2026-08-09T00:21:21Z",
-      "downloadCount": 6806,
-      "openIssuesCount": 10,
+      "pushedAt": "2026-08-10T22:05:17Z",
+      "downloadCount": 6886,
+      "openIssuesCount": 11,
       "archived": false,
       "latestReleaseDate": "2026-08-08T13:45:11Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     }
   ]
 }
