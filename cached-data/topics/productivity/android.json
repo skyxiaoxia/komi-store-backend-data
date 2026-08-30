@@ -1,41 +1,9 @@
 {
   "category": "topics/productivity",
   "platform": "android",
-  "lastUpdated": "2026-08-29T08:44:30.336835Z",
-  "totalCount": 21,
+  "lastUpdated": "2026-08-30T08:01:10.844261Z",
+  "totalCount": 18,
   "repositories": [
-    {
-      "id": 857694796,
-      "name": "Prism-File-Explorer",
-      "fullName": "Raival-e/Prism-File-Explorer",
-      "owner": {
-        "login": "Raival-e",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81700082?v=4"
-      },
-      "description": "A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.",
-      "defaultBranch": "master",
-      "htmlUrl": "https://github.com/Raival-e/Prism-File-Explorer",
-      "stargazersCount": 1356,
-      "forksCount": 84,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "fileexplorer",
-        "jetpack-compose",
-        "kotlin",
-        "material-ui"
-      ],
-      "releasesUrl": "https://api.github.com/repos/Raival-e/Prism-File-Explorer/releases{/id}",
-      "updatedAt": "2026-08-29T04:14:58Z",
-      "createdAt": "2024-09-15T11:08:12Z",
-      "pushedAt": "2026-05-28T18:20:57Z",
-      "downloadCount": 46835,
-      "openIssuesCount": 85,
-      "archived": false,
-      "latestReleaseDate": "2025-09-12T13:45:11Z",
-      "releaseRecency": 350,
-      "releaseRecencyText": "Released 350 days ago"
-    },
     {
       "id": 135088590,
       "name": "MaterialFiles",
@@ -47,8 +15,8 @@
       "description": "Material Design file manager for Android",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/zhanghai/MaterialFiles",
-      "stargazersCount": 8823,
-      "forksCount": 715,
+      "stargazersCount": 8826,
+      "forksCount": 718,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -59,15 +27,15 @@
         "material-design"
       ],
       "releasesUrl": "https://api.github.com/repos/zhanghai/MaterialFiles/releases{/id}",
-      "updatedAt": "2026-08-29T06:28:38Z",
+      "updatedAt": "2026-08-29T18:58:39Z",
       "createdAt": "2018-05-27T23:22:03Z",
       "pushedAt": "2026-04-06T02:43:10Z",
-      "downloadCount": 238317,
-      "openIssuesCount": 627,
+      "downloadCount": 238675,
+      "openIssuesCount": 628,
       "archived": false,
       "latestReleaseDate": "2024-06-30T05:17:48Z",
-      "releaseRecency": 790,
-      "releaseRecencyText": "Released 790 days ago"
+      "releaseRecency": 791,
+      "releaseRecencyText": "Released 791 days ago"
     },
     {
       "id": 491202920,
@@ -80,7 +48,7 @@
       "description": "All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/mhss1/MyBrain",
-      "stargazersCount": 2196,
+      "stargazersCount": 2197,
       "forksCount": 191,
       "language": "Kotlin",
       "topics": [
@@ -103,15 +71,15 @@
         "ux"
       ],
       "releasesUrl": "https://api.github.com/repos/mhss1/MyBrain/releases{/id}",
-      "updatedAt": "2026-08-28T06:54:08Z",
+      "updatedAt": "2026-08-29T19:57:59Z",
       "createdAt": "2022-05-11T17:06:31Z",
       "pushedAt": "2026-08-20T17:00:00Z",
-      "downloadCount": 18145,
+      "downloadCount": 18166,
       "openIssuesCount": 92,
       "archived": false,
       "latestReleaseDate": "2026-08-20T17:00:00Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "releaseRecency": 9,
+      "releaseRecencyText": "Released 9 days ago"
     },
     {
       "id": 21833183,
@@ -124,7 +92,7 @@
       "description": "Material design file manager for Android",
       "defaultBranch": "release/4.0",
       "htmlUrl": "https://github.com/TeamAmaze/AmazeFileManager",
-      "stargazersCount": 6358,
+      "stargazersCount": 6360,
       "forksCount": 1687,
       "language": "Kotlin",
       "topics": [
@@ -141,15 +109,15 @@
         "rxjava"
       ],
       "releasesUrl": "https://api.github.com/repos/TeamAmaze/AmazeFileManager/releases{/id}",
-      "updatedAt": "2026-08-29T06:28:26Z",
+      "updatedAt": "2026-08-30T04:05:30Z",
       "createdAt": "2014-07-14T19:47:53Z",
       "pushedAt": "2026-08-26T07:33:19Z",
-      "downloadCount": 345086,
+      "downloadCount": 345310,
       "openIssuesCount": 637,
       "archived": false,
       "latestReleaseDate": "2026-07-30T06:04:09Z",
-      "releaseRecency": 30,
-      "releaseRecencyText": "Released 30 days ago"
+      "releaseRecency": 31,
+      "releaseRecencyText": "Released 31 days ago"
     },
     {
       "id": 669697660,
@@ -162,8 +130,8 @@
       "description": "A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/AChep/keyguard-app",
-      "stargazersCount": 3210,
-      "forksCount": 104,
+      "stargazersCount": 3209,
+      "forksCount": 105,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -175,15 +143,15 @@
         "multiplatform"
       ],
       "releasesUrl": "https://api.github.com/repos/AChep/keyguard-app/releases{/id}",
-      "updatedAt": "2026-08-29T07:36:08Z",
+      "updatedAt": "2026-08-29T09:09:39Z",
       "createdAt": "2023-07-23T06:12:36Z",
       "pushedAt": "2026-08-28T08:53:35Z",
-      "downloadCount": 179149,
-      "openIssuesCount": 188,
+      "downloadCount": 179384,
+      "openIssuesCount": 189,
       "archived": false,
       "latestReleaseDate": "2026-08-19T15:24:33Z",
-      "releaseRecency": 9,
-      "releaseRecencyText": "Released 9 days ago"
+      "releaseRecency": 10,
+      "releaseRecencyText": "Released 10 days ago"
     },
     {
       "id": 80837945,
@@ -214,12 +182,12 @@
       "updatedAt": "2026-08-19T13:23:42Z",
       "createdAt": "2017-02-03T14:48:34Z",
       "pushedAt": "2026-01-29T17:52:32Z",
-      "downloadCount": 10535,
+      "downloadCount": 10536,
       "openIssuesCount": 517,
       "archived": false,
       "latestReleaseDate": "2026-01-29T18:22:04Z",
-      "releaseRecency": 211,
-      "releaseRecencyText": "Released 211 days ago"
+      "releaseRecency": 212,
+      "releaseRecencyText": "Released 212 days ago"
     },
     {
       "id": 262751629,
@@ -246,12 +214,12 @@
       "updatedAt": "2026-08-27T12:21:43Z",
       "createdAt": "2020-05-10T09:22:25Z",
       "pushedAt": "2026-05-21T08:00:59Z",
-      "downloadCount": 26896,
+      "downloadCount": 26910,
       "openIssuesCount": 12,
       "archived": false,
       "latestReleaseDate": "2026-05-16T15:17:57Z",
-      "releaseRecency": 104,
-      "releaseRecencyText": "Released 104 days ago"
+      "releaseRecency": 105,
+      "releaseRecencyText": "Released 105 days ago"
     },
     {
       "id": 496918131,
@@ -264,8 +232,8 @@
       "description": "Easy app for managing your files without ads, respecting your privacy & security",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/File-Manager",
-      "stargazersCount": 1731,
-      "forksCount": 121,
+      "stargazersCount": 1732,
+      "forksCount": 122,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -275,15 +243,15 @@
         "open-source"
       ],
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/File-Manager/releases{/id}",
-      "updatedAt": "2026-08-29T06:28:49Z",
+      "updatedAt": "2026-08-29T20:16:35Z",
       "createdAt": "2022-05-27T08:26:08Z",
       "pushedAt": "2026-08-24T13:05:45Z",
-      "downloadCount": 88121,
+      "downloadCount": 88243,
       "openIssuesCount": 98,
       "archived": false,
       "latestReleaseDate": "2026-02-17T02:35:26Z",
-      "releaseRecency": 193,
-      "releaseRecencyText": "Released 193 days ago"
+      "releaseRecency": 194,
+      "releaseRecencyText": "Released 194 days ago"
     },
     {
       "id": 107244490,
@@ -296,31 +264,36 @@
       "description": "Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/Kunzisoft/KeePassDX",
-      "stargazersCount": 7190,
-      "forksCount": 399,
+      "stargazersCount": 7198,
+      "forksCount": 401,
       "language": "Kotlin",
       "topics": [
         "android",
         "android-application",
+        "autofill",
+        "credential-manager",
         "fingerprint",
         "keepass",
         "keepass-dx",
         "keepassdx",
         "material",
         "material-design",
+        "passkey",
+        "passkeys",
         "password-manager",
+        "prf",
         "vault"
       ],
       "releasesUrl": "https://api.github.com/repos/Kunzisoft/KeePassDX/releases{/id}",
-      "updatedAt": "2026-08-29T06:40:52Z",
+      "updatedAt": "2026-08-30T06:00:34Z",
       "createdAt": "2017-10-17T09:08:57Z",
-      "pushedAt": "2026-08-29T08:56:36Z",
-      "downloadCount": 339436,
-      "openIssuesCount": 556,
+      "pushedAt": "2026-08-29T21:53:51Z",
+      "downloadCount": 345022,
+      "openIssuesCount": 522,
       "archived": false,
-      "latestReleaseDate": "2026-06-15T15:57:38Z",
-      "releaseRecency": 74,
-      "releaseRecencyText": "Released 74 days ago"
+      "latestReleaseDate": "2026-08-29T21:59:42Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 516598834,
@@ -333,7 +306,7 @@
       "description": "The cross-platform open-source app built for handwriting",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/saber-notes/saber",
-      "stargazersCount": 4737,
+      "stargazersCount": 4741,
       "forksCount": 355,
       "language": "Dart",
       "topics": [
@@ -353,15 +326,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/saber-notes/saber/releases{/id}",
-      "updatedAt": "2026-08-29T03:10:19Z",
+      "updatedAt": "2026-08-30T05:34:24Z",
       "createdAt": "2022-07-22T03:39:01Z",
-      "pushedAt": "2026-08-27T01:47:46Z",
-      "downloadCount": 143608,
-      "openIssuesCount": 396,
+      "pushedAt": "2026-08-30T01:06:52Z",
+      "downloadCount": 144001,
+      "openIssuesCount": 388,
       "archived": false,
-      "latestReleaseDate": "2026-08-20T15:00:22Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "latestReleaseDate": "2026-08-30T00:50:48Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 282034661,
@@ -374,7 +347,7 @@
       "description": "An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/newhinton/Round-Sync",
-      "stargazersCount": 2335,
+      "stargazersCount": 2337,
       "forksCount": 127,
       "language": "Java",
       "topics": [
@@ -389,15 +362,15 @@
         "synchronization"
       ],
       "releasesUrl": "https://api.github.com/repos/newhinton/Round-Sync/releases{/id}",
-      "updatedAt": "2026-08-29T07:35:31Z",
+      "updatedAt": "2026-08-29T22:43:01Z",
       "createdAt": "2020-07-23T19:09:48Z",
       "pushedAt": "2025-11-16T12:31:49Z",
-      "downloadCount": 56124,
+      "downloadCount": 56209,
       "openIssuesCount": 193,
       "archived": false,
       "latestReleaseDate": "2024-09-10T10:40:00Z",
-      "releaseRecency": 717,
-      "releaseRecencyText": "Released 717 days ago"
+      "releaseRecency": 718,
+      "releaseRecencyText": "Released 718 days ago"
     },
     {
       "id": 323279421,
@@ -410,8 +383,8 @@
       "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/LinwoodDev/Butterfly",
-      "stargazersCount": 1986,
-      "forksCount": 146,
+      "stargazersCount": 1987,
+      "forksCount": 147,
       "language": "Dart",
       "topics": [
         "android",
@@ -435,15 +408,15 @@
         "writing"
       ],
       "releasesUrl": "https://api.github.com/repos/LinwoodDev/Butterfly/releases{/id}",
-      "updatedAt": "2026-08-28T02:09:55Z",
+      "updatedAt": "2026-08-29T22:35:38Z",
       "createdAt": "2020-12-21T08:47:28Z",
-      "pushedAt": "2026-08-27T19:04:03Z",
-      "downloadCount": 181355,
-      "openIssuesCount": 45,
+      "pushedAt": "2026-08-29T22:39:22Z",
+      "downloadCount": 181699,
+      "openIssuesCount": 43,
       "archived": false,
       "latestReleaseDate": "2026-08-10T12:27:46Z",
-      "releaseRecency": 18,
-      "releaseRecencyText": "Released 18 days ago"
+      "releaseRecency": 19,
+      "releaseRecencyText": "Released 19 days ago"
     },
     {
       "id": 101451042,
@@ -456,7 +429,7 @@
       "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/gsantner/markor",
-      "stargazersCount": 6043,
+      "stargazersCount": 6046,
       "forksCount": 531,
       "language": "Java",
       "topics": [
@@ -482,56 +455,15 @@
         "zim-wiki"
       ],
       "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
-      "updatedAt": "2026-08-29T08:32:47Z",
+      "updatedAt": "2026-08-30T05:08:51Z",
       "createdAt": "2017-08-26T00:08:35Z",
       "pushedAt": "2026-08-25T04:20:27Z",
-      "downloadCount": 137293,
+      "downloadCount": 137509,
       "openIssuesCount": 187,
       "archived": false,
       "latestReleaseDate": "2026-03-19T08:27:29Z",
       "releaseRecency": 163,
       "releaseRecencyText": "Released 163 days ago"
-    },
-    {
-      "id": 529395099,
-      "name": "quillpad",
-      "fullName": "quillpad/quillpad",
-      "owner": {
-        "login": "quillpad",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/118094128?v=4"
-      },
-      "description": "Take beautiful markdown notes and stay organized with task lists.",
-      "defaultBranch": "master",
-      "htmlUrl": "https://github.com/quillpad/quillpad",
-      "stargazersCount": 1366,
-      "forksCount": 120,
-      "language": "Kotlin",
-      "topics": [
-        "evernote",
-        "google-keep",
-        "joplin",
-        "keep",
-        "knowledge-management",
-        "markdown",
-        "nextcloud-notes",
-        "note-taking",
-        "notepad",
-        "notes",
-        "notes-app",
-        "privacy",
-        "tasks",
-        "todo-list"
-      ],
-      "releasesUrl": "https://api.github.com/repos/quillpad/quillpad/releases{/id}",
-      "updatedAt": "2026-08-29T06:31:06Z",
-      "createdAt": "2022-08-26T20:23:44Z",
-      "pushedAt": "2026-08-25T03:41:51Z",
-      "downloadCount": 48129,
-      "openIssuesCount": 296,
-      "archived": false,
-      "latestReleaseDate": "2026-08-25T14:51:19Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 78243781,
@@ -544,8 +476,8 @@
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/super-productivity/super-productivity",
-      "stargazersCount": 21651,
-      "forksCount": 1993,
+      "stargazersCount": 21660,
+      "forksCount": 1994,
       "language": "TypeScript",
       "topics": [
         "android",
@@ -570,13 +502,13 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/super-productivity/super-productivity/releases{/id}",
-      "updatedAt": "2026-08-29T08:21:06Z",
+      "updatedAt": "2026-08-30T06:58:46Z",
       "createdAt": "2017-01-06T22:30:58Z",
-      "pushedAt": "2026-08-29T08:42:35Z",
-      "downloadCount": 1532718,
-      "openIssuesCount": 1451,
+      "pushedAt": "2026-08-30T08:22:12Z",
+      "downloadCount": 1535641,
+      "openIssuesCount": 1438,
       "archived": false,
-      "latestReleaseDate": "2026-08-28T17:25:36Z",
+      "latestReleaseDate": "2026-08-29T09:10:25Z",
       "releaseRecency": 0,
       "releaseRecencyText": "Released today"
     },
@@ -591,7 +523,7 @@
       "description": "AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/codedogQBY/ReadAny",
-      "stargazersCount": 2279,
+      "stargazersCount": 2283,
       "forksCount": 178,
       "language": "TypeScript",
       "topics": [
@@ -617,15 +549,15 @@
         "vector-search"
       ],
       "releasesUrl": "https://api.github.com/repos/codedogQBY/ReadAny/releases{/id}",
-      "updatedAt": "2026-08-29T03:24:01Z",
+      "updatedAt": "2026-08-29T18:14:43Z",
       "createdAt": "2026-02-25T16:59:27Z",
       "pushedAt": "2026-08-25T14:45:59Z",
-      "downloadCount": 58724,
-      "openIssuesCount": 316,
+      "downloadCount": 59162,
+      "openIssuesCount": 322,
       "archived": false,
       "latestReleaseDate": "2026-08-16T07:35:40Z",
-      "releaseRecency": 13,
-      "releaseRecencyText": "Released 13 days ago"
+      "releaseRecency": 14,
+      "releaseRecencyText": "Released 14 days ago"
     },
     {
       "id": 165047811,
@@ -657,38 +589,12 @@
       "updatedAt": "2026-08-28T03:56:36Z",
       "createdAt": "2019-01-10T11:27:18Z",
       "pushedAt": "2026-05-26T13:49:39Z",
-      "downloadCount": 5430,
+      "downloadCount": 5431,
       "openIssuesCount": 132,
       "archived": false,
       "latestReleaseDate": "2021-09-15T14:11:31Z",
-      "releaseRecency": 1808,
-      "releaseRecencyText": "Released 1808 days ago"
-    },
-    {
-      "id": 933052538,
-      "name": "SpeedyNote",
-      "fullName": "alpha-liu-01/SpeedyNote",
-      "owner": {
-        "login": "alpha-liu-01",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/116528196?v=4"
-      },
-      "description": "A simple note app with good performance and PDF import support",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/alpha-liu-01/SpeedyNote",
-      "stargazersCount": 1556,
-      "forksCount": 82,
-      "language": "C++",
-      "topics": [],
-      "releasesUrl": "https://api.github.com/repos/alpha-liu-01/SpeedyNote/releases{/id}",
-      "updatedAt": "2026-08-29T00:51:19Z",
-      "createdAt": "2025-02-15T03:17:58Z",
-      "pushedAt": "2026-08-28T16:57:26Z",
-      "downloadCount": 7921,
-      "openIssuesCount": 11,
-      "archived": false,
-      "latestReleaseDate": "2026-08-28T16:57:26Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1809,
+      "releaseRecencyText": "Released 1809 days ago"
     },
     {
       "id": 353775942,
@@ -701,7 +607,7 @@
       "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/streetwriters/notesnook",
-      "stargazersCount": 14480,
+      "stargazersCount": 14483,
       "forksCount": 991,
       "language": "TypeScript",
       "topics": [
@@ -726,15 +632,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/streetwriters/notesnook/releases{/id}",
-      "updatedAt": "2026-08-29T05:18:16Z",
+      "updatedAt": "2026-08-30T07:59:34Z",
       "createdAt": "2021-04-01T17:25:54Z",
       "pushedAt": "2026-08-29T07:55:09Z",
-      "downloadCount": 7919763,
-      "openIssuesCount": 985,
+      "downloadCount": 7928501,
+      "openIssuesCount": 986,
       "archived": false,
       "latestReleaseDate": "2026-08-25T04:06:00Z",
-      "releaseRecency": 4,
-      "releaseRecencyText": "Released 4 days ago"
+      "releaseRecency": 5,
+      "releaseRecencyText": "Released 5 days ago"
     },
     {
       "id": 838659679,
@@ -747,7 +653,7 @@
       "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/codexu/note-gen",
-      "stargazersCount": 12700,
+      "stargazersCount": 12701,
       "forksCount": 960,
       "language": "TypeScript",
       "topics": [
@@ -769,15 +675,15 @@
         "webdav"
       ],
       "releasesUrl": "https://api.github.com/repos/codexu/note-gen/releases{/id}",
-      "updatedAt": "2026-08-29T07:42:14Z",
+      "updatedAt": "2026-08-30T08:00:50Z",
       "createdAt": "2024-08-06T05:20:16Z",
       "pushedAt": "2026-08-27T23:18:20Z",
-      "downloadCount": 209408,
-      "openIssuesCount": 111,
+      "downloadCount": 209737,
+      "openIssuesCount": 121,
       "archived": false,
       "latestReleaseDate": "2026-08-26T13:58:22Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 877230294,
@@ -790,7 +696,7 @@
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
-      "stargazersCount": 10959,
+      "stargazersCount": 10960,
       "forksCount": 777,
       "language": "TypeScript",
       "topics": [
@@ -804,10 +710,10 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-08-29T07:14:31Z",
+      "updatedAt": "2026-08-30T05:05:22Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-08-27T05:11:11Z",
-      "downloadCount": 32107,
+      "downloadCount": 32133,
       "openIssuesCount": 414,
       "archived": false,
       "latestReleaseDate": "2026-06-20T08:30:09Z",
