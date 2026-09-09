@@ -1,7 +1,7 @@
 {
   "category": "topics/privacy",
   "platform": "android",
-  "lastUpdated": "2026-09-08T07:01:23.227757Z",
+  "lastUpdated": "2026-09-09T07:10:39.078517Z",
   "totalCount": 6,
   "repositories": [
     {
@@ -15,8 +15,8 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/florisboard/florisboard",
-      "stargazersCount": 8635,
-      "forksCount": 729,
+      "stargazersCount": 8637,
+      "forksCount": 730,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -26,15 +26,15 @@
         "kotlin-android"
       ],
       "releasesUrl": "https://api.github.com/repos/florisboard/florisboard/releases{/id}",
-      "updatedAt": "2026-09-07T19:56:48Z",
+      "updatedAt": "2026-09-08T17:40:10Z",
       "createdAt": "2020-04-08T21:18:23Z",
-      "pushedAt": "2026-09-07T16:04:28Z",
-      "downloadCount": 273012,
-      "openIssuesCount": 484,
+      "pushedAt": "2026-09-08T16:04:39Z",
+      "downloadCount": 273203,
+      "openIssuesCount": 485,
       "archived": false,
       "latestReleaseDate": "2025-11-28T15:17:55Z",
-      "releaseRecency": 283,
-      "releaseRecencyText": "Released 283 days ago"
+      "releaseRecency": 284,
+      "releaseRecencyText": "Released 284 days ago"
     },
     {
       "id": 987110251,
@@ -47,20 +47,20 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/PixelPlayerHQ/PixelPlayer",
-      "stargazersCount": 6374,
-      "forksCount": 508,
+      "stargazersCount": 6391,
+      "forksCount": 509,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/PixelPlayerHQ/PixelPlayer/releases{/id}",
-      "updatedAt": "2026-09-08T06:47:33Z",
+      "updatedAt": "2026-09-09T07:20:37Z",
       "createdAt": "2025-05-20T15:33:18Z",
       "pushedAt": "2026-08-31T07:22:34Z",
-      "downloadCount": 375039,
+      "downloadCount": 375855,
       "openIssuesCount": 563,
       "archived": false,
       "latestReleaseDate": "2026-06-13T21:44:52Z",
-      "releaseRecency": 86,
-      "releaseRecencyText": "Released 86 days ago"
+      "releaseRecency": 87,
+      "releaseRecencyText": "Released 87 days ago"
     },
     {
       "id": 257841809,
@@ -73,20 +73,20 @@
       "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/uazo/cromite",
-      "stargazersCount": 8161,
+      "stargazersCount": 8162,
       "forksCount": 292,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/uazo/cromite/releases{/id}",
-      "updatedAt": "2026-09-07T23:52:59Z",
+      "updatedAt": "2026-09-09T06:46:52Z",
       "createdAt": "2020-04-22T08:38:25Z",
-      "pushedAt": "2026-09-07T07:51:42Z",
-      "downloadCount": 3805976,
+      "pushedAt": "2026-09-09T06:11:38Z",
+      "downloadCount": 3810682,
       "openIssuesCount": 551,
       "archived": false,
       "latestReleaseDate": "2026-05-21T16:26:34Z",
-      "releaseRecency": 109,
-      "releaseRecencyText": "Released 109 days ago"
+      "releaseRecency": 110,
+      "releaseRecencyText": "Released 110 days ago"
     },
     {
       "id": 291438522,
@@ -99,8 +99,8 @@
       "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/siyuan-note/siyuan",
-      "stargazersCount": 46231,
-      "forksCount": 2987,
+      "stargazersCount": 46238,
+      "forksCount": 2988,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -114,15 +114,15 @@
         "siyuan"
       ],
       "releasesUrl": "https://api.github.com/repos/siyuan-note/siyuan/releases{/id}",
-      "updatedAt": "2026-09-08T06:19:13Z",
+      "updatedAt": "2026-09-09T06:49:51Z",
       "createdAt": "2020-08-30T09:21:35Z",
-      "pushedAt": "2026-09-08T05:46:45Z",
-      "downloadCount": 3141329,
-      "openIssuesCount": 25,
+      "pushedAt": "2026-09-09T07:29:41Z",
+      "downloadCount": 3148753,
+      "openIssuesCount": 23,
       "archived": false,
       "latestReleaseDate": "2026-09-07T04:11:09Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 266231149,
@@ -135,7 +135,7 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/logseq/logseq",
-      "stargazersCount": 44820,
+      "stargazersCount": 44835,
       "forksCount": 2802,
       "language": "Clojure",
       "topics": [
@@ -152,15 +152,15 @@
         "pkm"
       ],
       "releasesUrl": "https://api.github.com/repos/logseq/logseq/releases{/id}",
-      "updatedAt": "2026-09-08T05:42:12Z",
+      "updatedAt": "2026-09-09T04:54:21Z",
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-09-08T07:06:47Z",
-      "downloadCount": 88080711,
-      "openIssuesCount": 951,
+      "pushedAt": "2026-09-08T16:47:15Z",
+      "downloadCount": 88208869,
+      "openIssuesCount": 944,
       "archived": false,
       "latestReleaseDate": "2026-07-13T14:10:34Z",
-      "releaseRecency": 56,
-      "releaseRecencyText": "Released 56 days ago"
+      "releaseRecency": 57,
+      "releaseRecencyText": "Released 57 days ago"
     },
     {
       "id": 877230294,
@@ -173,8 +173,8 @@
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
-      "stargazersCount": 10996,
-      "forksCount": 780,
+      "stargazersCount": 10998,
+      "forksCount": 778,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -187,15 +187,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-09-08T03:48:43Z",
+      "updatedAt": "2026-09-09T07:33:21Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-08-27T05:11:11Z",
-      "downloadCount": 32608,
-      "openIssuesCount": 415,
+      "downloadCount": 32668,
+      "openIssuesCount": 416,
       "archived": false,
       "latestReleaseDate": "2026-06-20T08:30:09Z",
-      "releaseRecency": 79,
-      "releaseRecencyText": "Released 79 days ago"
+      "releaseRecency": 80,
+      "releaseRecencyText": "Released 80 days ago"
     }
   ]
 }
