@@ -1,7 +1,7 @@
 {
   "category": "topics/networking",
   "platform": "android",
-  "lastUpdated": "2026-09-15T07:23:47.896716Z",
+  "lastUpdated": "2026-09-16T07:23:38.831189Z",
   "totalCount": 19,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/wgtunnel/android",
-      "stargazersCount": 3167,
+      "stargazersCount": 3169,
       "forksCount": 188,
       "language": "Kotlin",
       "topics": [
@@ -35,15 +35,15 @@
         "wireguard-vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
-      "updatedAt": "2026-09-15T04:48:01Z",
+      "updatedAt": "2026-09-15T18:37:53Z",
       "createdAt": "2023-05-24T05:14:12Z",
       "pushedAt": "2026-09-14T13:06:58Z",
-      "downloadCount": 285371,
-      "openIssuesCount": 122,
+      "downloadCount": 286119,
+      "openIssuesCount": 123,
       "archived": false,
       "latestReleaseDate": "2026-09-08T00:06:27Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     },
     {
       "id": 1190701977,
@@ -56,7 +56,7 @@
       "description": "Android-форк популярного приложения Flowseal - tg-ws-proxy - локальный прокси-сервер MTProto с проксированием CF или без для частичного обхода проблем загрузки Telegram",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/amurcanov/tg-ws-proxy-android",
-      "stargazersCount": 2285,
+      "stargazersCount": 2287,
       "forksCount": 63,
       "language": "Kotlin",
       "topics": [
@@ -78,15 +78,15 @@
         "websocket"
       ],
       "releasesUrl": "https://api.github.com/repos/amurcanov/tg-ws-proxy-android/releases{/id}",
-      "updatedAt": "2026-09-14T22:03:29Z",
+      "updatedAt": "2026-09-16T06:00:08Z",
       "createdAt": "2026-03-24T14:37:14Z",
       "pushedAt": "2026-07-17T10:12:31Z",
-      "downloadCount": 583785,
+      "downloadCount": 586663,
       "openIssuesCount": 74,
       "archived": false,
       "latestReleaseDate": "2026-06-17T11:09:34Z",
-      "releaseRecency": 89,
-      "releaseRecencyText": "Released 89 days ago"
+      "releaseRecency": 90,
+      "releaseRecencyText": "Released 90 days ago"
     },
     {
       "id": 609535399,
@@ -99,8 +99,8 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-      "stargazersCount": 22743,
-      "forksCount": 1860,
+      "stargazersCount": 22754,
+      "forksCount": 1861,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -113,15 +113,15 @@
         "vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/MatsuriDayo/NekoBoxForAndroid/releases{/id}",
-      "updatedAt": "2026-09-15T06:00:43Z",
+      "updatedAt": "2026-09-16T07:32:22Z",
       "createdAt": "2023-03-04T13:26:16Z",
       "pushedAt": "2026-02-09T03:54:59Z",
-      "downloadCount": 4239024,
+      "downloadCount": 4242145,
       "openIssuesCount": 177,
       "archived": false,
       "latestReleaseDate": "2026-02-09T03:55:00Z",
-      "releaseRecency": 218,
-      "releaseRecencyText": "Released 218 days ago"
+      "releaseRecency": 219,
+      "releaseRecencyText": "Released 219 days ago"
     },
     {
       "id": 270683546,
@@ -134,7 +134,7 @@
       "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/celzero/rethink-app",
-      "stargazersCount": 5419,
+      "stargazersCount": 5424,
       "forksCount": 331,
       "language": "Kotlin",
       "topics": [
@@ -156,15 +156,15 @@
         "wireguard"
       ],
       "releasesUrl": "https://api.github.com/repos/celzero/rethink-app/releases{/id}",
-      "updatedAt": "2026-09-15T06:47:55Z",
+      "updatedAt": "2026-09-16T01:34:50Z",
       "createdAt": "2020-06-08T13:41:18Z",
-      "pushedAt": "2026-09-13T06:06:56Z",
-      "downloadCount": 231006,
-      "openIssuesCount": 635,
+      "pushedAt": "2026-09-15T22:29:55Z",
+      "downloadCount": 231565,
+      "openIssuesCount": 636,
       "archived": false,
       "latestReleaseDate": "2026-08-09T15:46:17Z",
-      "releaseRecency": 36,
-      "releaseRecencyText": "Released 36 days ago"
+      "releaseRecency": 37,
+      "releaseRecencyText": "Released 37 days ago"
     },
     {
       "id": 678716433,
@@ -177,8 +177,8 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/chen08209/FlClash",
-      "stargazersCount": 52206,
-      "forksCount": 3288,
+      "stargazersCount": 52338,
+      "forksCount": 3289,
       "language": "Dart",
       "topics": [
         "clash",
@@ -192,15 +192,15 @@
         "vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/chen08209/FlClash/releases{/id}",
-      "updatedAt": "2026-09-15T07:46:30Z",
+      "updatedAt": "2026-09-16T07:49:09Z",
       "createdAt": "2023-08-15T07:47:22Z",
       "pushedAt": "2026-09-14T02:45:42Z",
-      "downloadCount": 15038608,
-      "openIssuesCount": 371,
+      "downloadCount": 15106633,
+      "openIssuesCount": 372,
       "archived": false,
       "latestReleaseDate": "2026-09-14T03:20:30Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 643504282,
@@ -213,8 +213,8 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/hiddify/hiddify-app",
-      "stargazersCount": 32727,
-      "forksCount": 3022,
+      "stargazersCount": 32740,
+      "forksCount": 3026,
       "language": "Dart",
       "topics": [
         "clash",
@@ -237,15 +237,15 @@
         "xray"
       ],
       "releasesUrl": "https://api.github.com/repos/hiddify/hiddify-app/releases{/id}",
-      "updatedAt": "2026-09-15T06:29:17Z",
+      "updatedAt": "2026-09-16T06:17:54Z",
       "createdAt": "2023-05-21T11:30:14Z",
       "pushedAt": "2026-08-10T17:43:24Z",
-      "downloadCount": 23199786,
+      "downloadCount": 23219542,
       "openIssuesCount": 30,
       "archived": false,
       "latestReleaseDate": "2026-03-05T17:22:57Z",
-      "releaseRecency": 193,
-      "releaseRecencyText": "Released 193 days ago"
+      "releaseRecency": 194,
+      "releaseRecencyText": "Released 194 days ago"
     },
     {
       "id": 71009741,
@@ -258,20 +258,20 @@
       "description": "AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的\"Fiddler\" \\(^o^)/~",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/JZ-Darkal/AndroidHttpCapture",
-      "stargazersCount": 4604,
+      "stargazersCount": 4606,
       "forksCount": 859,
       "language": "Java",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/JZ-Darkal/AndroidHttpCapture/releases{/id}",
-      "updatedAt": "2026-09-08T12:28:51Z",
+      "updatedAt": "2026-09-16T06:29:36Z",
       "createdAt": "2016-10-15T19:48:00Z",
       "pushedAt": "2026-05-07T15:24:24Z",
-      "downloadCount": 10866,
+      "downloadCount": 10871,
       "openIssuesCount": 42,
       "archived": false,
       "latestReleaseDate": "2017-06-02T07:19:36Z",
-      "releaseRecency": 3392,
-      "releaseRecencyText": "Released 3392 days ago"
+      "releaseRecency": 3393,
+      "releaseRecencyText": "Released 3393 days ago"
     },
     {
       "id": 3280827,
@@ -284,20 +284,20 @@
       "description": "Global Proxy for Android",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/madeye/proxydroid",
-      "stargazersCount": 2550,
+      "stargazersCount": 2553,
       "forksCount": 746,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/madeye/proxydroid/releases{/id}",
-      "updatedAt": "2026-09-15T05:52:10Z",
+      "updatedAt": "2026-09-16T06:43:41Z",
       "createdAt": "2012-01-27T07:20:07Z",
       "pushedAt": "2026-05-12T06:40:47Z",
-      "downloadCount": 12724,
+      "downloadCount": 12764,
       "openIssuesCount": 5,
       "archived": false,
       "latestReleaseDate": "2026-02-06T02:02:26Z",
-      "releaseRecency": 221,
-      "releaseRecencyText": "Released 221 days ago"
+      "releaseRecency": 222,
+      "releaseRecencyText": "Released 222 days ago"
     },
     {
       "id": 5057173,
@@ -310,8 +310,8 @@
       "description": "AdAway is a free and open source ad blocker for Android. ",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/AdAway/AdAway",
-      "stargazersCount": 9404,
-      "forksCount": 717,
+      "stargazersCount": 9407,
+      "forksCount": 718,
       "language": "C",
       "topics": [
         "ad-blocker",
@@ -321,15 +321,15 @@
         "vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/AdAway/AdAway/releases{/id}",
-      "updatedAt": "2026-09-15T06:43:09Z",
+      "updatedAt": "2026-09-16T05:06:31Z",
       "createdAt": "2012-07-15T15:34:47Z",
       "pushedAt": "2026-09-13T08:48:56Z",
-      "downloadCount": 2685765,
-      "openIssuesCount": 672,
+      "downloadCount": 2686407,
+      "openIssuesCount": 673,
       "archived": false,
       "latestReleaseDate": "2024-10-27T14:19:54Z",
-      "releaseRecency": 687,
-      "releaseRecencyText": "Released 687 days ago"
+      "releaseRecency": 688,
+      "releaseRecencyText": "Released 688 days ago"
     },
     {
       "id": 377236919,
@@ -342,20 +342,20 @@
       "description": "Proxy client",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/ExclaveNetwork/Exclave",
-      "stargazersCount": 2787,
-      "forksCount": 166,
+      "stargazersCount": 2788,
+      "forksCount": 167,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/ExclaveNetwork/Exclave/releases{/id}",
-      "updatedAt": "2026-09-15T04:48:16Z",
+      "updatedAt": "2026-09-16T05:02:33Z",
       "createdAt": "2021-06-15T17:04:29Z",
-      "pushedAt": "2026-09-14T10:14:13Z",
-      "downloadCount": 626979,
-      "openIssuesCount": 8,
+      "pushedAt": "2026-09-16T05:02:26Z",
+      "downloadCount": 627523,
+      "openIssuesCount": 9,
       "archived": false,
       "latestReleaseDate": "2026-09-06T18:54:29Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "releaseRecency": 9,
+      "releaseRecencyText": "Released 9 days ago"
     },
     {
       "id": 561890229,
@@ -390,12 +390,12 @@
       "updatedAt": "2026-09-14T08:48:03Z",
       "createdAt": "2022-11-04T18:17:34Z",
       "pushedAt": "2025-10-21T12:08:48Z",
-      "downloadCount": 120584,
+      "downloadCount": 120650,
       "openIssuesCount": 85,
       "archived": false,
       "latestReleaseDate": "2025-09-05T12:45:22Z",
-      "releaseRecency": 374,
-      "releaseRecencyText": "Released 374 days ago"
+      "releaseRecency": 375,
+      "releaseRecencyText": "Released 375 days ago"
     },
     {
       "id": 1217102150,
@@ -408,8 +408,8 @@
       "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
-      "stargazersCount": 3582,
-      "forksCount": 539,
+      "stargazersCount": 3584,
+      "forksCount": 540,
       "language": "Rust",
       "topics": [
         "anti-censorship",
@@ -431,15 +431,15 @@
         "tls"
       ],
       "releasesUrl": "https://api.github.com/repos/therealaleph/MasterHttpRelayVPN-RUST/releases{/id}",
-      "updatedAt": "2026-09-15T06:22:23Z",
+      "updatedAt": "2026-09-16T02:28:34Z",
       "createdAt": "2026-04-21T14:46:31Z",
       "pushedAt": "2026-09-01T18:37:20Z",
-      "downloadCount": 3637289,
+      "downloadCount": 3637354,
       "openIssuesCount": 187,
       "archived": false,
       "latestReleaseDate": "2026-09-01T18:35:52Z",
-      "releaseRecency": 13,
-      "releaseRecencyText": "Released 13 days ago"
+      "releaseRecency": 14,
+      "releaseRecencyText": "Released 14 days ago"
     },
     {
       "id": 714929749,
@@ -452,20 +452,20 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/KaringX/karing",
-      "stargazersCount": 14888,
-      "forksCount": 1245,
+      "stargazersCount": 14898,
+      "forksCount": 1249,
       "language": "Dart",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/KaringX/karing/releases{/id}",
-      "updatedAt": "2026-09-15T07:32:37Z",
+      "updatedAt": "2026-09-16T07:04:44Z",
       "createdAt": "2023-11-06T06:16:18Z",
-      "pushedAt": "2026-09-10T02:20:38Z",
-      "downloadCount": 6345891,
-      "openIssuesCount": 56,
+      "pushedAt": "2026-09-16T01:31:57Z",
+      "downloadCount": 6395990,
+      "openIssuesCount": 52,
       "archived": false,
       "latestReleaseDate": "2026-09-10T02:20:39Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "releaseRecency": 6,
+      "releaseRecencyText": "Released 6 days ago"
     },
     {
       "id": 649662864,
@@ -478,8 +478,8 @@
       "description": "Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wanghongenpin/proxypin",
-      "stargazersCount": 13947,
-      "forksCount": 1203,
+      "stargazersCount": 13951,
+      "forksCount": 1206,
       "language": "Dart",
       "topics": [
         "capture-traffic",
@@ -490,15 +490,15 @@
         "zhuabao"
       ],
       "releasesUrl": "https://api.github.com/repos/wanghongenpin/proxypin/releases{/id}",
-      "updatedAt": "2026-09-15T07:38:24Z",
+      "updatedAt": "2026-09-16T07:29:38Z",
       "createdAt": "2023-06-05T11:16:00Z",
       "pushedAt": "2026-09-10T09:32:57Z",
-      "downloadCount": 210310,
-      "openIssuesCount": 100,
+      "downloadCount": 210625,
+      "openIssuesCount": 98,
       "archived": false,
       "latestReleaseDate": "2026-07-29T20:30:50Z",
-      "releaseRecency": 47,
-      "releaseRecencyText": "Released 47 days ago"
+      "releaseRecency": 48,
+      "releaseRecencyText": "Released 48 days ago"
     },
     {
       "id": 257841809,
@@ -511,20 +511,20 @@
       "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/uazo/cromite",
-      "stargazersCount": 8205,
+      "stargazersCount": 8220,
       "forksCount": 297,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/uazo/cromite/releases{/id}",
-      "updatedAt": "2026-09-15T02:31:33Z",
+      "updatedAt": "2026-09-16T06:59:38Z",
       "createdAt": "2020-04-22T08:38:25Z",
-      "pushedAt": "2026-09-15T06:08:41Z",
-      "downloadCount": 3829231,
-      "openIssuesCount": 561,
+      "pushedAt": "2026-09-16T05:56:30Z",
+      "downloadCount": 3844676,
+      "openIssuesCount": 536,
       "archived": false,
-      "latestReleaseDate": "2026-05-21T16:26:34Z",
-      "releaseRecency": 116,
-      "releaseRecencyText": "Released 116 days ago"
+      "latestReleaseDate": "2026-09-15T11:51:14Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 509091576,
@@ -537,20 +537,20 @@
       "description": "The universal proxy platform",
       "defaultBranch": "testing",
       "htmlUrl": "https://github.com/SagerNet/sing-box",
-      "stargazersCount": 38007,
-      "forksCount": 4588,
+      "stargazersCount": 38053,
+      "forksCount": 4594,
       "language": "Go",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/SagerNet/sing-box/releases{/id}",
-      "updatedAt": "2026-09-15T06:46:16Z",
+      "updatedAt": "2026-09-16T07:35:28Z",
       "createdAt": "2022-06-30T13:27:22Z",
-      "pushedAt": "2026-09-15T00:06:47Z",
-      "downloadCount": 25065177,
-      "openIssuesCount": 336,
+      "pushedAt": "2026-09-16T06:50:13Z",
+      "downloadCount": 25175427,
+      "openIssuesCount": 338,
       "archived": false,
       "latestReleaseDate": "2026-09-15T00:06:50Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 29290473,
@@ -563,8 +563,8 @@
       "description": "A proxy tool to bypass GFW.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/XX-net/XX-Net",
-      "stargazersCount": 33450,
-      "forksCount": 7518,
+      "stargazersCount": 33449,
+      "forksCount": 7517,
       "language": "Python",
       "topics": [
         "gfw",
@@ -574,15 +574,15 @@
         "vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/XX-net/XX-Net/releases{/id}",
-      "updatedAt": "2026-09-14T22:58:45Z",
+      "updatedAt": "2026-09-16T07:09:33Z",
       "createdAt": "2015-01-15T09:35:51Z",
       "pushedAt": "2026-06-21T23:53:56Z",
-      "downloadCount": 1457072,
-      "openIssuesCount": 7922,
+      "downloadCount": 1457172,
+      "openIssuesCount": 7923,
       "archived": false,
       "latestReleaseDate": "2025-08-26T00:53:05Z",
-      "releaseRecency": 385,
-      "releaseRecencyText": "Released 385 days ago"
+      "releaseRecency": 386,
+      "releaseRecencyText": "Released 386 days ago"
     },
     {
       "id": 130578889,
@@ -595,7 +595,7 @@
       "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/pymumu/smartdns",
-      "stargazersCount": 11308,
+      "stargazersCount": 11311,
       "forksCount": 1246,
       "language": "C",
       "topics": [
@@ -617,15 +617,15 @@
         "stubby"
       ],
       "releasesUrl": "https://api.github.com/repos/pymumu/smartdns/releases{/id}",
-      "updatedAt": "2026-09-15T06:08:02Z",
+      "updatedAt": "2026-09-16T04:53:59Z",
       "createdAt": "2018-04-22T15:09:47Z",
       "pushedAt": "2026-08-30T18:28:15Z",
-      "downloadCount": 559939,
+      "downloadCount": 560234,
       "openIssuesCount": 318,
       "archived": false,
       "latestReleaseDate": "2026-08-05T09:20:21Z",
-      "releaseRecency": 40,
-      "releaseRecencyText": "Released 40 days ago"
+      "releaseRecency": 41,
+      "releaseRecencyText": "Released 41 days ago"
     },
     {
       "id": 466781739,
@@ -638,20 +638,20 @@
       "description": "A simple powerful OpenWrt LuCI proxy application.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Openwrt-Passwall/openwrt-passwall2",
-      "stargazersCount": 3579,
+      "stargazersCount": 3587,
       "forksCount": 746,
       "language": "Lua",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/Openwrt-Passwall/openwrt-passwall2/releases{/id}",
-      "updatedAt": "2026-09-15T04:13:54Z",
+      "updatedAt": "2026-09-16T07:32:37Z",
       "createdAt": "2022-03-06T15:46:22Z",
-      "pushedAt": "2026-09-15T04:13:46Z",
-      "downloadCount": 532513,
-      "openIssuesCount": 18,
+      "pushedAt": "2026-09-15T17:35:10Z",
+      "downloadCount": 533866,
+      "openIssuesCount": 20,
       "archived": false,
       "latestReleaseDate": "2026-09-13T01:36:10Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     }
   ]
 }
