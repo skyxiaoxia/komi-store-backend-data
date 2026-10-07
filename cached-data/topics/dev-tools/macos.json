@@ -1,8 +1,8 @@
 {
   "category": "topics/dev-tools",
   "platform": "macos",
-  "lastUpdated": "2026-10-06T08:42:32.405671Z",
-  "totalCount": 56,
+  "lastUpdated": "2026-10-07T08:17:09.795516Z",
+  "totalCount": 57,
   "repositories": [
     {
       "id": 973688295,
@@ -15,7 +15,7 @@
       "description": "Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/domcyrus/rustnet",
-      "stargazersCount": 5095,
+      "stargazersCount": 5102,
       "forksCount": 239,
       "language": "Rust",
       "topics": [
@@ -40,15 +40,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/domcyrus/rustnet/releases{/id}",
-      "updatedAt": "2026-10-06T07:31:18Z",
+      "updatedAt": "2026-10-07T08:03:55Z",
       "createdAt": "2025-04-27T14:29:47Z",
-      "pushedAt": "2026-10-06T08:54:59Z",
-      "downloadCount": 28236,
-      "openIssuesCount": 31,
+      "pushedAt": "2026-10-06T19:38:28Z",
+      "downloadCount": 28790,
+      "openIssuesCount": 30,
       "archived": false,
-      "latestReleaseDate": "2026-08-20T19:21:44Z",
-      "releaseRecency": 46,
-      "releaseRecencyText": "Released 46 days ago"
+      "latestReleaseDate": "2026-10-06T18:40:17Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 213328483,
@@ -75,12 +75,12 @@
       "updatedAt": "2026-10-02T02:04:58Z",
       "createdAt": "2019-10-07T08:14:11Z",
       "pushedAt": "2026-05-10T12:59:53Z",
-      "downloadCount": 19334,
+      "downloadCount": 19340,
       "openIssuesCount": 17,
       "archived": false,
       "latestReleaseDate": "2024-10-06T15:30:24Z",
-      "releaseRecency": 729,
-      "releaseRecencyText": "Released 729 days ago"
+      "releaseRecency": 730,
+      "releaseRecencyText": "Released 730 days ago"
     },
     {
       "id": 214978063,
@@ -114,12 +114,12 @@
       "updatedAt": "2026-10-03T14:27:12Z",
       "createdAt": "2019-10-14T07:35:58Z",
       "pushedAt": "2026-10-01T01:25:07Z",
-      "downloadCount": 31767,
+      "downloadCount": 31789,
       "openIssuesCount": 19,
       "archived": false,
       "latestReleaseDate": "2026-10-01T01:24:37Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "releaseRecency": 6,
+      "releaseRecencyText": "Released 6 days ago"
     },
     {
       "id": 1004406667,
@@ -132,7 +132,7 @@
       "description": "An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/lakernote/easy-postman",
-      "stargazersCount": 720,
+      "stargazersCount": 721,
       "forksCount": 61,
       "language": "Java",
       "topics": [
@@ -146,15 +146,15 @@
         "tools"
       ],
       "releasesUrl": "https://api.github.com/repos/lakernote/easy-postman/releases{/id}",
-      "updatedAt": "2026-10-06T04:14:39Z",
+      "updatedAt": "2026-10-06T20:44:39Z",
       "createdAt": "2025-06-18T15:17:27Z",
-      "pushedAt": "2026-10-06T06:18:26Z",
-      "downloadCount": 17158,
+      "pushedAt": "2026-10-07T05:56:59Z",
+      "downloadCount": 17174,
       "openIssuesCount": 12,
       "archived": false,
-      "latestReleaseDate": "2026-09-29T07:13:22Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "latestReleaseDate": "2026-10-07T04:49:17Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 106087444,
@@ -167,8 +167,8 @@
       "description": "📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/electerm/electerm",
-      "stargazersCount": 15275,
-      "forksCount": 1229,
+      "stargazersCount": 15284,
+      "forksCount": 1231,
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -193,15 +193,15 @@
         "zmodem"
       ],
       "releasesUrl": "https://api.github.com/repos/electerm/electerm/releases{/id}",
-      "updatedAt": "2026-10-06T07:55:48Z",
+      "updatedAt": "2026-10-07T07:37:26Z",
       "createdAt": "2017-10-07T09:54:11Z",
-      "pushedAt": "2026-10-06T01:00:39Z",
-      "downloadCount": 3022388,
+      "pushedAt": "2026-10-07T01:48:19Z",
+      "downloadCount": 3026626,
       "openIssuesCount": 340,
       "archived": false,
       "latestReleaseDate": "2026-10-03T02:16:48Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "releaseRecency": 4,
+      "releaseRecencyText": "Released 4 days ago"
     },
     {
       "id": 1131194319,
@@ -214,20 +214,20 @@
       "description": "A git client based on the IntelliJ platform",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/DetachHead/rebased",
-      "stargazersCount": 5796,
+      "stargazersCount": 5808,
       "forksCount": 231,
       "language": "Java",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/DetachHead/rebased/releases{/id}",
-      "updatedAt": "2026-10-05T21:33:19Z",
+      "updatedAt": "2026-10-07T06:59:54Z",
       "createdAt": "2026-01-09T16:06:43Z",
-      "pushedAt": "2026-10-05T04:20:19Z",
-      "downloadCount": 66836,
-      "openIssuesCount": 45,
+      "pushedAt": "2026-10-06T12:22:56Z",
+      "downloadCount": 67268,
+      "openIssuesCount": 44,
       "archived": false,
-      "latestReleaseDate": "2026-09-27T01:51:25Z",
-      "releaseRecency": 9,
-      "releaseRecencyText": "Released 9 days ago"
+      "latestReleaseDate": "2026-10-06T23:15:05Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 911000471,
@@ -241,19 +241,19 @@
       "defaultBranch": "2.x",
       "htmlUrl": "https://github.com/TermoraDev/termora",
       "stargazersCount": 3831,
-      "forksCount": 232,
+      "forksCount": 233,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/TermoraDev/termora/releases{/id}",
       "updatedAt": "2026-10-05T03:20:20Z",
       "createdAt": "2025-01-02T02:41:09Z",
       "pushedAt": "2026-09-29T07:03:31Z",
-      "downloadCount": 161193,
+      "downloadCount": 161402,
       "openIssuesCount": 200,
       "archived": false,
       "latestReleaseDate": "2025-06-17T01:57:28Z",
-      "releaseRecency": 476,
-      "releaseRecencyText": "Released 476 days ago"
+      "releaseRecency": 477,
+      "releaseRecencyText": "Released 477 days ago"
     },
     {
       "id": 675901913,
@@ -285,12 +285,12 @@
       "updatedAt": "2026-09-28T13:17:47Z",
       "createdAt": "2023-08-08T02:05:35Z",
       "pushedAt": "2026-09-22T13:16:57Z",
-      "downloadCount": 3619,
+      "downloadCount": 3625,
       "openIssuesCount": 368,
       "archived": false,
       "latestReleaseDate": "2025-06-06T09:58:33Z",
-      "releaseRecency": 486,
-      "releaseRecencyText": "Released 486 days ago"
+      "releaseRecency": 487,
+      "releaseRecencyText": "Released 487 days ago"
     },
     {
       "id": 51980455,
@@ -303,7 +303,7 @@
       "description": "A cross-platform, OpenGL terminal emulator.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/alacritty/alacritty",
-      "stargazersCount": 65894,
+      "stargazersCount": 65898,
       "forksCount": 3629,
       "language": "Rust",
       "topics": [
@@ -319,15 +319,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/alacritty/alacritty/releases{/id}",
-      "updatedAt": "2026-10-06T08:41:23Z",
+      "updatedAt": "2026-10-07T07:24:55Z",
       "createdAt": "2016-02-18T05:02:30Z",
       "pushedAt": "2026-10-05T12:48:27Z",
-      "downloadCount": 2906856,
+      "downloadCount": 2908685,
       "openIssuesCount": 340,
       "archived": false,
       "latestReleaseDate": "2026-04-06T19:24:18Z",
-      "releaseRecency": 182,
-      "releaseRecencyText": "Released 182 days ago"
+      "releaseRecency": 183,
+      "releaseRecencyText": "Released 183 days ago"
     },
     {
       "id": 56899284,
@@ -340,7 +340,7 @@
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/Kong/insomnia",
-      "stargazersCount": 40034,
+      "stargazersCount": 40032,
       "forksCount": 2381,
       "language": "TypeScript",
       "topics": [
@@ -356,15 +356,15 @@
         "websockets"
       ],
       "releasesUrl": "https://api.github.com/repos/Kong/insomnia/releases{/id}",
-      "updatedAt": "2026-10-06T07:43:01Z",
+      "updatedAt": "2026-10-06T20:28:27Z",
       "createdAt": "2016-04-23T03:54:26Z",
-      "pushedAt": "2026-10-03T00:22:26Z",
-      "downloadCount": 140457129,
+      "pushedAt": "2026-10-07T01:30:13Z",
+      "downloadCount": 140525586,
       "openIssuesCount": 905,
       "archived": false,
       "latestReleaseDate": "2026-09-23T11:04:33Z",
-      "releaseRecency": 12,
-      "releaseRecencyText": "Released 12 days ago"
+      "releaseRecency": 13,
+      "releaseRecencyText": "Released 13 days ago"
     },
     {
       "id": 71056775,
@@ -377,8 +377,8 @@
       "description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/kovidgoyal/kitty",
-      "stargazersCount": 35179,
-      "forksCount": 1545,
+      "stargazersCount": 35185,
+      "forksCount": 1547,
       "language": "Python",
       "topics": [
         "c",
@@ -395,15 +395,15 @@
         "vt100"
       ],
       "releasesUrl": "https://api.github.com/repos/kovidgoyal/kitty/releases{/id}",
-      "updatedAt": "2026-10-06T08:51:35Z",
+      "updatedAt": "2026-10-07T08:26:49Z",
       "createdAt": "2016-10-16T14:48:28Z",
-      "pushedAt": "2026-10-06T08:31:48Z",
-      "downloadCount": 3819147,
+      "pushedAt": "2026-10-07T00:49:38Z",
+      "downloadCount": 3824337,
       "openIssuesCount": 12,
       "archived": false,
       "latestReleaseDate": "2026-10-01T02:57:33Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "releaseRecency": 6,
+      "releaseRecencyText": "Released 6 days ago"
     },
     {
       "id": 501045649,
@@ -416,8 +416,8 @@
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wavetermdev/waveterm",
-      "stargazersCount": 22427,
-      "forksCount": 1153,
+      "stargazersCount": 22433,
+      "forksCount": 1152,
       "language": "Go",
       "topics": [
         "command-line",
@@ -430,15 +430,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/wavetermdev/waveterm/releases{/id}",
-      "updatedAt": "2026-10-06T07:27:02Z",
+      "updatedAt": "2026-10-07T02:50:15Z",
       "createdAt": "2022-06-08T00:26:00Z",
       "pushedAt": "2026-10-05T17:14:38Z",
-      "downloadCount": 121416,
+      "downloadCount": 121670,
       "openIssuesCount": 563,
       "archived": false,
       "latestReleaseDate": "2026-04-16T16:01:54Z",
-      "releaseRecency": 172,
-      "releaseRecencyText": "Released 172 days ago"
+      "releaseRecency": 173,
+      "releaseRecencyText": "Released 173 days ago"
     },
     {
       "id": 1117208510,
@@ -451,7 +451,7 @@
       "description": "A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/productdevbook/port-killer",
-      "stargazersCount": 5099,
+      "stargazersCount": 5098,
       "forksCount": 205,
       "language": "Swift",
       "topics": [
@@ -467,15 +467,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/productdevbook/port-killer/releases{/id}",
-      "updatedAt": "2026-10-05T09:32:43Z",
+      "updatedAt": "2026-10-07T02:31:06Z",
       "createdAt": "2025-12-16T01:44:50Z",
       "pushedAt": "2026-09-17T14:08:10Z",
-      "downloadCount": 41863,
+      "downloadCount": 41902,
       "openIssuesCount": 18,
       "archived": false,
       "latestReleaseDate": "2026-06-21T21:36:39Z",
-      "releaseRecency": 106,
-      "releaseRecencyText": "Released 106 days ago"
+      "releaseRecency": 107,
+      "releaseRecencyText": "Released 107 days ago"
     },
     {
       "id": 1135479670,
@@ -488,7 +488,7 @@
       "description": "Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/cocojojo5213/Dev-Janitor",
-      "stargazersCount": 867,
+      "stargazersCount": 866,
       "forksCount": 57,
       "language": "Rust",
       "topics": [
@@ -501,15 +501,15 @@
         "tauri"
       ],
       "releasesUrl": "https://api.github.com/repos/cocojojo5213/Dev-Janitor/releases{/id}",
-      "updatedAt": "2026-10-02T15:14:43Z",
+      "updatedAt": "2026-10-06T13:48:41Z",
       "createdAt": "2026-01-16T06:44:31Z",
       "pushedAt": "2026-10-06T07:16:37Z",
-      "downloadCount": 13162,
+      "downloadCount": 13193,
       "openIssuesCount": 7,
       "archived": false,
       "latestReleaseDate": "2026-09-08T05:42:04Z",
-      "releaseRecency": 28,
-      "releaseRecencyText": "Released 28 days ago"
+      "releaseRecency": 29,
+      "releaseRecencyText": "Released 29 days ago"
     },
     {
       "id": 1109544111,
@@ -539,8 +539,8 @@
       "openIssuesCount": 3,
       "archived": false,
       "latestReleaseDate": "2025-12-11T18:32:16Z",
-      "releaseRecency": 298,
-      "releaseRecencyText": "Released 298 days ago"
+      "releaseRecency": 299,
+      "releaseRecencyText": "Released 299 days ago"
     },
     {
       "id": 1173257656,
@@ -553,7 +553,7 @@
       "description": "A GPU-accelerated desktop Git client built in Rust with GPUI",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/noahbclarkson/rgitui",
-      "stargazersCount": 260,
+      "stargazersCount": 263,
       "forksCount": 16,
       "language": "Rust",
       "topics": [
@@ -570,15 +570,15 @@
         "rust"
       ],
       "releasesUrl": "https://api.github.com/repos/noahbclarkson/rgitui/releases{/id}",
-      "updatedAt": "2026-10-06T07:16:35Z",
+      "updatedAt": "2026-10-07T07:32:02Z",
       "createdAt": "2026-03-05T07:03:42Z",
-      "pushedAt": "2026-10-06T07:16:30Z",
-      "downloadCount": 1614,
+      "pushedAt": "2026-10-07T07:44:25Z",
+      "downloadCount": 1623,
       "openIssuesCount": 3,
       "archived": false,
-      "latestReleaseDate": "2026-08-26T10:52:43Z",
-      "releaseRecency": 40,
-      "releaseRecencyText": "Released 40 days ago"
+      "latestReleaseDate": "2026-10-07T08:10:46Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 1321429467,
@@ -591,8 +591,8 @@
       "description": "Everyday Git, made delightful. A modern, fast, beautiful open-source Git client for macOS, Windows, and Linux.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/cheat2001/angkorgit",
-      "stargazersCount": 133,
-      "forksCount": 16,
+      "stargazersCount": 136,
+      "forksCount": 18,
       "language": "TypeScript",
       "topics": [
         "cross-platform",
@@ -614,15 +614,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/cheat2001/angkorgit/releases{/id}",
-      "updatedAt": "2026-10-06T08:39:38Z",
+      "updatedAt": "2026-10-07T06:03:23Z",
       "createdAt": "2026-08-03T08:02:09Z",
       "pushedAt": "2026-10-04T08:47:58Z",
-      "downloadCount": 3496,
-      "openIssuesCount": 8,
+      "downloadCount": 3579,
+      "openIssuesCount": 10,
       "archived": false,
       "latestReleaseDate": "2026-10-04T09:22:29Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 849406496,
@@ -635,8 +635,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "stargazersCount": 32229,
-      "forksCount": 4555,
+      "stargazersCount": 32257,
+      "forksCount": 4561,
       "language": "C++",
       "topics": [
         "ai-agents",
@@ -658,15 +658,15 @@
         "trading"
       ],
       "releasesUrl": "https://api.github.com/repos/Fincept-Corporation/FinceptTerminal/releases{/id}",
-      "updatedAt": "2026-10-06T08:03:25Z",
+      "updatedAt": "2026-10-07T08:29:42Z",
       "createdAt": "2024-08-29T14:38:08Z",
       "pushedAt": "2026-10-01T08:59:02Z",
-      "downloadCount": 102683,
+      "downloadCount": 102842,
       "openIssuesCount": 4,
       "archived": false,
       "latestReleaseDate": "2026-09-01T07:14:07Z",
-      "releaseRecency": 35,
-      "releaseRecencyText": "Released 35 days ago"
+      "releaseRecency": 36,
+      "releaseRecencyText": "Released 36 days ago"
     },
     {
       "id": 167828165,
@@ -697,15 +697,15 @@
         "xterm"
       ],
       "releasesUrl": "https://api.github.com/repos/ArthurSonzogni/FTXUI/releases{/id}",
-      "updatedAt": "2026-10-06T04:02:20Z",
+      "updatedAt": "2026-10-07T07:28:08Z",
       "createdAt": "2019-01-27T16:06:20Z",
-      "pushedAt": "2026-10-04T13:47:02Z",
-      "downloadCount": 58895,
+      "pushedAt": "2026-10-07T07:40:13Z",
+      "downloadCount": 59256,
       "openIssuesCount": 39,
       "archived": false,
       "latestReleaseDate": "2026-08-06T07:35:57Z",
-      "releaseRecency": 61,
-      "releaseRecencyText": "Released 61 days ago"
+      "releaseRecency": 62,
+      "releaseRecencyText": "Released 62 days ago"
     },
     {
       "id": 202277409,
@@ -718,7 +718,7 @@
       "description": "Modern C++ Terminal Emulator",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/contour-terminal/contour",
-      "stargazersCount": 3038,
+      "stargazersCount": 3039,
       "forksCount": 154,
       "language": "C++",
       "topics": [
@@ -738,15 +738,15 @@
         "xterm"
       ],
       "releasesUrl": "https://api.github.com/repos/contour-terminal/contour/releases{/id}",
-      "updatedAt": "2026-10-06T08:13:42Z",
+      "updatedAt": "2026-10-06T17:55:58Z",
       "createdAt": "2019-08-14T04:56:47Z",
       "pushedAt": "2026-09-29T08:56:10Z",
-      "downloadCount": 43698,
+      "downloadCount": 43752,
       "openIssuesCount": 189,
       "archived": false,
       "latestReleaseDate": "2026-08-17T18:29:18Z",
-      "releaseRecency": 49,
-      "releaseRecencyText": "Released 49 days ago"
+      "releaseRecency": 50,
+      "releaseRecencyText": "Released 50 days ago"
     },
     {
       "id": 965415649,
@@ -759,20 +759,20 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/openai/codex",
-      "stargazersCount": 127992,
-      "forksCount": 20048,
+      "stargazersCount": 128120,
+      "forksCount": 20071,
       "language": "Rust",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/openai/codex/releases{/id}",
-      "updatedAt": "2026-10-06T09:00:13Z",
+      "updatedAt": "2026-10-07T08:44:53Z",
       "createdAt": "2025-04-13T05:37:54Z",
-      "pushedAt": "2026-10-06T03:59:11Z",
-      "downloadCount": 44174193,
-      "openIssuesCount": 20848,
+      "pushedAt": "2026-10-07T07:57:31Z",
+      "downloadCount": 44617337,
+      "openIssuesCount": 21057,
       "archived": false,
       "latestReleaseDate": "2026-10-05T18:29:37Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 77213120,
@@ -785,8 +785,8 @@
       "description": "A terminal for a more modern age",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/Eugeny/tabby",
-      "stargazersCount": 74838,
-      "forksCount": 4276,
+      "stargazersCount": 74846,
+      "forksCount": 4277,
       "language": "TypeScript",
       "topics": [
         "serial",
@@ -796,15 +796,15 @@
         "terminal-emulators"
       ],
       "releasesUrl": "https://api.github.com/repos/Eugeny/tabby/releases{/id}",
-      "updatedAt": "2026-10-06T09:05:50Z",
+      "updatedAt": "2026-10-07T07:20:40Z",
       "createdAt": "2016-12-23T09:06:10Z",
-      "pushedAt": "2026-10-06T06:32:39Z",
-      "downloadCount": 20257161,
-      "openIssuesCount": 2830,
+      "pushedAt": "2026-10-06T21:17:15Z",
+      "downloadCount": 20264399,
+      "openIssuesCount": 2823,
       "archived": false,
-      "latestReleaseDate": "2026-09-25T07:40:01Z",
-      "releaseRecency": 11,
-      "releaseRecencyText": "Released 11 days ago"
+      "latestReleaseDate": "2026-10-07T06:43:54Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 62367558,
@@ -817,7 +817,7 @@
       "description": "A terminal built on web technologies",
       "defaultBranch": "canary",
       "htmlUrl": "https://github.com/vercel/hyper",
-      "stargazersCount": 44740,
+      "stargazersCount": 44738,
       "forksCount": 3579,
       "language": "TypeScript",
       "topics": [
@@ -832,15 +832,57 @@
         "terminal-emulators"
       ],
       "releasesUrl": "https://api.github.com/repos/vercel/hyper/releases{/id}",
-      "updatedAt": "2026-10-06T05:59:22Z",
+      "updatedAt": "2026-10-07T01:01:48Z",
       "createdAt": "2016-07-01T06:01:21Z",
       "pushedAt": "2026-08-21T20:44:39Z",
-      "downloadCount": 56965205,
+      "downloadCount": 56971844,
       "openIssuesCount": 1049,
       "archived": false,
       "latestReleaseDate": "2023-01-08T00:56:10Z",
-      "releaseRecency": 1367,
-      "releaseRecencyText": "Released 1367 days ago"
+      "releaseRecency": 1368,
+      "releaseRecencyText": "Released 1368 days ago"
+    },
+    {
+      "id": 235901813,
+      "name": "posthog",
+      "fullName": "PostHog/posthog",
+      "owner": {
+        "login": "PostHog",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60330232?v=4"
+      },
+      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "defaultBranch": "master",
+      "htmlUrl": "https://github.com/PostHog/posthog",
+      "stargazersCount": 40169,
+      "forksCount": 3480,
+      "language": "Python",
+      "topics": [
+        "ab-testing",
+        "ai-analytics",
+        "analytics",
+        "cdp",
+        "data-warehouse",
+        "experiments",
+        "feature-flags",
+        "javascript",
+        "product-analytics",
+        "python",
+        "react",
+        "session-replay",
+        "surveys",
+        "typescript",
+        "web-analytics"
+      ],
+      "releasesUrl": "https://api.github.com/repos/PostHog/posthog/releases{/id}",
+      "updatedAt": "2026-10-07T08:37:50Z",
+      "createdAt": "2020-01-23T22:46:58Z",
+      "pushedAt": "2026-10-07T08:46:25Z",
+      "downloadCount": 14866092,
+      "openIssuesCount": 5636,
+      "archived": false,
+      "latestReleaseDate": "2026-10-07T01:54:47Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 1144115288,
@@ -853,8 +895,8 @@
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/manaflow-ai/cmux",
-      "stargazersCount": 27659,
-      "forksCount": 2446,
+      "stargazersCount": 27683,
+      "forksCount": 2453,
       "language": "Swift",
       "topics": [
         "amp",
@@ -877,15 +919,15 @@
         "workspace-manager"
       ],
       "releasesUrl": "https://api.github.com/repos/manaflow-ai/cmux/releases{/id}",
-      "updatedAt": "2026-10-06T08:59:51Z",
+      "updatedAt": "2026-10-07T08:38:55Z",
       "createdAt": "2026-01-28T10:03:24Z",
-      "pushedAt": "2026-10-06T09:10:16Z",
-      "downloadCount": 25271119,
-      "openIssuesCount": 3157,
+      "pushedAt": "2026-10-07T08:46:45Z",
+      "downloadCount": 25386203,
+      "openIssuesCount": 3175,
       "archived": false,
       "latestReleaseDate": "2026-10-05T21:16:53Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 820087727,
@@ -898,8 +940,8 @@
       "description": "The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to design with Real Code.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/onlook-dev/onlook",
-      "stargazersCount": 26864,
-      "forksCount": 2116,
+      "stargazersCount": 26875,
+      "forksCount": 2122,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -924,15 +966,15 @@
         "visual-engineering"
       ],
       "releasesUrl": "https://api.github.com/repos/onlook-dev/onlook/releases{/id}",
-      "updatedAt": "2026-10-06T08:55:04Z",
+      "updatedAt": "2026-10-07T08:41:53Z",
       "createdAt": "2024-06-25T19:16:02Z",
       "pushedAt": "2026-08-25T01:06:22Z",
-      "downloadCount": 1250406,
-      "openIssuesCount": 381,
+      "downloadCount": 1250744,
+      "openIssuesCount": 382,
       "archived": false,
       "latestReleaseDate": "2025-07-17T18:36:21Z",
-      "releaseRecency": 445,
-      "releaseRecencyText": "Released 445 days ago"
+      "releaseRecency": 446,
+      "releaseRecencyText": "Released 446 days ago"
     },
     {
       "id": 14614344,
@@ -945,8 +987,8 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/Swordfish90/cool-retro-term",
-      "stargazersCount": 26484,
-      "forksCount": 1031,
+      "stargazersCount": 26487,
+      "forksCount": 1034,
       "language": "QML",
       "topics": [
         "linux",
@@ -957,15 +999,15 @@
         "terminal"
       ],
       "releasesUrl": "https://api.github.com/repos/Swordfish90/cool-retro-term/releases{/id}",
-      "updatedAt": "2026-10-06T05:58:52Z",
+      "updatedAt": "2026-10-07T07:20:57Z",
       "createdAt": "2013-11-22T09:59:57Z",
       "pushedAt": "2026-05-31T10:12:54Z",
-      "downloadCount": 172407,
+      "downloadCount": 172495,
       "openIssuesCount": 571,
       "archived": false,
       "latestReleaseDate": "2026-05-31T10:12:54Z",
-      "releaseRecency": 127,
-      "releaseRecencyText": "Released 127 days ago"
+      "releaseRecency": 128,
+      "releaseRecencyText": "Released 128 days ago"
     },
     {
       "id": 1217291538,
@@ -978,7 +1020,7 @@
       "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/crynta/terax-ai",
-      "stargazersCount": 9297,
+      "stargazersCount": 9293,
       "forksCount": 1015,
       "language": "TypeScript",
       "topics": [
@@ -995,15 +1037,15 @@
         "xterm-js"
       ],
       "releasesUrl": "https://api.github.com/repos/crynta/terax-ai/releases{/id}",
-      "updatedAt": "2026-10-06T09:04:56Z",
+      "updatedAt": "2026-10-07T03:36:32Z",
       "createdAt": "2026-04-21T18:33:12Z",
       "pushedAt": "2026-10-03T12:07:49Z",
-      "downloadCount": 346179,
+      "downloadCount": 347409,
       "openIssuesCount": 454,
       "archived": false,
       "latestReleaseDate": "2026-07-27T23:32:07Z",
-      "releaseRecency": 70,
-      "releaseRecencyText": "Released 70 days ago"
+      "releaseRecency": 71,
+      "releaseRecencyText": "Released 71 days ago"
     },
     {
       "id": 907990001,
@@ -1016,8 +1058,8 @@
       "description": "Terminal based IDE & text editor: easy, powerful and fast",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/sinelaw/fresh",
-      "stargazersCount": 9119,
-      "forksCount": 353,
+      "stargazersCount": 9133,
+      "forksCount": 356,
       "language": "Rust",
       "topics": [
         "ide",
@@ -1025,15 +1067,15 @@
         "text-editor"
       ],
       "releasesUrl": "https://api.github.com/repos/sinelaw/fresh/releases{/id}",
-      "updatedAt": "2026-10-06T07:58:11Z",
+      "updatedAt": "2026-10-07T07:39:01Z",
       "createdAt": "2024-12-24T19:50:15Z",
-      "pushedAt": "2026-10-06T07:34:17Z",
-      "downloadCount": 458266,
-      "openIssuesCount": 389,
+      "pushedAt": "2026-10-07T07:07:39Z",
+      "downloadCount": 461405,
+      "openIssuesCount": 403,
       "archived": false,
       "latestReleaseDate": "2026-09-28T12:32:00Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     },
     {
       "id": 465844859,
@@ -1046,8 +1088,8 @@
       "description": "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/podman-desktop/podman-desktop",
-      "stargazersCount": 8060,
-      "forksCount": 574,
+      "stargazersCount": 8063,
+      "forksCount": 576,
       "language": "TypeScript",
       "topics": [
         "container",
@@ -1062,15 +1104,15 @@
         "ui"
       ],
       "releasesUrl": "https://api.github.com/repos/podman-desktop/podman-desktop/releases{/id}",
-      "updatedAt": "2026-10-06T08:54:53Z",
+      "updatedAt": "2026-10-07T08:17:55Z",
       "createdAt": "2022-03-03T18:45:51Z",
-      "pushedAt": "2026-10-06T07:47:58Z",
-      "downloadCount": 78556773,
-      "openIssuesCount": 902,
+      "pushedAt": "2026-10-07T08:17:50Z",
+      "downloadCount": 78668999,
+      "openIssuesCount": 901,
       "archived": false,
       "latestReleaseDate": "2026-09-01T14:28:26Z",
-      "releaseRecency": 34,
-      "releaseRecencyText": "Released 34 days ago"
+      "releaseRecency": 35,
+      "releaseRecencyText": "Released 35 days ago"
     },
     {
       "id": 1150626239,
@@ -1084,7 +1126,7 @@
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ValueCell-ai/ClawX",
       "stargazersCount": 7613,
-      "forksCount": 1139,
+      "forksCount": 1138,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1097,15 +1139,15 @@
         "skill"
       ],
       "releasesUrl": "https://api.github.com/repos/ValueCell-ai/ClawX/releases{/id}",
-      "updatedAt": "2026-10-06T08:56:38Z",
+      "updatedAt": "2026-10-07T03:48:53Z",
       "createdAt": "2026-02-05T13:58:36Z",
       "pushedAt": "2026-09-30T16:48:36Z",
-      "downloadCount": 180249,
+      "downloadCount": 180404,
       "openIssuesCount": 42,
       "archived": false,
       "latestReleaseDate": "2026-09-29T06:43:19Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     },
     {
       "id": 546129875,
@@ -1118,7 +1160,7 @@
       "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/raphamorim/rio",
-      "stargazersCount": 7580,
+      "stargazersCount": 7583,
       "forksCount": 359,
       "language": "Rust",
       "topics": [
@@ -1137,15 +1179,15 @@
         "wgpu"
       ],
       "releasesUrl": "https://api.github.com/repos/raphamorim/rio/releases{/id}",
-      "updatedAt": "2026-10-06T07:41:35Z",
+      "updatedAt": "2026-10-07T05:50:12Z",
       "createdAt": "2022-10-05T15:18:41Z",
       "pushedAt": "2026-10-04T01:04:07Z",
-      "downloadCount": 263915,
-      "openIssuesCount": 319,
+      "downloadCount": 264621,
+      "openIssuesCount": 321,
       "archived": false,
       "latestReleaseDate": "2026-09-17T20:54:58Z",
-      "releaseRecency": 18,
-      "releaseRecencyText": "Released 18 days ago"
+      "releaseRecency": 19,
+      "releaseRecencyText": "Released 19 days ago"
     },
     {
       "id": 475337801,
@@ -1158,8 +1200,8 @@
       "description": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/massCodeIO/massCode",
-      "stargazersCount": 7023,
-      "forksCount": 272,
+      "stargazersCount": 7030,
+      "forksCount": 273,
       "language": "TypeScript",
       "topics": [
         "api-client",
@@ -1181,15 +1223,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/massCodeIO/massCode/releases{/id}",
-      "updatedAt": "2026-10-05T20:22:03Z",
+      "updatedAt": "2026-10-07T08:38:47Z",
       "createdAt": "2022-03-29T07:54:21Z",
-      "pushedAt": "2026-10-06T08:47:34Z",
-      "downloadCount": 492976,
-      "openIssuesCount": 4,
+      "pushedAt": "2026-10-07T06:33:55Z",
+      "downloadCount": 495842,
+      "openIssuesCount": 2,
       "archived": false,
       "latestReleaseDate": "2026-09-27T10:09:43Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "releaseRecency": 9,
+      "releaseRecencyText": "Released 9 days ago"
     },
     {
       "id": 119336293,
@@ -1202,8 +1244,8 @@
       "description": "A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient.",
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/purocean/yn",
-      "stargazersCount": 6763,
-      "forksCount": 922,
+      "stargazersCount": 6764,
+      "forksCount": 920,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1228,15 +1270,15 @@
         "vue"
       ],
       "releasesUrl": "https://api.github.com/repos/purocean/yn/releases{/id}",
-      "updatedAt": "2026-10-05T08:10:23Z",
+      "updatedAt": "2026-10-07T03:41:55Z",
       "createdAt": "2018-01-29T05:30:00Z",
-      "pushedAt": "2026-10-06T04:05:23Z",
-      "downloadCount": 574936,
-      "openIssuesCount": 73,
+      "pushedAt": "2026-10-07T03:41:58Z",
+      "downloadCount": 575381,
+      "openIssuesCount": 69,
       "archived": false,
       "latestReleaseDate": "2026-09-19T08:17:46Z",
-      "releaseRecency": 17,
-      "releaseRecencyText": "Released 17 days ago"
+      "releaseRecency": 18,
+      "releaseRecencyText": "Released 18 days ago"
     },
     {
       "id": 1111357457,
@@ -1249,8 +1291,8 @@
       "description": "SSH workspace, SFTP, and terminals in one",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/binaricat/Netcatty",
-      "stargazersCount": 6402,
-      "forksCount": 558,
+      "stargazersCount": 6417,
+      "forksCount": 561,
       "language": "TypeScript",
       "topics": [
         "electron",
@@ -1265,15 +1307,15 @@
         "xterm"
       ],
       "releasesUrl": "https://api.github.com/repos/binaricat/Netcatty/releases{/id}",
-      "updatedAt": "2026-10-06T07:31:49Z",
+      "updatedAt": "2026-10-07T06:50:24Z",
       "createdAt": "2025-12-06T19:22:10Z",
       "pushedAt": "2026-10-05T16:34:59Z",
-      "downloadCount": 834597,
+      "downloadCount": 837699,
       "openIssuesCount": 144,
       "archived": false,
       "latestReleaseDate": "2026-09-07T09:57:26Z",
-      "releaseRecency": 28,
-      "releaseRecencyText": "Released 28 days ago"
+      "releaseRecency": 29,
+      "releaseRecencyText": "Released 29 days ago"
     },
     {
       "id": 1152157239,
@@ -1286,7 +1328,7 @@
       "description": "🎃 A fast, out-of-the-box macOS terminal built for AI coding.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tw93/Kaku",
-      "stargazersCount": 6070,
+      "stargazersCount": 6073,
       "forksCount": 313,
       "language": "Rust",
       "topics": [
@@ -1300,15 +1342,15 @@
         "vibe-coding"
       ],
       "releasesUrl": "https://api.github.com/repos/tw93/Kaku/releases{/id}",
-      "updatedAt": "2026-10-06T07:33:43Z",
+      "updatedAt": "2026-10-07T08:24:10Z",
       "createdAt": "2026-02-07T13:00:49Z",
-      "pushedAt": "2026-10-05T07:39:23Z",
-      "downloadCount": 170796,
+      "pushedAt": "2026-10-07T00:42:58Z",
+      "downloadCount": 171838,
       "openIssuesCount": 0,
       "archived": false,
       "latestReleaseDate": "2026-10-05T06:59:22Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 618514446,
@@ -1321,8 +1363,8 @@
       "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/gptme/gptme",
-      "stargazersCount": 4445,
-      "forksCount": 449,
+      "stargazersCount": 4444,
+      "forksCount": 448,
       "language": "Python",
       "topics": [
         "agent",
@@ -1347,15 +1389,15 @@
         "terminal"
       ],
       "releasesUrl": "https://api.github.com/repos/gptme/gptme/releases{/id}",
-      "updatedAt": "2026-10-06T00:20:39Z",
+      "updatedAt": "2026-10-07T02:12:10Z",
       "createdAt": "2023-03-24T16:25:01Z",
-      "pushedAt": "2026-10-06T08:36:12Z",
-      "downloadCount": 4972,
-      "openIssuesCount": 65,
+      "pushedAt": "2026-10-07T08:45:46Z",
+      "downloadCount": 5062,
+      "openIssuesCount": 55,
       "archived": false,
       "latestReleaseDate": "2026-09-18T16:54:11Z",
-      "releaseRecency": 17,
-      "releaseRecencyText": "Released 17 days ago"
+      "releaseRecency": 18,
+      "releaseRecencyText": "Released 18 days ago"
     },
     {
       "id": 1158449837,
@@ -1368,7 +1410,7 @@
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/golutra/golutra",
-      "stargazersCount": 3849,
+      "stargazersCount": 3850,
       "forksCount": 441,
       "language": "Rust",
       "topics": [
@@ -1394,15 +1436,15 @@
         "workflows"
       ],
       "releasesUrl": "https://api.github.com/repos/golutra/golutra/releases{/id}",
-      "updatedAt": "2026-10-05T11:46:40Z",
+      "updatedAt": "2026-10-06T13:25:10Z",
       "createdAt": "2026-02-15T11:49:39Z",
       "pushedAt": "2026-09-28T10:52:20Z",
-      "downloadCount": 14810,
+      "downloadCount": 14849,
       "openIssuesCount": 55,
       "archived": false,
       "latestReleaseDate": "2026-09-28T10:52:21Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     },
     {
       "id": 965885460,
@@ -1438,13 +1480,13 @@
       "releasesUrl": "https://api.github.com/repos/chaterm/Chaterm/releases{/id}",
       "updatedAt": "2026-10-03T13:56:59Z",
       "createdAt": "2025-04-14T04:19:01Z",
-      "pushedAt": "2026-09-30T08:12:44Z",
-      "downloadCount": 15065,
+      "pushedAt": "2026-10-07T02:05:50Z",
+      "downloadCount": 15074,
       "openIssuesCount": 71,
       "archived": false,
       "latestReleaseDate": "2026-09-24T10:11:24Z",
-      "releaseRecency": 11,
-      "releaseRecencyText": "Released 11 days ago"
+      "releaseRecency": 12,
+      "releaseRecencyText": "Released 12 days ago"
     },
     {
       "id": 833306239,
@@ -1458,7 +1500,7 @@
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/containers/ramalama",
       "stargazersCount": 3073,
-      "forksCount": 379,
+      "forksCount": 380,
       "language": "Python",
       "topics": [
         "ai",
@@ -1474,15 +1516,15 @@
         "vllm"
       ],
       "releasesUrl": "https://api.github.com/repos/containers/ramalama/releases{/id}",
-      "updatedAt": "2026-10-06T08:09:10Z",
+      "updatedAt": "2026-10-06T19:26:20Z",
       "createdAt": "2024-07-24T19:09:58Z",
       "pushedAt": "2026-10-05T10:44:40Z",
-      "downloadCount": 629,
+      "downloadCount": 631,
       "openIssuesCount": 121,
       "archived": false,
       "latestReleaseDate": "2026-09-25T12:23:34Z",
-      "releaseRecency": 10,
-      "releaseRecencyText": "Released 10 days ago"
+      "releaseRecency": 11,
+      "releaseRecencyText": "Released 11 days ago"
     },
     {
       "id": 1289958986,
@@ -1495,7 +1537,7 @@
       "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kuddev/pebrel",
-      "stargazersCount": 2965,
+      "stargazersCount": 2981,
       "forksCount": 157,
       "language": "Rust",
       "topics": [
@@ -1518,15 +1560,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/Kuddev/pebrel/releases{/id}",
-      "updatedAt": "2026-10-06T08:48:11Z",
+      "updatedAt": "2026-10-07T08:27:53Z",
       "createdAt": "2026-07-05T12:17:36Z",
-      "pushedAt": "2026-10-06T09:05:14Z",
-      "downloadCount": 20963,
-      "openIssuesCount": 112,
+      "pushedAt": "2026-10-07T05:02:25Z",
+      "downloadCount": 21406,
+      "openIssuesCount": 122,
       "archived": false,
       "latestReleaseDate": "2026-10-01T19:22:46Z",
-      "releaseRecency": 4,
-      "releaseRecencyText": "Released 4 days ago"
+      "releaseRecency": 5,
+      "releaseRecencyText": "Released 5 days ago"
     },
     {
       "id": 97839413,
@@ -1559,12 +1601,12 @@
       "updatedAt": "2026-10-05T06:22:38Z",
       "createdAt": "2017-07-20T13:36:11Z",
       "pushedAt": "2026-04-24T02:36:07Z",
-      "downloadCount": 56807,
+      "downloadCount": 56819,
       "openIssuesCount": 68,
       "archived": false,
       "latestReleaseDate": "2024-01-28T11:50:00Z",
-      "releaseRecency": 981,
-      "releaseRecencyText": "Released 981 days ago"
+      "releaseRecency": 982,
+      "releaseRecencyText": "Released 982 days ago"
     },
     {
       "id": 1377952273,
@@ -1577,8 +1619,8 @@
       "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/penso/herdr-gpui",
-      "stargazersCount": 925,
-      "forksCount": 52,
+      "stargazersCount": 969,
+      "forksCount": 53,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -1592,13 +1634,13 @@
         "terminal"
       ],
       "releasesUrl": "https://api.github.com/repos/penso/herdr-gpui/releases{/id}",
-      "updatedAt": "2026-10-06T08:22:17Z",
+      "updatedAt": "2026-10-07T08:27:55Z",
       "createdAt": "2026-09-20T05:22:39Z",
-      "pushedAt": "2026-10-06T07:07:11Z",
-      "downloadCount": 44394,
+      "pushedAt": "2026-10-07T08:16:55Z",
+      "downloadCount": 60580,
       "openIssuesCount": 41,
       "archived": false,
-      "latestReleaseDate": "2026-10-06T07:07:35Z",
+      "latestReleaseDate": "2026-10-07T08:17:17Z",
       "releaseRecency": 0,
       "releaseRecencyText": "Released today"
     },
@@ -1622,15 +1664,15 @@
         "macos"
       ],
       "releasesUrl": "https://api.github.com/repos/gitx/gitx/releases{/id}",
-      "updatedAt": "2026-10-06T04:31:05Z",
+      "updatedAt": "2026-10-07T05:31:10Z",
       "createdAt": "2016-12-07T21:16:03Z",
-      "pushedAt": "2026-10-06T05:35:53Z",
-      "downloadCount": 36269,
-      "openIssuesCount": 77,
+      "pushedAt": "2026-10-07T05:31:05Z",
+      "downloadCount": 36489,
+      "openIssuesCount": 76,
       "archived": false,
       "latestReleaseDate": "2026-10-05T05:47:15Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 742629087,
@@ -1657,15 +1699,15 @@
         "testing"
       ],
       "releasesUrl": "https://api.github.com/repos/chapar-rest/chapar/releases{/id}",
-      "updatedAt": "2026-10-05T21:17:43Z",
+      "updatedAt": "2026-10-07T08:11:32Z",
       "createdAt": "2024-01-12T22:52:45Z",
       "pushedAt": "2026-10-05T21:17:37Z",
-      "downloadCount": 3374,
+      "downloadCount": 3381,
       "openIssuesCount": 5,
       "archived": false,
       "latestReleaseDate": "2026-10-02T21:02:24Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "releaseRecency": 4,
+      "releaseRecencyText": "Released 4 days ago"
     },
     {
       "id": 67390694,
@@ -1678,7 +1720,7 @@
       "description": "AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Check WebServices Status - https://status.getappbox.com",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation",
-      "stargazersCount": 696,
+      "stargazersCount": 695,
       "forksCount": 110,
       "language": "Swift",
       "topics": [
@@ -1692,15 +1734,41 @@
         "xcodebuild"
       ],
       "releasesUrl": "https://api.github.com/repos/getappbox/AppBox-iOSAppsWirelessInstallation/releases{/id}",
-      "updatedAt": "2026-10-05T08:33:21Z",
+      "updatedAt": "2026-10-06T17:54:08Z",
       "createdAt": "2016-09-05T05:29:16Z",
       "pushedAt": "2026-10-02T09:15:51Z",
-      "downloadCount": 161283,
+      "downloadCount": 161409,
       "openIssuesCount": 1,
       "archived": false,
       "latestReleaseDate": "2026-10-02T08:59:54Z",
       "releaseRecency": 4,
       "releaseRecencyText": "Released 4 days ago"
+    },
+    {
+      "id": 1254681058,
+      "name": "yerd",
+      "fullName": "forjedio/yerd",
+      "owner": {
+        "login": "forjedio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/268048923?v=4"
+      },
+      "description": "A powerful, developer-friendly tool for local PHP development",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/forjedio/yerd",
+      "stargazersCount": 519,
+      "forksCount": 38,
+      "language": "Rust",
+      "topics": [],
+      "releasesUrl": "https://api.github.com/repos/forjedio/yerd/releases{/id}",
+      "updatedAt": "2026-10-06T22:36:32Z",
+      "createdAt": "2026-05-30T21:55:52Z",
+      "pushedAt": "2026-10-03T07:26:09Z",
+      "downloadCount": 3094,
+      "openIssuesCount": 21,
+      "archived": false,
+      "latestReleaseDate": "2026-07-25T15:49:58Z",
+      "releaseRecency": 73,
+      "releaseRecencyText": "Released 73 days ago"
     },
     {
       "id": 183374118,
@@ -1740,38 +1808,12 @@
       "updatedAt": "2026-10-06T07:15:09Z",
       "createdAt": "2019-04-25T06:50:52Z",
       "pushedAt": "2026-10-06T07:25:34Z",
-      "downloadCount": 1375,
+      "downloadCount": 1665,
       "openIssuesCount": 16,
       "archived": false,
       "latestReleaseDate": "2026-10-06T07:25:34Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
-    },
-    {
-      "id": 1254681058,
-      "name": "yerd",
-      "fullName": "forjedio/yerd",
-      "owner": {
-        "login": "forjedio",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/268048923?v=4"
-      },
-      "description": "A powerful, developer-friendly tool for local PHP development",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/forjedio/yerd",
-      "stargazersCount": 517,
-      "forksCount": 38,
-      "language": "Rust",
-      "topics": [],
-      "releasesUrl": "https://api.github.com/repos/forjedio/yerd/releases{/id}",
-      "updatedAt": "2026-10-03T07:26:13Z",
-      "createdAt": "2026-05-30T21:55:52Z",
-      "pushedAt": "2026-10-03T07:26:09Z",
-      "downloadCount": 3086,
-      "openIssuesCount": 21,
-      "archived": false,
-      "latestReleaseDate": "2026-07-25T15:49:58Z",
-      "releaseRecency": 72,
-      "releaseRecencyText": "Released 72 days ago"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 1161409602,
@@ -1799,15 +1841,15 @@
         "gemini"
       ],
       "releasesUrl": "https://api.github.com/repos/OpenSource03/harnss/releases{/id}",
-      "updatedAt": "2026-10-06T08:32:05Z",
+      "updatedAt": "2026-10-07T08:06:32Z",
       "createdAt": "2026-02-19T04:25:02Z",
       "pushedAt": "2026-10-06T07:10:30Z",
-      "downloadCount": 20983,
+      "downloadCount": 21017,
       "openIssuesCount": 22,
       "archived": false,
       "latestReleaseDate": "2026-03-19T01:31:49Z",
-      "releaseRecency": 201,
-      "releaseRecencyText": "Released 201 days ago"
+      "releaseRecency": 202,
+      "releaseRecencyText": "Released 202 days ago"
     },
     {
       "id": 492733502,
@@ -1836,8 +1878,8 @@
       "openIssuesCount": 15,
       "archived": false,
       "latestReleaseDate": "2022-06-24T04:14:07Z",
-      "releaseRecency": 1565,
-      "releaseRecencyText": "Released 1565 days ago"
+      "releaseRecency": 1566,
+      "releaseRecencyText": "Released 1566 days ago"
     },
     {
       "id": 1274107935,
@@ -1850,7 +1892,7 @@
       "description": "AI-native, keyboard-first Git desktop client combining GitHub Desktop's ease with advanced Git, PR, issue, discussion, Actions, and notification management; integrates GitLab, Bitbucket, Jira, agentic workflows, multi-provider AI, CLI-first privacy, and self-updating via Tauri + React",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/theBGuy/GitDesktop",
-      "stargazersCount": 230,
+      "stargazersCount": 231,
       "forksCount": 19,
       "language": "TypeScript",
       "topics": [
@@ -1865,15 +1907,15 @@
         "tauri"
       ],
       "releasesUrl": "https://api.github.com/repos/theBGuy/GitDesktop/releases{/id}",
-      "updatedAt": "2026-10-06T05:40:09Z",
+      "updatedAt": "2026-10-07T04:05:04Z",
       "createdAt": "2026-06-19T07:24:46Z",
-      "pushedAt": "2026-10-06T05:40:06Z",
-      "downloadCount": 14827,
+      "pushedAt": "2026-10-07T04:05:01Z",
+      "downloadCount": 15097,
       "openIssuesCount": 11,
       "archived": false,
-      "latestReleaseDate": "2026-10-02T22:19:00Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "latestReleaseDate": "2026-10-06T19:14:48Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 1195674112,
@@ -1886,7 +1928,7 @@
       "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/hadziqmtqn/erd-builder-pro",
-      "stargazersCount": 205,
+      "stargazersCount": 206,
       "forksCount": 42,
       "language": "TypeScript",
       "topics": [
@@ -1903,15 +1945,15 @@
         "tiptap-editor"
       ],
       "releasesUrl": "https://api.github.com/repos/hadziqmtqn/erd-builder-pro/releases{/id}",
-      "updatedAt": "2026-10-06T04:05:07Z",
+      "updatedAt": "2026-10-07T06:33:38Z",
       "createdAt": "2026-03-30T00:18:38Z",
-      "pushedAt": "2026-10-06T04:06:06Z",
-      "downloadCount": 1171,
-      "openIssuesCount": 13,
+      "pushedAt": "2026-10-07T06:35:02Z",
+      "downloadCount": 1179,
+      "openIssuesCount": 14,
       "archived": false,
       "latestReleaseDate": "2026-09-03T17:07:34Z",
-      "releaseRecency": 32,
-      "releaseRecencyText": "Released 32 days ago"
+      "releaseRecency": 33,
+      "releaseRecencyText": "Released 33 days ago"
     },
     {
       "id": 1211796176,
@@ -1942,12 +1984,12 @@
       "updatedAt": "2026-10-04T11:15:27Z",
       "createdAt": "2026-04-15T18:55:10Z",
       "pushedAt": "2026-09-15T12:04:08Z",
-      "downloadCount": 6240,
+      "downloadCount": 6244,
       "openIssuesCount": 173,
       "archived": false,
       "latestReleaseDate": "2026-09-14T11:29:47Z",
-      "releaseRecency": 21,
-      "releaseRecencyText": "Released 21 days ago"
+      "releaseRecency": 22,
+      "releaseRecencyText": "Released 22 days ago"
     },
     {
       "id": 1220029966,
@@ -1971,12 +2013,12 @@
       "updatedAt": "2026-10-01T02:21:51Z",
       "createdAt": "2026-04-24T13:23:33Z",
       "pushedAt": "2026-07-14T04:42:59Z",
-      "downloadCount": 50,
+      "downloadCount": 51,
       "openIssuesCount": 2,
       "archived": false,
       "latestReleaseDate": "2026-07-01T16:38:24Z",
-      "releaseRecency": 96,
-      "releaseRecencyText": "Released 96 days ago"
+      "releaseRecency": 97,
+      "releaseRecencyText": "Released 97 days ago"
     },
     {
       "id": 1200271590,
@@ -1989,7 +2031,7 @@
       "description": "The Git client that actually resolves conflicts: 8 deterministic patterns auto-resolve the ones that were never decisions, full trace on the rest. Native (Tauri 2 + Rust), free, MIT.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/devlint/GitWand",
-      "stargazersCount": 181,
+      "stargazersCount": 180,
       "forksCount": 9,
       "language": "TypeScript",
       "topics": [
@@ -2015,13 +2057,13 @@
         "webapp"
       ],
       "releasesUrl": "https://api.github.com/repos/devlint/GitWand/releases{/id}",
-      "updatedAt": "2026-10-05T16:26:10Z",
+      "updatedAt": "2026-10-07T08:28:03Z",
       "createdAt": "2026-04-03T08:11:05Z",
-      "pushedAt": "2026-10-06T06:38:54Z",
-      "downloadCount": 10495,
-      "openIssuesCount": 10,
+      "pushedAt": "2026-10-07T08:28:00Z",
+      "downloadCount": 10646,
+      "openIssuesCount": 2,
       "archived": false,
-      "latestReleaseDate": "2026-10-05T10:52:34Z",
+      "latestReleaseDate": "2026-10-06T14:27:40Z",
       "releaseRecency": 0,
       "releaseRecencyText": "Released today"
     },
@@ -2047,15 +2089,15 @@
         "gui"
       ],
       "releasesUrl": "https://api.github.com/repos/Commit-Plus/commit-plus/releases{/id}",
-      "updatedAt": "2026-10-06T07:15:24Z",
+      "updatedAt": "2026-10-07T04:47:50Z",
       "createdAt": "2026-05-29T16:12:22Z",
-      "pushedAt": "2026-10-06T07:15:19Z",
-      "downloadCount": 542,
-      "openIssuesCount": 4,
+      "pushedAt": "2026-10-07T04:47:46Z",
+      "downloadCount": 553,
+      "openIssuesCount": 9,
       "archived": false,
       "latestReleaseDate": "2026-10-05T07:15:13Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 1255169303,
@@ -2094,15 +2136,15 @@
         "worktree"
       ],
       "releasesUrl": "https://api.github.com/repos/gaixianggeng/mimi-remote/releases{/id}",
-      "updatedAt": "2026-10-06T07:57:49Z",
+      "updatedAt": "2026-10-07T05:17:42Z",
       "createdAt": "2026-05-31T13:49:33Z",
-      "pushedAt": "2026-10-06T07:57:43Z",
-      "downloadCount": 765,
-      "openIssuesCount": 101,
+      "pushedAt": "2026-10-07T07:53:33Z",
+      "downloadCount": 769,
+      "openIssuesCount": 95,
       "archived": false,
       "latestReleaseDate": "2026-09-28T11:39:04Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     }
   ]
 }
