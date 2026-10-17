@@ -1,7 +1,7 @@
 {
   "category": "topics/dev-tools",
   "platform": "android",
-  "lastUpdated": "2026-10-16T06:50:09.704238Z",
+  "lastUpdated": "2026-10-17T06:43:01.698129Z",
   "totalCount": 9,
   "repositories": [
     {
@@ -15,8 +15,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/termux/termux-app",
-      "stargazersCount": 62711,
-      "forksCount": 7908,
+      "stargazersCount": 62792,
+      "forksCount": 7916,
       "language": "Java",
       "topics": [
         "android",
@@ -26,15 +26,15 @@
         "termux"
       ],
       "releasesUrl": "https://api.github.com/repos/termux/termux-app/releases{/id}",
-      "updatedAt": "2026-10-16T07:02:53Z",
+      "updatedAt": "2026-10-17T07:04:26Z",
       "createdAt": "2015-10-23T09:42:46Z",
       "pushedAt": "2026-09-26T05:11:44Z",
-      "downloadCount": 10703822,
+      "downloadCount": 10721706,
       "openIssuesCount": 641,
       "archived": false,
       "latestReleaseDate": "2025-05-22T22:47:26Z",
-      "releaseRecency": 511,
-      "releaseRecencyText": "Released 511 days ago"
+      "releaseRecency": 512,
+      "releaseRecencyText": "Released 512 days ago"
     },
     {
       "id": 32483164,
@@ -66,46 +66,15 @@
         "wasapi"
       ],
       "releasesUrl": "https://api.github.com/repos/clangen/musikcube/releases{/id}",
-      "updatedAt": "2026-10-15T04:11:50Z",
+      "updatedAt": "2026-10-16T20:26:32Z",
       "createdAt": "2015-03-18T20:41:57Z",
       "pushedAt": "2026-03-23T02:00:57Z",
-      "downloadCount": 149128,
+      "downloadCount": 149150,
       "openIssuesCount": 179,
       "archived": false,
       "latestReleaseDate": "2025-09-21T07:16:59Z",
       "releaseRecency": 390,
       "releaseRecencyText": "Released 390 days ago"
-    },
-    {
-      "id": 632255125,
-      "name": "moonlight-vplus",
-      "fullName": "qiin2333/moonlight-vplus",
-      "owner": {
-        "login": "qiin2333",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2795904?v=4"
-      },
-      "description": "Turn your Android device into a powerful game streaming terminal! Gawr! ✨",
-      "defaultBranch": "master",
-      "htmlUrl": "https://github.com/qiin2333/moonlight-vplus",
-      "stargazersCount": 4108,
-      "forksCount": 102,
-      "language": "Kotlin",
-      "topics": [
-        "cloudgaming",
-        "gamestream",
-        "moonlight",
-        "sunshine"
-      ],
-      "releasesUrl": "https://api.github.com/repos/qiin2333/moonlight-vplus/releases{/id}",
-      "updatedAt": "2026-10-16T07:03:55Z",
-      "createdAt": "2023-04-25T03:14:39Z",
-      "pushedAt": "2026-10-16T06:36:58Z",
-      "downloadCount": 355726,
-      "openIssuesCount": 72,
-      "archived": false,
-      "latestReleaseDate": "2026-10-11T15:09:32Z",
-      "releaseRecency": 4,
-      "releaseRecencyText": "Released 4 days ago"
     },
     {
       "id": 880108124,
@@ -118,7 +87,7 @@
       "description": "An android git client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/catpuppyapp/PuppyGit",
-      "stargazersCount": 893,
+      "stargazersCount": 896,
       "forksCount": 155,
       "language": "Kotlin",
       "topics": [
@@ -131,15 +100,15 @@
         "obsidian-sync"
       ],
       "releasesUrl": "https://api.github.com/repos/catpuppyapp/PuppyGit/releases{/id}",
-      "updatedAt": "2026-10-15T16:29:40Z",
+      "updatedAt": "2026-10-17T07:04:21Z",
       "createdAt": "2024-10-29T06:02:22Z",
       "pushedAt": "2026-09-23T07:24:41Z",
-      "downloadCount": 17985,
+      "downloadCount": 18004,
       "openIssuesCount": 16,
       "archived": false,
       "latestReleaseDate": "2026-09-23T07:24:41Z",
-      "releaseRecency": 22,
-      "releaseRecencyText": "Released 22 days ago"
+      "releaseRecency": 23,
+      "releaseRecencyText": "Released 23 days ago"
     },
     {
       "id": 812362660,
@@ -152,7 +121,7 @@
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ViscousPot/GitSync",
-      "stargazersCount": 2424,
+      "stargazersCount": 2432,
       "forksCount": 202,
       "language": "Dart",
       "topics": [
@@ -162,15 +131,15 @@
         "sync"
       ],
       "releasesUrl": "https://api.github.com/repos/ViscousPot/GitSync/releases{/id}",
-      "updatedAt": "2026-10-16T05:35:05Z",
+      "updatedAt": "2026-10-17T01:14:15Z",
       "createdAt": "2024-06-08T17:10:16Z",
       "pushedAt": "2026-10-15T06:33:56Z",
-      "downloadCount": 17726,
+      "downloadCount": 17749,
       "openIssuesCount": 169,
       "archived": false,
       "latestReleaseDate": "2026-09-11T04:52:52Z",
-      "releaseRecency": 35,
-      "releaseRecencyText": "Released 35 days ago"
+      "releaseRecency": 36,
+      "releaseRecencyText": "Released 36 days ago"
     },
     {
       "id": 741230168,
@@ -183,20 +152,20 @@
       "description": "Generate images of code and terminal output 📸",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/charmbracelet/freeze",
-      "stargazersCount": 4887,
+      "stargazersCount": 4889,
       "forksCount": 107,
       "language": "Go",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/charmbracelet/freeze/releases{/id}",
-      "updatedAt": "2026-10-16T02:54:36Z",
+      "updatedAt": "2026-10-17T06:10:46Z",
       "createdAt": "2024-01-10T00:51:47Z",
       "pushedAt": "2026-09-16T14:00:08Z",
-      "downloadCount": 65011,
+      "downloadCount": 65522,
       "openIssuesCount": 79,
       "archived": false,
       "latestReleaseDate": "2025-04-01T23:42:28Z",
-      "releaseRecency": 562,
-      "releaseRecencyText": "Released 562 days ago"
+      "releaseRecency": 563,
+      "releaseRecencyText": "Released 563 days ago"
     },
     {
       "id": 618514446,
@@ -209,8 +178,8 @@
       "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/gptme/gptme",
-      "stargazersCount": 4451,
-      "forksCount": 452,
+      "stargazersCount": 4454,
+      "forksCount": 451,
       "language": "Python",
       "topics": [
         "agent",
@@ -235,15 +204,15 @@
         "terminal"
       ],
       "releasesUrl": "https://api.github.com/repos/gptme/gptme/releases{/id}",
-      "updatedAt": "2026-10-16T07:00:59Z",
+      "updatedAt": "2026-10-17T02:17:27Z",
       "createdAt": "2023-03-24T16:25:01Z",
-      "pushedAt": "2026-10-16T07:13:22Z",
-      "downloadCount": 5705,
-      "openIssuesCount": 14,
+      "pushedAt": "2026-10-17T06:30:26Z",
+      "downloadCount": 5804,
+      "openIssuesCount": 12,
       "archived": false,
       "latestReleaseDate": "2026-10-15T22:08:47Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 1289958986,
@@ -256,8 +225,8 @@
       "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kuddev/pebrel",
-      "stargazersCount": 3407,
-      "forksCount": 184,
+      "stargazersCount": 3418,
+      "forksCount": 186,
       "language": "Rust",
       "topics": [
         "ai-cli",
@@ -279,15 +248,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/Kuddev/pebrel/releases{/id}",
-      "updatedAt": "2026-10-16T06:55:22Z",
+      "updatedAt": "2026-10-17T00:03:48Z",
       "createdAt": "2026-07-05T12:17:36Z",
-      "pushedAt": "2026-10-15T16:49:06Z",
-      "downloadCount": 30168,
-      "openIssuesCount": 183,
+      "pushedAt": "2026-10-16T12:42:50Z",
+      "downloadCount": 31141,
+      "openIssuesCount": 179,
       "archived": false,
       "latestReleaseDate": "2026-10-15T16:49:06Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 656839452,
@@ -308,12 +277,41 @@
       "updatedAt": "2026-10-14T07:14:47Z",
       "createdAt": "2023-06-21T18:45:38Z",
       "pushedAt": "2026-10-01T10:31:16Z",
-      "downloadCount": 21072,
+      "downloadCount": 21142,
       "openIssuesCount": 31,
       "archived": false,
       "latestReleaseDate": "2026-08-20T12:29:01Z",
-      "releaseRecency": 56,
-      "releaseRecencyText": "Released 56 days ago"
+      "releaseRecency": 57,
+      "releaseRecencyText": "Released 57 days ago"
+    },
+    {
+      "id": 1177159647,
+      "name": "Sable-Legacy",
+      "fullName": "SableClient/Sable-Legacy",
+      "owner": {
+        "login": "SableClient",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/266766652?v=4"
+      },
+      "description": "A never stable Matrix client. | Sable v2 lives on at git.sable.moe.",
+      "defaultBranch": "dev",
+      "htmlUrl": "https://github.com/SableClient/Sable-Legacy",
+      "stargazersCount": 519,
+      "forksCount": 102,
+      "language": "TypeScript",
+      "topics": [
+        "matrix",
+        "matrix-client"
+      ],
+      "releasesUrl": "https://api.github.com/repos/SableClient/Sable-Legacy/releases{/id}",
+      "updatedAt": "2026-10-16T16:44:48Z",
+      "createdAt": "2026-03-09T18:53:02Z",
+      "pushedAt": "2026-10-16T16:44:43Z",
+      "downloadCount": 657761,
+      "openIssuesCount": 308,
+      "archived": false,
+      "latestReleaseDate": "2026-09-30T09:39:56Z",
+      "releaseRecency": 16,
+      "releaseRecencyText": "Released 16 days ago"
     }
   ]
 }
