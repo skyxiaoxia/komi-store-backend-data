@@ -1,8 +1,8 @@
 {
   "category": "topics/networking",
   "platform": "linux",
-  "lastUpdated": "2026-10-17T06:43:01.698129Z",
-  "totalCount": 35,
+  "lastUpdated": "2026-10-18T07:03:14.036191Z",
+  "totalCount": 34,
   "repositories": [
     {
       "id": 678716433,
@@ -15,8 +15,8 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/chen08209/FlClash",
-      "stargazersCount": 56206,
-      "forksCount": 3600,
+      "stargazersCount": 56452,
+      "forksCount": 3618,
       "language": "Dart",
       "topics": [
         "clash",
@@ -30,15 +30,15 @@
         "vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/chen08209/FlClash/releases{/id}",
-      "updatedAt": "2026-10-17T07:04:31Z",
+      "updatedAt": "2026-10-18T07:26:02Z",
       "createdAt": "2023-08-15T07:47:22Z",
-      "pushedAt": "2026-10-17T01:58:00Z",
-      "downloadCount": 16857383,
-      "openIssuesCount": 374,
+      "pushedAt": "2026-10-17T09:56:34Z",
+      "downloadCount": 16982422,
+      "openIssuesCount": 395,
       "archived": false,
-      "latestReleaseDate": "2026-10-14T01:56:11Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "latestReleaseDate": "2026-10-17T10:24:48Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 643504282,
@@ -51,8 +51,8 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/hiddify/hiddify-app",
-      "stargazersCount": 33239,
-      "forksCount": 3107,
+      "stargazersCount": 33261,
+      "forksCount": 3109,
       "language": "Dart",
       "topics": [
         "clash",
@@ -75,15 +75,15 @@
         "xray"
       ],
       "releasesUrl": "https://api.github.com/repos/hiddify/hiddify-app/releases{/id}",
-      "updatedAt": "2026-10-17T05:45:45Z",
+      "updatedAt": "2026-10-18T07:13:04Z",
       "createdAt": "2023-05-21T11:30:14Z",
-      "pushedAt": "2026-10-14T09:59:13Z",
-      "downloadCount": 23710044,
+      "pushedAt": "2026-10-17T11:49:33Z",
+      "downloadCount": 23713086,
       "openIssuesCount": 33,
       "archived": false,
       "latestReleaseDate": "2026-03-05T17:22:57Z",
-      "releaseRecency": 225,
-      "releaseRecencyText": "Released 225 days ago"
+      "releaseRecency": 226,
+      "releaseRecencyText": "Released 226 days ago"
     },
     {
       "id": 754327435,
@@ -96,8 +96,8 @@
       "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/throneproj/Throne",
-      "stargazersCount": 7484,
-      "forksCount": 445,
+      "stargazersCount": 7489,
+      "forksCount": 446,
       "language": "C++",
       "topics": [
         "amneziawg",
@@ -113,15 +113,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/throneproj/Throne/releases{/id}",
-      "updatedAt": "2026-10-17T04:37:41Z",
+      "updatedAt": "2026-10-18T06:24:33Z",
       "createdAt": "2024-02-07T20:43:12Z",
-      "pushedAt": "2026-10-12T23:49:28Z",
-      "downloadCount": 1630314,
-      "openIssuesCount": 34,
+      "pushedAt": "2026-10-18T01:29:52Z",
+      "downloadCount": 1634401,
+      "openIssuesCount": 33,
       "archived": false,
       "latestReleaseDate": "2026-09-29T20:49:34Z",
-      "releaseRecency": 17,
-      "releaseRecencyText": "Released 17 days ago"
+      "releaseRecency": 18,
+      "releaseRecencyText": "Released 18 days ago"
     },
     {
       "id": 469303019,
@@ -134,7 +134,7 @@
       "description": "Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/gojue/ecapture",
-      "stargazersCount": 15508,
+      "stargazersCount": 15510,
       "forksCount": 1650,
       "language": "C",
       "topics": [
@@ -159,15 +159,15 @@
         "wireshark"
       ],
       "releasesUrl": "https://api.github.com/repos/gojue/ecapture/releases{/id}",
-      "updatedAt": "2026-10-17T06:38:42Z",
+      "updatedAt": "2026-10-17T16:38:53Z",
       "createdAt": "2022-03-13T07:40:48Z",
       "pushedAt": "2026-10-14T15:34:17Z",
-      "downloadCount": 72426,
+      "downloadCount": 72565,
       "openIssuesCount": 4,
       "archived": false,
       "latestReleaseDate": "2026-10-14T15:42:27Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 714929749,
@@ -180,20 +180,20 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/KaringX/karing",
-      "stargazersCount": 15568,
-      "forksCount": 1296,
+      "stargazersCount": 15581,
+      "forksCount": 1297,
       "language": "Dart",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/KaringX/karing/releases{/id}",
-      "updatedAt": "2026-10-17T07:09:48Z",
+      "updatedAt": "2026-10-18T07:00:48Z",
       "createdAt": "2023-11-06T06:16:18Z",
       "pushedAt": "2026-10-12T05:53:50Z",
-      "downloadCount": 7366913,
+      "downloadCount": 7389833,
       "openIssuesCount": 64,
       "archived": false,
       "latestReleaseDate": "2026-09-10T02:20:39Z",
-      "releaseRecency": 37,
-      "releaseRecencyText": "Released 37 days ago"
+      "releaseRecency": 38,
+      "releaseRecencyText": "Released 38 days ago"
     },
     {
       "id": 649662864,
@@ -206,7 +206,7 @@
       "description": "Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wanghongenpin/proxypin",
-      "stargazersCount": 14147,
+      "stargazersCount": 14151,
       "forksCount": 1239,
       "language": "Dart",
       "topics": [
@@ -218,15 +218,15 @@
         "zhuabao"
       ],
       "releasesUrl": "https://api.github.com/repos/wanghongenpin/proxypin/releases{/id}",
-      "updatedAt": "2026-10-17T06:25:51Z",
+      "updatedAt": "2026-10-18T04:17:41Z",
       "createdAt": "2023-06-05T11:16:00Z",
       "pushedAt": "2026-10-16T22:56:56Z",
-      "downloadCount": 225798,
-      "openIssuesCount": 65,
+      "downloadCount": 226334,
+      "openIssuesCount": 67,
       "archived": false,
       "latestReleaseDate": "2026-09-29T06:23:52Z",
-      "releaseRecency": 18,
-      "releaseRecencyText": "Released 18 days ago"
+      "releaseRecency": 19,
+      "releaseRecencyText": "Released 19 days ago"
     },
     {
       "id": 27358084,
@@ -239,20 +239,20 @@
       "description": "High-performance proxy for MySQL and PostgreSQL",
       "defaultBranch": "v3.0",
       "htmlUrl": "https://github.com/sysown/proxysql",
-      "stargazersCount": 6938,
+      "stargazersCount": 6940,
       "forksCount": 1093,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/sysown/proxysql/releases{/id}",
-      "updatedAt": "2026-10-17T02:46:50Z",
+      "updatedAt": "2026-10-18T01:01:55Z",
       "createdAt": "2014-12-01T01:58:26Z",
-      "pushedAt": "2026-10-16T23:14:15Z",
-      "downloadCount": 4608972,
-      "openIssuesCount": 1154,
+      "pushedAt": "2026-10-18T03:31:33Z",
+      "downloadCount": 4609514,
+      "openIssuesCount": 1166,
       "archived": false,
       "latestReleaseDate": "2026-08-27T10:08:12Z",
-      "releaseRecency": 50,
-      "releaseRecencyText": "Released 50 days ago"
+      "releaseRecency": 51,
+      "releaseRecencyText": "Released 51 days ago"
     },
     {
       "id": 721767116,
@@ -265,8 +265,8 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "stargazersCount": 151946,
-      "forksCount": 10905,
+      "stargazersCount": 152131,
+      "forksCount": 10922,
       "language": "Rust",
       "topics": [
         "clash",
@@ -279,15 +279,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev/releases{/id}",
-      "updatedAt": "2026-10-17T07:03:11Z",
+      "updatedAt": "2026-10-18T07:29:41Z",
       "createdAt": "2023-11-21T18:24:03Z",
-      "pushedAt": "2026-10-17T05:05:53Z",
-      "downloadCount": 48481203,
-      "openIssuesCount": 526,
+      "pushedAt": "2026-10-17T21:03:19Z",
+      "downloadCount": 48787327,
+      "openIssuesCount": 532,
       "archived": false,
       "latestReleaseDate": "2026-10-09T02:43:45Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "releaseRecency": 9,
+      "releaseRecencyText": "Released 9 days ago"
     },
     {
       "id": 1139971460,
@@ -300,8 +300,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "defaultBranch": "develop",
       "htmlUrl": "https://github.com/rtk-ai/rtk",
-      "stargazersCount": 83657,
-      "forksCount": 5315,
+      "stargazersCount": 83806,
+      "forksCount": 5327,
       "language": "Rust",
       "topics": [
         "agentic-coding",
@@ -319,15 +319,15 @@
         "token-optimization"
       ],
       "releasesUrl": "https://api.github.com/repos/rtk-ai/rtk/releases{/id}",
-      "updatedAt": "2026-10-17T07:09:54Z",
+      "updatedAt": "2026-10-18T07:28:02Z",
       "createdAt": "2026-01-22T16:54:16Z",
-      "pushedAt": "2026-10-17T00:42:07Z",
-      "downloadCount": 4484552,
-      "openIssuesCount": 1551,
+      "pushedAt": "2026-10-17T13:25:07Z",
+      "downloadCount": 4510979,
+      "openIssuesCount": 1564,
       "archived": false,
       "latestReleaseDate": "2026-10-14T13:31:42Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 509091576,
@@ -340,20 +340,20 @@
       "description": "The universal proxy platform",
       "defaultBranch": "testing",
       "htmlUrl": "https://github.com/SagerNet/sing-box",
-      "stargazersCount": 38938,
-      "forksCount": 4753,
+      "stargazersCount": 38961,
+      "forksCount": 4760,
       "language": "Go",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/SagerNet/sing-box/releases{/id}",
-      "updatedAt": "2026-10-17T07:06:41Z",
+      "updatedAt": "2026-10-18T06:48:51Z",
       "createdAt": "2022-06-30T13:27:22Z",
       "pushedAt": "2026-10-13T14:06:29Z",
-      "downloadCount": 27898674,
-      "openIssuesCount": 377,
+      "downloadCount": 27968813,
+      "openIssuesCount": 381,
       "archived": false,
       "latestReleaseDate": "2026-10-09T05:35:00Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "releaseRecency": 9,
+      "releaseRecencyText": "Released 9 days ago"
     },
     {
       "id": 1273824907,
@@ -366,8 +366,8 @@
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/lidge-jun/opencodex",
-      "stargazersCount": 17505,
-      "forksCount": 1339,
+      "stargazersCount": 17554,
+      "forksCount": 1347,
       "language": "TypeScript",
       "topics": [
         "ai-gateway",
@@ -392,15 +392,15 @@
         "typescript"
       ],
       "releasesUrl": "https://api.github.com/repos/lidge-jun/opencodex/releases{/id}",
-      "updatedAt": "2026-10-17T07:09:15Z",
+      "updatedAt": "2026-10-18T07:18:37Z",
       "createdAt": "2026-06-18T23:03:18Z",
-      "pushedAt": "2026-10-17T03:48:34Z",
-      "downloadCount": 99383,
-      "openIssuesCount": 65,
+      "pushedAt": "2026-10-18T00:01:19Z",
+      "downloadCount": 104543,
+      "openIssuesCount": 76,
       "archived": false,
       "latestReleaseDate": "2026-10-17T03:49:20Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 1,
+      "releaseRecencyText": "Released yesterday"
     },
     {
       "id": 216103835,
@@ -413,8 +413,8 @@
       "description": "A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/v2rayA/v2rayA",
-      "stargazersCount": 15701,
-      "forksCount": 1619,
+      "stargazersCount": 15703,
+      "forksCount": 1618,
       "language": "Go",
       "topics": [
         "gfw",
@@ -429,15 +429,15 @@
         "xray"
       ],
       "releasesUrl": "https://api.github.com/repos/v2rayA/v2rayA/releases{/id}",
-      "updatedAt": "2026-10-17T07:08:21Z",
+      "updatedAt": "2026-10-18T06:25:30Z",
       "createdAt": "2019-10-18T20:42:06Z",
       "pushedAt": "2026-10-15T23:46:23Z",
-      "downloadCount": 1613482,
+      "downloadCount": 1614718,
       "openIssuesCount": 10,
       "archived": false,
       "latestReleaseDate": "2026-10-09T12:03:50Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     },
     {
       "id": 23664475,
@@ -450,7 +450,7 @@
       "description": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Shopify/toxiproxy",
-      "stargazersCount": 12424,
+      "stargazersCount": 12426,
       "forksCount": 516,
       "language": "Go",
       "topics": [
@@ -465,15 +465,15 @@
         "testing"
       ],
       "releasesUrl": "https://api.github.com/repos/Shopify/toxiproxy/releases{/id}",
-      "updatedAt": "2026-10-16T14:06:39Z",
+      "updatedAt": "2026-10-18T05:24:06Z",
       "createdAt": "2014-09-04T13:56:38Z",
       "pushedAt": "2026-10-14T19:10:14Z",
-      "downloadCount": 2716179,
+      "downloadCount": 2717649,
       "openIssuesCount": 91,
       "archived": false,
       "latestReleaseDate": "2026-10-14T18:26:53Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 130578889,
@@ -486,7 +486,7 @@
       "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/pymumu/smartdns",
-      "stargazersCount": 11341,
+      "stargazersCount": 11344,
       "forksCount": 1251,
       "language": "C",
       "topics": [
@@ -508,15 +508,15 @@
         "stubby"
       ],
       "releasesUrl": "https://api.github.com/repos/pymumu/smartdns/releases{/id}",
-      "updatedAt": "2026-10-16T05:41:34Z",
+      "updatedAt": "2026-10-17T19:32:20Z",
       "createdAt": "2018-04-22T15:09:47Z",
       "pushedAt": "2026-08-30T18:28:15Z",
-      "downloadCount": 573364,
+      "downloadCount": 573608,
       "openIssuesCount": 327,
       "archived": false,
       "latestReleaseDate": "2026-08-05T09:20:21Z",
-      "releaseRecency": 72,
-      "releaseRecencyText": "Released 72 days ago"
+      "releaseRecency": 73,
+      "releaseRecencyText": "Released 73 days ago"
     },
     {
       "id": 1172617973,
@@ -529,20 +529,20 @@
       "description": "Local MTProto proxy server for partial bypassing of Telegram loading",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Flowseal/tg-ws-proxy",
-      "stargazersCount": 10559,
-      "forksCount": 568,
+      "stargazersCount": 10571,
+      "forksCount": 569,
       "language": "Python",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/Flowseal/tg-ws-proxy/releases{/id}",
-      "updatedAt": "2026-10-17T06:33:06Z",
+      "updatedAt": "2026-10-18T01:08:40Z",
       "createdAt": "2026-03-04T14:10:26Z",
       "pushedAt": "2026-10-11T17:01:52Z",
-      "downloadCount": 3759384,
-      "openIssuesCount": 251,
+      "downloadCount": 3777697,
+      "openIssuesCount": 253,
       "archived": false,
       "latestReleaseDate": "2026-10-11T17:01:53Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "releaseRecency": 6,
+      "releaseRecencyText": "Released 6 days ago"
     },
     {
       "id": 592283952,
@@ -555,7 +555,7 @@
       "description": "eBPF-based Linux high-performance transparent proxy solution.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/daeuniverse/dae",
-      "stargazersCount": 6312,
+      "stargazersCount": 6315,
       "forksCount": 415,
       "language": "Go",
       "topics": [
@@ -569,15 +569,15 @@
         "v2ray"
       ],
       "releasesUrl": "https://api.github.com/repos/daeuniverse/dae/releases{/id}",
-      "updatedAt": "2026-10-16T15:34:30Z",
+      "updatedAt": "2026-10-17T14:59:49Z",
       "createdAt": "2023-01-23T11:53:16Z",
       "pushedAt": "2026-09-30T12:26:11Z",
-      "downloadCount": 105244,
+      "downloadCount": 105767,
       "openIssuesCount": 138,
       "archived": false,
       "latestReleaseDate": "2026-09-18T14:44:07Z",
-      "releaseRecency": 28,
-      "releaseRecencyText": "Released 28 days ago"
+      "releaseRecency": 29,
+      "releaseRecencyText": "Released 29 days ago"
     },
     {
       "id": 18551709,
@@ -590,7 +590,7 @@
       "description": "3proxy - tiny free proxy server",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/3proxy/3proxy",
-      "stargazersCount": 5528,
+      "stargazersCount": 5530,
       "forksCount": 935,
       "language": "C",
       "topics": [
@@ -615,15 +615,15 @@
         "traffic-shaping"
       ],
       "releasesUrl": "https://api.github.com/repos/3proxy/3proxy/releases{/id}",
-      "updatedAt": "2026-10-16T19:18:04Z",
+      "updatedAt": "2026-10-18T03:30:15Z",
       "createdAt": "2014-04-08T08:59:11Z",
       "pushedAt": "2026-10-15T13:40:25Z",
-      "downloadCount": 1076206,
+      "downloadCount": 1077425,
       "openIssuesCount": 30,
       "archived": false,
       "latestReleaseDate": "2026-10-10T16:44:31Z",
-      "releaseRecency": 6,
-      "releaseRecencyText": "Released 6 days ago"
+      "releaseRecency": 7,
+      "releaseRecencyText": "Released 7 days ago"
     },
     {
       "id": 163722349,
@@ -636,7 +636,7 @@
       "description": "Pomerium is an identity and context-aware access proxy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/pomerium/pomerium",
-      "stargazersCount": 5048,
+      "stargazersCount": 5049,
       "forksCount": 361,
       "language": "Go",
       "topics": [
@@ -653,15 +653,15 @@
         "zero-trust"
       ],
       "releasesUrl": "https://api.github.com/repos/pomerium/pomerium/releases{/id}",
-      "updatedAt": "2026-10-17T05:50:11Z",
+      "updatedAt": "2026-10-17T07:28:48Z",
       "createdAt": "2019-01-01T08:04:37Z",
       "pushedAt": "2026-10-17T01:54:29Z",
-      "downloadCount": 87148,
+      "downloadCount": 87168,
       "openIssuesCount": 171,
       "archived": false,
       "latestReleaseDate": "2026-10-02T22:40:46Z",
-      "releaseRecency": 14,
-      "releaseRecencyText": "Released 14 days ago"
+      "releaseRecency": 15,
+      "releaseRecencyText": "Released 15 days ago"
     },
     {
       "id": 211206547,
@@ -682,15 +682,15 @@
         "dns-over-https"
       ],
       "releasesUrl": "https://api.github.com/repos/nextdns/nextdns/releases{/id}",
-      "updatedAt": "2026-10-17T01:06:19Z",
+      "updatedAt": "2026-10-17T14:16:24Z",
       "createdAt": "2019-09-27T00:50:59Z",
       "pushedAt": "2026-10-17T01:42:20Z",
-      "downloadCount": 734555,
+      "downloadCount": 734715,
       "openIssuesCount": 18,
       "archived": false,
       "latestReleaseDate": "2026-06-03T18:46:57Z",
-      "releaseRecency": 135,
-      "releaseRecencyText": "Released 135 days ago"
+      "releaseRecency": 136,
+      "releaseRecencyText": "Released 136 days ago"
     },
     {
       "id": 1146425139,
@@ -703,8 +703,8 @@
       "description": "Claude / Codex / Gemini API Proxy - CCX",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/BenedictKing/ccx",
-      "stargazersCount": 3989,
-      "forksCount": 323,
+      "stargazersCount": 3987,
+      "forksCount": 322,
       "language": "Go",
       "topics": [
         "claude",
@@ -712,15 +712,15 @@
         "gemini"
       ],
       "releasesUrl": "https://api.github.com/repos/BenedictKing/ccx/releases{/id}",
-      "updatedAt": "2026-10-17T06:27:45Z",
+      "updatedAt": "2026-10-17T15:17:30Z",
       "createdAt": "2026-01-31T04:27:57Z",
-      "pushedAt": "2026-10-13T03:30:12Z",
-      "downloadCount": 356000,
-      "openIssuesCount": 36,
+      "pushedAt": "2026-10-17T15:17:24Z",
+      "downloadCount": 356602,
+      "openIssuesCount": 38,
       "archived": false,
       "latestReleaseDate": "2026-07-07T22:30:15Z",
-      "releaseRecency": 101,
-      "releaseRecencyText": "Released 101 days ago"
+      "releaseRecency": 102,
+      "releaseRecencyText": "Released 102 days ago"
     },
     {
       "id": 66963716,
@@ -733,7 +733,7 @@
       "description": "Infrastructure as code for DNS!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/DNSControl/dnscontrol",
-      "stargazersCount": 3970,
+      "stargazersCount": 3972,
       "forksCount": 549,
       "language": "Go",
       "topics": [
@@ -743,15 +743,15 @@
         "infrastructure-as-code"
       ],
       "releasesUrl": "https://api.github.com/repos/DNSControl/dnscontrol/releases{/id}",
-      "updatedAt": "2026-10-15T17:01:21Z",
+      "updatedAt": "2026-10-17T17:16:52Z",
       "createdAt": "2016-08-30T17:42:30Z",
       "pushedAt": "2026-10-15T17:01:11Z",
-      "downloadCount": 1171139,
-      "openIssuesCount": 34,
+      "downloadCount": 1172143,
+      "openIssuesCount": 35,
       "archived": false,
       "latestReleaseDate": "2026-10-15T12:15:39Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 1208430144,
@@ -764,8 +764,8 @@
       "description": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Mouseww/anything-analyzer",
-      "stargazersCount": 3776,
-      "forksCount": 659,
+      "stargazersCount": 3779,
+      "forksCount": 662,
       "language": "TypeScript",
       "topics": [
         "2api",
@@ -780,15 +780,15 @@
         "traffic-analysis"
       ],
       "releasesUrl": "https://api.github.com/repos/Mouseww/anything-analyzer/releases{/id}",
-      "updatedAt": "2026-10-17T03:23:36Z",
+      "updatedAt": "2026-10-18T06:26:06Z",
       "createdAt": "2026-04-12T09:12:57Z",
       "pushedAt": "2026-10-06T09:06:32Z",
-      "downloadCount": 75683,
-      "openIssuesCount": 53,
+      "downloadCount": 75929,
+      "openIssuesCount": 54,
       "archived": false,
       "latestReleaseDate": "2026-10-06T09:11:47Z",
-      "releaseRecency": 10,
-      "releaseRecencyText": "Released 10 days ago"
+      "releaseRecency": 11,
+      "releaseRecencyText": "Released 11 days ago"
     },
     {
       "id": 97128069,
@@ -824,12 +824,12 @@
       "updatedAt": "2026-10-16T20:38:34Z",
       "createdAt": "2017-07-13T13:53:15Z",
       "pushedAt": "2026-10-09T14:16:32Z",
-      "downloadCount": 124599,
+      "downloadCount": 124653,
       "openIssuesCount": 25,
       "archived": false,
       "latestReleaseDate": "2024-08-14T15:20:36Z",
-      "releaseRecency": 793,
-      "releaseRecencyText": "Released 793 days ago"
+      "releaseRecency": 794,
+      "releaseRecencyText": "Released 794 days ago"
     },
     {
       "id": 410179004,
@@ -842,7 +842,7 @@
       "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/enfein/mieru",
-      "stargazersCount": 2599,
+      "stargazersCount": 2602,
       "forksCount": 235,
       "language": "Go",
       "topics": [
@@ -855,15 +855,15 @@
         "tunnel"
       ],
       "releasesUrl": "https://api.github.com/repos/enfein/mieru/releases{/id}",
-      "updatedAt": "2026-10-17T04:14:32Z",
+      "updatedAt": "2026-10-18T04:04:41Z",
       "createdAt": "2021-09-25T04:54:02Z",
-      "pushedAt": "2026-10-16T22:04:01Z",
-      "downloadCount": 360674,
-      "openIssuesCount": 10,
+      "pushedAt": "2026-10-18T04:04:37Z",
+      "downloadCount": 361486,
+      "openIssuesCount": 11,
       "archived": false,
       "latestReleaseDate": "2026-10-11T00:46:14Z",
-      "releaseRecency": 6,
-      "releaseRecencyText": "Released 6 days ago"
+      "releaseRecency": 7,
+      "releaseRecencyText": "Released 7 days ago"
     },
     {
       "id": 128937968,
@@ -876,20 +876,20 @@
       "description": "A flexible tool for redirecting a program's TCP, UDP, and DNS traffic to SOCKS5 or HTTP proxies.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/hmgle/graftcp",
-      "stargazersCount": 2588,
+      "stargazersCount": 2591,
       "forksCount": 203,
       "language": "C",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/hmgle/graftcp/releases{/id}",
-      "updatedAt": "2026-10-17T06:28:00Z",
+      "updatedAt": "2026-10-17T21:59:03Z",
       "createdAt": "2018-04-10T13:33:49Z",
       "pushedAt": "2026-08-25T08:51:48Z",
-      "downloadCount": 56865,
+      "downloadCount": 57048,
       "openIssuesCount": 8,
       "archived": false,
       "latestReleaseDate": "2026-07-15T01:01:01Z",
-      "releaseRecency": 94,
-      "releaseRecencyText": "Released 94 days ago"
+      "releaseRecency": 95,
+      "releaseRecencyText": "Released 95 days ago"
     },
     {
       "id": 343316910,
@@ -917,12 +917,12 @@
       "updatedAt": "2026-10-15T09:31:56Z",
       "createdAt": "2021-03-01T06:45:22Z",
       "pushedAt": "2026-06-28T23:29:30Z",
-      "downloadCount": 70436,
+      "downloadCount": 70572,
       "openIssuesCount": 36,
       "archived": false,
       "latestReleaseDate": "2026-02-27T04:52:18Z",
-      "releaseRecency": 232,
-      "releaseRecencyText": "Released 232 days ago"
+      "releaseRecency": 233,
+      "releaseRecencyText": "Released 233 days ago"
     },
     {
       "id": 604734888,
@@ -935,7 +935,7 @@
       "description": "DNS Changer for Windows, Linux, Mac operating systems",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/DnsChanger/dnsChanger-desktop",
-      "stargazersCount": 1336,
+      "stargazersCount": 1337,
       "forksCount": 115,
       "language": "TypeScript",
       "topics": [
@@ -954,15 +954,15 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/DnsChanger/dnsChanger-desktop/releases{/id}",
-      "updatedAt": "2026-10-16T17:27:58Z",
+      "updatedAt": "2026-10-17T18:39:55Z",
       "createdAt": "2023-02-21T17:20:01Z",
       "pushedAt": "2026-10-11T08:31:38Z",
-      "downloadCount": 6441625,
+      "downloadCount": 6447864,
       "openIssuesCount": 10,
       "archived": false,
       "latestReleaseDate": "2026-08-25T00:51:40Z",
-      "releaseRecency": 53,
-      "releaseRecencyText": "Released 53 days ago"
+      "releaseRecency": 54,
+      "releaseRecencyText": "Released 54 days ago"
     },
     {
       "id": 205726729,
@@ -975,8 +975,8 @@
       "description": "An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/DNSCrypt/encrypted-dns-server",
-      "stargazersCount": 1326,
-      "forksCount": 132,
+      "stargazersCount": 1327,
+      "forksCount": 133,
       "language": "Rust",
       "topics": [
         "anonymized",
@@ -988,15 +988,15 @@
         "server"
       ],
       "releasesUrl": "https://api.github.com/repos/DNSCrypt/encrypted-dns-server/releases{/id}",
-      "updatedAt": "2026-10-16T19:48:31Z",
+      "updatedAt": "2026-10-17T09:36:18Z",
       "createdAt": "2019-09-01T20:07:18Z",
       "pushedAt": "2026-10-16T04:02:45Z",
-      "downloadCount": 10218,
+      "downloadCount": 10238,
       "openIssuesCount": 1,
       "archived": false,
       "latestReleaseDate": "2026-09-07T13:08:04Z",
-      "releaseRecency": 39,
-      "releaseRecencyText": "Released 39 days ago"
+      "releaseRecency": 40,
+      "releaseRecencyText": "Released 40 days ago"
     },
     {
       "id": 151043940,
@@ -1025,15 +1025,15 @@
         "resolver"
       ],
       "releasesUrl": "https://api.github.com/repos/semihalev/sdns/releases{/id}",
-      "updatedAt": "2026-10-16T06:26:59Z",
+      "updatedAt": "2026-10-18T00:44:35Z",
       "createdAt": "2018-10-01T06:13:46Z",
-      "pushedAt": "2026-10-15T15:32:43Z",
-      "downloadCount": 8852,
-      "openIssuesCount": 9,
+      "pushedAt": "2026-10-18T00:44:32Z",
+      "downloadCount": 8861,
+      "openIssuesCount": 7,
       "archived": false,
       "latestReleaseDate": "2026-10-02T23:35:31Z",
-      "releaseRecency": 14,
-      "releaseRecencyText": "Released 14 days ago"
+      "releaseRecency": 15,
+      "releaseRecencyText": "Released 15 days ago"
     },
     {
       "id": 300549409,
@@ -1046,7 +1046,7 @@
       "description": "Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · FTP/SFTP · SMB · LDAP/S · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/goshs-labs/goshs",
-      "stargazersCount": 989,
+      "stargazersCount": 988,
       "forksCount": 59,
       "language": "Go",
       "topics": [
@@ -1072,15 +1072,15 @@
         "webdav"
       ],
       "releasesUrl": "https://api.github.com/repos/goshs-labs/goshs/releases{/id}",
-      "updatedAt": "2026-10-16T14:59:25Z",
+      "updatedAt": "2026-10-17T12:32:54Z",
       "createdAt": "2020-10-02T08:24:17Z",
       "pushedAt": "2026-10-16T12:47:29Z",
-      "downloadCount": 36476,
+      "downloadCount": 36655,
       "openIssuesCount": 0,
       "archived": false,
       "latestReleaseDate": "2026-09-28T07:17:05Z",
-      "releaseRecency": 18,
-      "releaseRecencyText": "Released 18 days ago"
+      "releaseRecency": 20,
+      "releaseRecencyText": "Released 20 days ago"
     },
     {
       "id": 402212200,
@@ -1093,7 +1093,7 @@
       "description": "One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/spr-networks/super",
-      "stargazersCount": 870,
+      "stargazersCount": 871,
       "forksCount": 67,
       "language": "JavaScript",
       "topics": [
@@ -1117,56 +1117,15 @@
         "wireguard"
       ],
       "releasesUrl": "https://api.github.com/repos/spr-networks/super/releases{/id}",
-      "updatedAt": "2026-10-13T17:05:40Z",
+      "updatedAt": "2026-10-18T05:18:49Z",
       "createdAt": "2021-09-01T21:50:47Z",
-      "pushedAt": "2026-10-10T18:59:31Z",
-      "downloadCount": 3189,
+      "pushedAt": "2026-10-17T19:20:53Z",
+      "downloadCount": 3193,
       "openIssuesCount": 32,
       "archived": false,
       "latestReleaseDate": "2026-10-10T18:48:05Z",
-      "releaseRecency": 6,
-      "releaseRecencyText": "Released 6 days ago"
-    },
-    {
-      "id": 190673829,
-      "name": "routedns",
-      "fullName": "folbricht/routedns",
-      "owner": {
-        "login": "folbricht",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/3505107?v=4"
-      },
-      "description": "DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS",
-      "defaultBranch": "master",
-      "htmlUrl": "https://github.com/folbricht/routedns",
-      "stargazersCount": 632,
-      "forksCount": 80,
-      "language": "Go",
-      "topics": [
-        "dns",
-        "dns-client",
-        "dns-over-dtls",
-        "dns-over-https",
-        "dns-over-quic",
-        "dns-over-tls",
-        "dns-privacy",
-        "dns-server",
-        "doh",
-        "doq",
-        "dot",
-        "go",
-        "golang",
-        "pipelining"
-      ],
-      "releasesUrl": "https://api.github.com/repos/folbricht/routedns/releases{/id}",
-      "updatedAt": "2026-10-13T12:57:25Z",
-      "createdAt": "2019-06-07T01:43:23Z",
-      "pushedAt": "2026-10-13T12:58:01Z",
-      "downloadCount": 3134,
-      "openIssuesCount": 21,
-      "archived": false,
-      "latestReleaseDate": "2026-09-21T10:36:23Z",
-      "releaseRecency": 25,
-      "releaseRecencyText": "Released 25 days ago"
+      "releaseRecency": 7,
+      "releaseRecencyText": "Released 7 days ago"
     },
     {
       "id": 966918218,
@@ -1179,7 +1138,7 @@
       "description": "A high-performance, programmable DNS engine in Rust with flexible pipeline-based routing.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/svenshi/oxidns",
-      "stargazersCount": 564,
+      "stargazersCount": 568,
       "forksCount": 46,
       "language": "Rust",
       "topics": [
@@ -1193,15 +1152,15 @@
         "rustdns"
       ],
       "releasesUrl": "https://api.github.com/repos/svenshi/oxidns/releases{/id}",
-      "updatedAt": "2026-10-17T05:24:02Z",
+      "updatedAt": "2026-10-17T21:15:54Z",
       "createdAt": "2025-04-15T16:42:18Z",
       "pushedAt": "2026-10-14T08:41:54Z",
-      "downloadCount": 10029,
+      "downloadCount": 10129,
       "openIssuesCount": 16,
       "archived": false,
       "latestReleaseDate": "2026-10-08T06:24:45Z",
-      "releaseRecency": 9,
-      "releaseRecencyText": "Released 9 days ago"
+      "releaseRecency": 10,
+      "releaseRecencyText": "Released 10 days ago"
     },
     {
       "id": 37620914,
@@ -1237,8 +1196,8 @@
       "openIssuesCount": 0,
       "archived": false,
       "latestReleaseDate": "2020-09-19T00:32:46Z",
-      "releaseRecency": 2219,
-      "releaseRecencyText": "Released 2219 days ago"
+      "releaseRecency": 2220,
+      "releaseRecencyText": "Released 2220 days ago"
     },
     {
       "id": 1288402472,
@@ -1269,13 +1228,13 @@
         "windows"
       ],
       "releasesUrl": "https://api.github.com/repos/bnfy/blanc/releases{/id}",
-      "updatedAt": "2026-10-17T04:08:05Z",
+      "updatedAt": "2026-10-18T07:06:57Z",
       "createdAt": "2026-07-03T15:06:24Z",
-      "pushedAt": "2026-10-17T03:34:50Z",
-      "downloadCount": 55063,
-      "openIssuesCount": 19,
+      "pushedAt": "2026-10-18T07:26:58Z",
+      "downloadCount": 57374,
+      "openIssuesCount": 22,
       "archived": false,
-      "latestReleaseDate": "2026-10-16T19:01:32Z",
+      "latestReleaseDate": "2026-10-17T14:28:15Z",
       "releaseRecency": 0,
       "releaseRecencyText": "Released today"
     }
