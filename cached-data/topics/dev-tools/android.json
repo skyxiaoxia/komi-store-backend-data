@@ -1,9 +1,45 @@
 {
   "category": "topics/dev-tools",
   "platform": "android",
-  "lastUpdated": "2026-10-20T07:17:20.098153Z",
-  "totalCount": 9,
+  "lastUpdated": "2026-10-21T07:14:30.397544Z",
+  "totalCount": 10,
   "repositories": [
+    {
+      "id": 1175248503,
+      "name": "Gitling",
+      "fullName": "maneeshacooray/Gitling",
+      "owner": {
+        "login": "maneeshacooray",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73420419?v=4"
+      },
+      "description": "Git client for Android, built with Jetpack Compose and Material 3 Expressive. One-tap GitHub sign-in, no ads, no tracking.",
+      "defaultBranch": "master",
+      "htmlUrl": "https://github.com/maneeshacooray/Gitling",
+      "stargazersCount": 113,
+      "forksCount": 6,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "fdroid",
+        "git",
+        "git-client",
+        "jetpack-compose",
+        "kotlin",
+        "material-you",
+        "mobile-app"
+      ],
+      "releasesUrl": "https://api.github.com/repos/maneeshacooray/Gitling/releases{/id}",
+      "updatedAt": "2026-10-20T17:14:00Z",
+      "createdAt": "2026-03-07T12:54:29Z",
+      "pushedAt": "2026-10-20T17:13:50Z",
+      "downloadCount": 1831,
+      "openIssuesCount": 2,
+      "archived": false,
+      "latestReleaseDate": "2026-10-20T17:21:10Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
+    },
     {
       "id": 44804216,
       "name": "termux-app",
@@ -15,8 +51,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/termux/termux-app",
-      "stargazersCount": 63018,
-      "forksCount": 7953,
+      "stargazersCount": 63087,
+      "forksCount": 7971,
       "language": "Java",
       "topics": [
         "android",
@@ -26,15 +62,15 @@
         "termux"
       ],
       "releasesUrl": "https://api.github.com/repos/termux/termux-app/releases{/id}",
-      "updatedAt": "2026-10-20T07:44:46Z",
+      "updatedAt": "2026-10-21T07:23:14Z",
       "createdAt": "2015-10-23T09:42:46Z",
       "pushedAt": "2026-09-26T05:11:44Z",
-      "downloadCount": 10776674,
+      "downloadCount": 10793956,
       "openIssuesCount": 644,
       "archived": false,
       "latestReleaseDate": "2025-05-22T22:47:26Z",
-      "releaseRecency": 515,
-      "releaseRecencyText": "Released 515 days ago"
+      "releaseRecency": 516,
+      "releaseRecencyText": "Released 516 days ago"
     },
     {
       "id": 32483164,
@@ -69,12 +105,12 @@
       "updatedAt": "2026-10-20T02:51:14Z",
       "createdAt": "2015-03-18T20:41:57Z",
       "pushedAt": "2026-03-23T02:00:57Z",
-      "downloadCount": 149309,
+      "downloadCount": 149390,
       "openIssuesCount": 179,
       "archived": false,
       "latestReleaseDate": "2025-09-21T07:16:59Z",
-      "releaseRecency": 394,
-      "releaseRecencyText": "Released 394 days ago"
+      "releaseRecency": 395,
+      "releaseRecencyText": "Released 395 days ago"
     },
     {
       "id": 632255125,
@@ -87,7 +123,7 @@
       "description": "Turn your Android device into a powerful game streaming terminal! Gawr! ✨",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/qiin2333/moonlight-vplus",
-      "stargazersCount": 4150,
+      "stargazersCount": 4160,
       "forksCount": 104,
       "language": "Kotlin",
       "topics": [
@@ -97,15 +133,15 @@
         "sunshine"
       ],
       "releasesUrl": "https://api.github.com/repos/qiin2333/moonlight-vplus/releases{/id}",
-      "updatedAt": "2026-10-20T05:17:23Z",
+      "updatedAt": "2026-10-21T06:52:29Z",
       "createdAt": "2023-04-25T03:14:39Z",
-      "pushedAt": "2026-10-20T02:28:41Z",
-      "downloadCount": 360591,
+      "pushedAt": "2026-10-21T06:52:30Z",
+      "downloadCount": 361574,
       "openIssuesCount": 74,
       "archived": false,
       "latestReleaseDate": "2026-10-17T07:06:21Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "releaseRecency": 4,
+      "releaseRecencyText": "Released 4 days ago"
     },
     {
       "id": 880108124,
@@ -118,7 +154,7 @@
       "description": "An android git client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/catpuppyapp/PuppyGit",
-      "stargazersCount": 898,
+      "stargazersCount": 899,
       "forksCount": 155,
       "language": "Kotlin",
       "topics": [
@@ -131,15 +167,15 @@
         "obsidian-sync"
       ],
       "releasesUrl": "https://api.github.com/repos/catpuppyapp/PuppyGit/releases{/id}",
-      "updatedAt": "2026-10-20T04:27:57Z",
+      "updatedAt": "2026-10-20T17:28:14Z",
       "createdAt": "2024-10-29T06:02:22Z",
       "pushedAt": "2026-09-23T07:24:41Z",
-      "downloadCount": 18065,
+      "downloadCount": 18081,
       "openIssuesCount": 16,
       "archived": false,
       "latestReleaseDate": "2026-09-23T07:24:41Z",
-      "releaseRecency": 27,
-      "releaseRecencyText": "Released 27 days ago"
+      "releaseRecency": 28,
+      "releaseRecencyText": "Released 28 days ago"
     },
     {
       "id": 812362660,
@@ -152,8 +188,8 @@
       "description": "Mobile Git client for syncing a repository between remote and a local directory",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ViscousPot/GitSync",
-      "stargazersCount": 2448,
-      "forksCount": 203,
+      "stargazersCount": 2451,
+      "forksCount": 204,
       "language": "Dart",
       "topics": [
         "git",
@@ -162,15 +198,15 @@
         "sync"
       ],
       "releasesUrl": "https://api.github.com/repos/ViscousPot/GitSync/releases{/id}",
-      "updatedAt": "2026-10-20T06:02:09Z",
+      "updatedAt": "2026-10-20T21:57:54Z",
       "createdAt": "2024-06-08T17:10:16Z",
       "pushedAt": "2026-10-15T06:33:56Z",
-      "downloadCount": 17842,
+      "downloadCount": 17877,
       "openIssuesCount": 170,
       "archived": false,
       "latestReleaseDate": "2026-09-11T04:52:52Z",
-      "releaseRecency": 39,
-      "releaseRecencyText": "Released 39 days ago"
+      "releaseRecency": 40,
+      "releaseRecencyText": "Released 40 days ago"
     },
     {
       "id": 741230168,
@@ -184,19 +220,19 @@
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/charmbracelet/freeze",
       "stargazersCount": 4890,
-      "forksCount": 107,
+      "forksCount": 106,
       "language": "Go",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/charmbracelet/freeze/releases{/id}",
-      "updatedAt": "2026-10-19T19:44:37Z",
+      "updatedAt": "2026-10-20T19:12:52Z",
       "createdAt": "2024-01-10T00:51:47Z",
       "pushedAt": "2026-09-16T14:00:08Z",
-      "downloadCount": 67620,
+      "downloadCount": 68027,
       "openIssuesCount": 79,
       "archived": false,
       "latestReleaseDate": "2025-04-01T23:42:28Z",
-      "releaseRecency": 566,
-      "releaseRecencyText": "Released 566 days ago"
+      "releaseRecency": 567,
+      "releaseRecencyText": "Released 567 days ago"
     },
     {
       "id": 618514446,
@@ -210,7 +246,7 @@
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/gptme/gptme",
       "stargazersCount": 4457,
-      "forksCount": 454,
+      "forksCount": 453,
       "language": "Python",
       "topics": [
         "agent",
@@ -235,15 +271,15 @@
         "terminal"
       ],
       "releasesUrl": "https://api.github.com/repos/gptme/gptme/releases{/id}",
-      "updatedAt": "2026-10-20T01:11:19Z",
+      "updatedAt": "2026-10-20T12:51:08Z",
       "createdAt": "2023-03-24T16:25:01Z",
-      "pushedAt": "2026-10-20T07:44:49Z",
-      "downloadCount": 6091,
-      "openIssuesCount": 20,
+      "pushedAt": "2026-10-21T06:56:45Z",
+      "downloadCount": 6157,
+      "openIssuesCount": 19,
       "archived": false,
       "latestReleaseDate": "2026-10-15T22:08:47Z",
-      "releaseRecency": 4,
-      "releaseRecencyText": "Released 4 days ago"
+      "releaseRecency": 5,
+      "releaseRecencyText": "Released 5 days ago"
     },
     {
       "id": 656839452,
@@ -256,20 +292,20 @@
       "description": "Send emails from your terminal 📬",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/charmbracelet/pop",
-      "stargazersCount": 2923,
+      "stargazersCount": 2924,
       "forksCount": 76,
       "language": "Go",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/charmbracelet/pop/releases{/id}",
-      "updatedAt": "2026-10-14T07:14:47Z",
+      "updatedAt": "2026-10-20T11:34:14Z",
       "createdAt": "2023-06-21T18:45:38Z",
       "pushedAt": "2026-10-01T10:31:16Z",
-      "downloadCount": 21591,
+      "downloadCount": 22066,
       "openIssuesCount": 31,
       "archived": false,
       "latestReleaseDate": "2026-08-20T12:29:01Z",
-      "releaseRecency": 60,
-      "releaseRecencyText": "Released 60 days ago"
+      "releaseRecency": 61,
+      "releaseRecencyText": "Released 61 days ago"
     },
     {
       "id": 1177159647,
@@ -283,22 +319,22 @@
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/SableClient/Sable-Legacy",
       "stargazersCount": 519,
-      "forksCount": 102,
+      "forksCount": 101,
       "language": "TypeScript",
       "topics": [
         "matrix",
         "matrix-client"
       ],
       "releasesUrl": "https://api.github.com/repos/SableClient/Sable-Legacy/releases{/id}",
-      "updatedAt": "2026-10-20T00:17:58Z",
+      "updatedAt": "2026-10-20T15:23:52Z",
       "createdAt": "2026-03-09T18:53:02Z",
       "pushedAt": "2026-10-20T01:31:26Z",
-      "downloadCount": 668005,
+      "downloadCount": 671200,
       "openIssuesCount": 308,
       "archived": false,
       "latestReleaseDate": "2026-09-30T09:39:56Z",
-      "releaseRecency": 19,
-      "releaseRecencyText": "Released 19 days ago"
+      "releaseRecency": 20,
+      "releaseRecencyText": "Released 20 days ago"
     }
   ]
 }
