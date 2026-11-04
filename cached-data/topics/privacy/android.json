@@ -1,8 +1,8 @@
 {
   "category": "topics/privacy",
   "platform": "android",
-  "lastUpdated": "2026-11-03T09:08:56.683140Z",
-  "totalCount": 8,
+  "lastUpdated": "2026-11-04T08:45:22.053736Z",
+  "totalCount": 7,
   "repositories": [
     {
       "id": 254202848,
@@ -15,8 +15,8 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/florisboard/florisboard",
-      "stargazersCount": 8744,
-      "forksCount": 751,
+      "stargazersCount": 8749,
+      "forksCount": 752,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -26,15 +26,15 @@
         "kotlin-android"
       ],
       "releasesUrl": "https://api.github.com/repos/florisboard/florisboard/releases{/id}",
-      "updatedAt": "2026-11-02T23:42:10Z",
+      "updatedAt": "2026-11-04T06:08:06Z",
       "createdAt": "2020-04-08T21:18:23Z",
       "pushedAt": "2026-11-02T21:45:23Z",
-      "downloadCount": 286929,
+      "downloadCount": 287369,
       "openIssuesCount": 474,
       "archived": false,
       "latestReleaseDate": "2025-11-28T15:17:55Z",
-      "releaseRecency": 339,
-      "releaseRecencyText": "Released 339 days ago"
+      "releaseRecency": 340,
+      "releaseRecencyText": "Released 340 days ago"
     },
     {
       "id": 987110251,
@@ -47,20 +47,20 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/PixelPlayerHQ/PixelPlayer",
-      "stargazersCount": 6877,
-      "forksCount": 562,
+      "stargazersCount": 6885,
+      "forksCount": 561,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/PixelPlayerHQ/PixelPlayer/releases{/id}",
-      "updatedAt": "2026-11-03T09:10:42Z",
+      "updatedAt": "2026-11-04T06:04:01Z",
       "createdAt": "2025-05-20T15:33:18Z",
       "pushedAt": "2026-09-21T07:25:24Z",
-      "downloadCount": 416922,
-      "openIssuesCount": 669,
+      "downloadCount": 417440,
+      "openIssuesCount": 670,
       "archived": false,
       "latestReleaseDate": "2026-06-13T21:44:52Z",
-      "releaseRecency": 142,
-      "releaseRecencyText": "Released 142 days ago"
+      "releaseRecency": 143,
+      "releaseRecencyText": "Released 143 days ago"
     },
     {
       "id": 467842934,
@@ -73,54 +73,20 @@
       "description": "Customizable and privacy-conscious open-source keyboard",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/HeliBorg/HeliBoard",
-      "stargazersCount": 6486,
-      "forksCount": 657,
+      "stargazersCount": 6493,
+      "forksCount": 659,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/HeliBorg/HeliBoard/releases{/id}",
-      "updatedAt": "2026-11-03T09:27:13Z",
+      "updatedAt": "2026-11-04T07:50:55Z",
       "createdAt": "2022-03-09T08:38:32Z",
-      "pushedAt": "2026-10-31T09:46:54Z",
-      "downloadCount": 467596,
-      "openIssuesCount": 871,
+      "pushedAt": "2026-11-04T07:30:21Z",
+      "downloadCount": 468173,
+      "openIssuesCount": 872,
       "archived": false,
       "latestReleaseDate": "2026-10-12T17:32:37Z",
-      "releaseRecency": 21,
-      "releaseRecencyText": "Released 21 days ago"
-    },
-    {
-      "id": 1380117,
-      "name": "lantern",
-      "fullName": "getlantern/lantern",
-      "owner": {
-        "login": "getlantern",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/624178?v=4"
-      },
-      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/getlantern/lantern",
-      "stargazersCount": 16652,
-      "forksCount": 11049,
-      "language": "Dart",
-      "topics": [
-        "accelerator",
-        "censorship",
-        "circumvention",
-        "gfw",
-        "lantern",
-        "router",
-        "vpn"
-      ],
-      "releasesUrl": "https://api.github.com/repos/getlantern/lantern/releases{/id}",
-      "updatedAt": "2026-11-03T09:16:44Z",
-      "createdAt": "2011-02-17T22:12:29Z",
-      "pushedAt": "2026-11-03T09:26:58Z",
-      "downloadCount": 124705639,
-      "openIssuesCount": 33,
-      "archived": false,
-      "latestReleaseDate": "2026-11-02T20:19:12Z",
-      "releaseRecency": 0,
-      "releaseRecencyText": "Released today"
+      "releaseRecency": 22,
+      "releaseRecencyText": "Released 22 days ago"
     },
     {
       "id": 257841809,
@@ -133,20 +99,20 @@
       "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/uazo/cromite",
-      "stargazersCount": 8459,
-      "forksCount": 326,
+      "stargazersCount": 8461,
+      "forksCount": 329,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/uazo/cromite/releases{/id}",
-      "updatedAt": "2026-11-03T06:44:55Z",
+      "updatedAt": "2026-11-04T01:03:43Z",
       "createdAt": "2020-04-22T08:38:25Z",
-      "pushedAt": "2026-11-01T10:00:49Z",
-      "downloadCount": 4015811,
-      "openIssuesCount": 595,
+      "pushedAt": "2026-11-04T08:14:04Z",
+      "downloadCount": 4019814,
+      "openIssuesCount": 596,
       "archived": false,
       "latestReleaseDate": "2026-09-15T11:51:14Z",
-      "releaseRecency": 48,
-      "releaseRecencyText": "Released 48 days ago"
+      "releaseRecency": 49,
+      "releaseRecencyText": "Released 49 days ago"
     },
     {
       "id": 291438522,
@@ -159,8 +125,8 @@
       "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/siyuan-note/siyuan",
-      "stargazersCount": 47050,
-      "forksCount": 3095,
+      "stargazersCount": 47069,
+      "forksCount": 3099,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -169,21 +135,22 @@
         "local-first",
         "markdown",
         "mcp",
+        "mindmap",
         "note-taking",
         "self-hosted",
         "siyuan",
         "workspace"
       ],
       "releasesUrl": "https://api.github.com/repos/siyuan-note/siyuan/releases{/id}",
-      "updatedAt": "2026-11-03T08:13:02Z",
+      "updatedAt": "2026-11-04T09:09:15Z",
       "createdAt": "2020-08-30T09:21:35Z",
-      "pushedAt": "2026-11-03T09:29:02Z",
-      "downloadCount": 3646866,
-      "openIssuesCount": 10,
+      "pushedAt": "2026-11-04T06:27:25Z",
+      "downloadCount": 3656165,
+      "openIssuesCount": 13,
       "archived": false,
       "latestReleaseDate": "2026-10-29T06:19:05Z",
-      "releaseRecency": 5,
-      "releaseRecencyText": "Released 5 days ago"
+      "releaseRecency": 6,
+      "releaseRecencyText": "Released 6 days ago"
     },
     {
       "id": 266231149,
@@ -196,7 +163,7 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/logseq/logseq",
-      "stargazersCount": 45465,
+      "stargazersCount": 45473,
       "forksCount": 2866,
       "language": "Clojure",
       "topics": [
@@ -213,15 +180,15 @@
         "pkm"
       ],
       "releasesUrl": "https://api.github.com/repos/logseq/logseq/releases{/id}",
-      "updatedAt": "2026-11-03T07:43:00Z",
+      "updatedAt": "2026-11-04T08:04:04Z",
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-11-01T15:18:42Z",
-      "downloadCount": 95179641,
-      "openIssuesCount": 1024,
+      "pushedAt": "2026-11-03T23:54:38Z",
+      "downloadCount": 95310946,
+      "openIssuesCount": 1026,
       "archived": false,
       "latestReleaseDate": "2026-10-07T14:18:57Z",
-      "releaseRecency": 26,
-      "releaseRecencyText": "Released 26 days ago"
+      "releaseRecency": 27,
+      "releaseRecencyText": "Released 27 days ago"
     },
     {
       "id": 877230294,
@@ -235,7 +202,7 @@
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
       "stargazersCount": 11157,
-      "forksCount": 792,
+      "forksCount": 793,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -248,15 +215,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-11-03T08:04:23Z",
+      "updatedAt": "2026-11-04T02:44:48Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-08-27T05:11:11Z",
-      "downloadCount": 35366,
-      "openIssuesCount": 425,
+      "downloadCount": 35414,
+      "openIssuesCount": 431,
       "archived": false,
       "latestReleaseDate": "2026-06-20T08:30:09Z",
-      "releaseRecency": 136,
-      "releaseRecencyText": "Released 136 days ago"
+      "releaseRecency": 137,
+      "releaseRecencyText": "Released 137 days ago"
     }
   ]
 }
