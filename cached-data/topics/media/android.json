@@ -1,8 +1,8 @@
 {
   "category": "topics/media",
   "platform": "android",
-  "lastUpdated": "2026-11-14T08:43:35.212282Z",
-  "totalCount": 26,
+  "lastUpdated": "2026-11-15T08:55:21.283760Z",
+  "totalCount": 27,
   "repositories": [
     {
       "id": 598940882,
@@ -15,8 +15,8 @@
       "description": "An Android native video player",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/anilbeesetti/nextplayer",
-      "stargazersCount": 4735,
-      "forksCount": 403,
+      "stargazersCount": 4747,
+      "forksCount": 404,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -34,15 +34,15 @@
         "video-player"
       ],
       "releasesUrl": "https://api.github.com/repos/anilbeesetti/nextplayer/releases{/id}",
-      "updatedAt": "2026-11-14T08:54:26Z",
+      "updatedAt": "2026-11-15T08:34:09Z",
       "createdAt": "2023-02-08T05:34:22Z",
-      "pushedAt": "2026-11-14T07:30:58Z",
-      "downloadCount": 218489,
-      "openIssuesCount": 512,
+      "pushedAt": "2026-11-14T17:39:04Z",
+      "downloadCount": 220749,
+      "openIssuesCount": 513,
       "archived": false,
-      "latestReleaseDate": "2026-11-02T10:18:16Z",
-      "releaseRecency": 11,
-      "releaseRecencyText": "Released 11 days ago"
+      "latestReleaseDate": "2026-11-14T16:03:53Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 614314251,
@@ -55,8 +55,8 @@
       "description": "Media Gallery app for Android made with Jetpack Compose",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/IacobIonut01/ReFra",
-      "stargazersCount": 3012,
-      "forksCount": 182,
+      "stargazersCount": 3018,
+      "forksCount": 183,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -66,15 +66,15 @@
         "kotlin"
       ],
       "releasesUrl": "https://api.github.com/repos/IacobIonut01/ReFra/releases{/id}",
-      "updatedAt": "2026-11-14T08:37:08Z",
+      "updatedAt": "2026-11-15T08:45:51Z",
       "createdAt": "2023-03-15T10:40:57Z",
       "pushedAt": "2026-11-14T04:51:00Z",
-      "downloadCount": 227766,
-      "openIssuesCount": 245,
+      "downloadCount": 228495,
+      "openIssuesCount": 247,
       "archived": false,
       "latestReleaseDate": "2026-10-04T16:54:56Z",
-      "releaseRecency": 40,
-      "releaseRecencyText": "Released 40 days ago"
+      "releaseRecency": 41,
+      "releaseRecencyText": "Released 41 days ago"
     },
     {
       "id": 1088320038,
@@ -87,8 +87,8 @@
       "description": "A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/marlboro-advance/mpvEx",
-      "stargazersCount": 2776,
-      "forksCount": 246,
+      "stargazersCount": 2781,
+      "forksCount": 244,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -102,15 +102,62 @@
         "videoplayer"
       ],
       "releasesUrl": "https://api.github.com/repos/marlboro-advance/mpvEx/releases{/id}",
-      "updatedAt": "2026-11-14T04:11:10Z",
+      "updatedAt": "2026-11-15T01:15:14Z",
       "createdAt": "2025-11-02T18:34:51Z",
       "pushedAt": "2026-10-24T14:14:31Z",
-      "downloadCount": 191957,
+      "downloadCount": 192442,
       "openIssuesCount": 285,
       "archived": false,
       "latestReleaseDate": "2026-09-25T12:22:15Z",
-      "releaseRecency": 49,
-      "releaseRecencyText": "Released 49 days ago"
+      "releaseRecency": 50,
+      "releaseRecencyText": "Released 50 days ago"
+    },
+    {
+      "id": 1283291297,
+      "name": "Levyra-deepsound",
+      "fullName": "LUC4N3X/Levyra-deepsound",
+      "owner": {
+        "login": "LUC4N3X",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/241364318?v=4"
+      },
+      "description": "Made for listening, not logging in. Levyra is an open-source music player for Android and Windows, bringing music discovery, synced lyrics, radio and beautiful artwork together. No ads, no tracking, just music ♫",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/LUC4N3X/Levyra-deepsound",
+      "stargazersCount": 1896,
+      "forksCount": 47,
+      "language": "Kotlin",
+      "topics": [
+        "ad-free-music",
+        "android",
+        "android-music-player",
+        "apple-music",
+        "audio-player",
+        "foss",
+        "jetpack-compose",
+        "jiosaavn",
+        "kotlin",
+        "material3-expressive",
+        "music-client",
+        "music-downloader",
+        "music-player",
+        "music-streaming",
+        "newpipe",
+        "offline-music-player",
+        "open-source",
+        "spotify",
+        "youtube",
+        "youtube-music"
+      ],
+      "releasesUrl": "https://api.github.com/repos/LUC4N3X/Levyra-deepsound/releases{/id}",
+      "updatedAt": "2026-11-15T09:14:16Z",
+      "createdAt": "2026-06-28T19:00:45Z",
+      "pushedAt": "2026-11-15T09:14:38Z",
+      "downloadCount": 20141,
+      "openIssuesCount": 4,
+      "archived": false,
+      "latestReleaseDate": "2026-11-14T21:23:30Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 673692665,
@@ -123,8 +170,8 @@
       "description": "A sane music player built with media3 and material design library that is following android's standard strictly.",
       "defaultBranch": "beta",
       "htmlUrl": "https://github.com/FoedusProgramme/Gramophone",
-      "stargazersCount": 2393,
-      "forksCount": 155,
+      "stargazersCount": 2397,
+      "forksCount": 156,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -139,15 +186,15 @@
         "music-player"
       ],
       "releasesUrl": "https://api.github.com/repos/FoedusProgramme/Gramophone/releases{/id}",
-      "updatedAt": "2026-11-13T04:53:32Z",
+      "updatedAt": "2026-11-15T00:59:01Z",
       "createdAt": "2023-08-02T07:57:11Z",
-      "pushedAt": "2026-11-11T23:52:03Z",
-      "downloadCount": 56593,
+      "pushedAt": "2026-11-14T23:50:45Z",
+      "downloadCount": 56717,
       "openIssuesCount": 321,
       "archived": false,
       "latestReleaseDate": "2026-08-20T10:00:43Z",
-      "releaseRecency": 85,
-      "releaseRecencyText": "Released 85 days ago"
+      "releaseRecency": 86,
+      "releaseRecencyText": "Released 86 days ago"
     },
     {
       "id": 799994079,
@@ -160,8 +207,8 @@
       "description": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
       "defaultBranch": "lite",
       "htmlUrl": "https://github.com/OuterTune/OuterTune",
-      "stargazersCount": 5453,
-      "forksCount": 377,
+      "stargazersCount": 5456,
+      "forksCount": 378,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -170,15 +217,15 @@
         "music-player"
       ],
       "releasesUrl": "https://api.github.com/repos/OuterTune/OuterTune/releases{/id}",
-      "updatedAt": "2026-11-14T04:27:30Z",
+      "updatedAt": "2026-11-15T09:06:00Z",
       "createdAt": "2024-05-13T13:55:37Z",
       "pushedAt": "2026-10-12T18:01:37Z",
-      "downloadCount": 1636090,
+      "downloadCount": 1636991,
       "openIssuesCount": 298,
       "archived": false,
       "latestReleaseDate": "2025-12-19T04:38:56Z",
-      "releaseRecency": 330,
-      "releaseRecencyText": "Released 330 days ago"
+      "releaseRecency": 331,
+      "releaseRecencyText": "Released 331 days ago"
     },
     {
       "id": 418086942,
@@ -191,7 +238,7 @@
       "description": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 7193,
+      "stargazersCount": 7202,
       "forksCount": 447,
       "language": "Kotlin",
       "topics": [
@@ -217,15 +264,15 @@
         "web"
       ],
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
-      "updatedAt": "2026-11-14T07:41:35Z",
+      "updatedAt": "2026-11-15T08:09:40Z",
       "createdAt": "2021-10-17T10:03:14Z",
-      "pushedAt": "2026-11-14T05:23:56Z",
-      "downloadCount": 97698,
+      "pushedAt": "2026-11-14T12:05:27Z",
+      "downloadCount": 97845,
       "openIssuesCount": 70,
       "archived": false,
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "releaseRecency": 63,
-      "releaseRecencyText": "Released 63 days ago"
+      "releaseRecency": 64,
+      "releaseRecencyText": "Released 64 days ago"
     },
     {
       "id": 283211901,
@@ -238,8 +285,8 @@
       "description": "Browse media content with your own rules on Android TV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/yuliskov/SmartTube",
-      "stargazersCount": 36312,
-      "forksCount": 2318,
+      "stargazersCount": 36347,
+      "forksCount": 2323,
       "language": "Java",
       "topics": [
         "android",
@@ -251,15 +298,15 @@
         "rxjava-android"
       ],
       "releasesUrl": "https://api.github.com/repos/yuliskov/SmartTube/releases{/id}",
-      "updatedAt": "2026-11-14T08:33:06Z",
+      "updatedAt": "2026-11-15T09:05:50Z",
       "createdAt": "2020-07-28T12:53:52Z",
       "pushedAt": "2026-11-14T09:03:54Z",
-      "downloadCount": 7171243,
-      "openIssuesCount": 873,
+      "downloadCount": 7658372,
+      "openIssuesCount": 878,
       "archived": false,
       "latestReleaseDate": "2026-11-06T12:00:29Z",
-      "releaseRecency": 7,
-      "releaseRecencyText": "Released 7 days ago"
+      "releaseRecency": 8,
+      "releaseRecencyText": "Released 8 days ago"
     },
     {
       "id": 1048623630,
@@ -272,8 +319,8 @@
       "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/rukamori/ArchiveTune",
-      "stargazersCount": 8259,
-      "forksCount": 361,
+      "stargazersCount": 8278,
+      "forksCount": 362,
       "language": "Kotlin",
       "topics": [
         "android-application",
@@ -296,15 +343,15 @@
         "youtube-music-client"
       ],
       "releasesUrl": "https://api.github.com/repos/rukamori/ArchiveTune/releases{/id}",
-      "updatedAt": "2026-11-14T06:29:54Z",
+      "updatedAt": "2026-11-15T08:13:04Z",
       "createdAt": "2025-09-01T18:42:42Z",
-      "pushedAt": "2026-11-14T09:02:11Z",
-      "downloadCount": 999607,
+      "pushedAt": "2026-11-14T09:50:19Z",
+      "downloadCount": 1003461,
       "openIssuesCount": 175,
       "archived": false,
       "latestReleaseDate": "2026-09-26T18:26:54Z",
-      "releaseRecency": 48,
-      "releaseRecencyText": "Released 48 days ago"
+      "releaseRecency": 49,
+      "releaseRecencyText": "Released 49 days ago"
     },
     {
       "id": 288218307,
@@ -317,8 +364,8 @@
       "description": "A simple, rational music player for android",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/OxygenCobalt/Auxio",
-      "stargazersCount": 4459,
-      "forksCount": 365,
+      "stargazersCount": 4463,
+      "forksCount": 366,
       "language": "Kotlin",
       "topics": [
         "album",
@@ -340,15 +387,15 @@
         "songs"
       ],
       "releasesUrl": "https://api.github.com/repos/OxygenCobalt/Auxio/releases{/id}",
-      "updatedAt": "2026-11-14T02:48:08Z",
+      "updatedAt": "2026-11-15T00:48:43Z",
       "createdAt": "2020-08-17T15:35:11Z",
-      "pushedAt": "2026-11-02T05:05:52Z",
-      "downloadCount": 191811,
-      "openIssuesCount": 210,
+      "pushedAt": "2026-11-15T04:56:48Z",
+      "downloadCount": 192062,
+      "openIssuesCount": 203,
       "archived": false,
       "latestReleaseDate": "2026-08-04T04:07:24Z",
-      "releaseRecency": 102,
-      "releaseRecencyText": "Released 102 days ago"
+      "releaseRecency": 103,
+      "releaseRecencyText": "Released 103 days ago"
     },
     {
       "id": 521189491,
@@ -361,8 +408,8 @@
       "description": "Android app for streaming and downloading media.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/recloudstream/cloudstream",
-      "stargazersCount": 11290,
-      "forksCount": 1209,
+      "stargazersCount": 11298,
+      "forksCount": 1214,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -373,15 +420,15 @@
         "video-streaming"
       ],
       "releasesUrl": "https://api.github.com/repos/recloudstream/cloudstream/releases{/id}",
-      "updatedAt": "2026-11-14T08:12:20Z",
+      "updatedAt": "2026-11-15T09:08:34Z",
       "createdAt": "2022-08-04T08:42:38Z",
       "pushedAt": "2026-11-12T03:51:38Z",
-      "downloadCount": 6999417,
-      "openIssuesCount": 578,
+      "downloadCount": 7023909,
+      "openIssuesCount": 579,
       "archived": false,
       "latestReleaseDate": "2026-11-09T12:58:06Z",
-      "releaseRecency": 4,
-      "releaseRecencyText": "Released 4 days ago"
+      "releaseRecency": 5,
+      "releaseRecencyText": "Released 5 days ago"
     },
     {
       "id": 142573775,
@@ -395,7 +442,7 @@
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
       "stargazersCount": 5403,
-      "forksCount": 946,
+      "forksCount": 947,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -410,15 +457,15 @@
         "mvvm-architecture"
       ],
       "releasesUrl": "https://api.github.com/repos/RetroMusicPlayer/RetroMusicPlayer/releases{/id}",
-      "updatedAt": "2026-11-14T05:19:10Z",
+      "updatedAt": "2026-11-14T22:14:30Z",
       "createdAt": "2018-07-27T12:21:51Z",
       "pushedAt": "2026-11-12T07:16:29Z",
-      "downloadCount": 93266,
-      "openIssuesCount": 381,
+      "downloadCount": 93370,
+      "openIssuesCount": 382,
       "archived": false,
       "latestReleaseDate": "2026-08-13T16:45:08Z",
-      "releaseRecency": 92,
-      "releaseRecencyText": "Released 92 days ago"
+      "releaseRecency": 93,
+      "releaseRecencyText": "Released 93 days ago"
     },
     {
       "id": 46907841,
@@ -431,7 +478,7 @@
       "description": "An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/wangchenyan/ponymusic",
-      "stargazersCount": 2856,
+      "stargazersCount": 2854,
       "forksCount": 502,
       "language": "Kotlin",
       "topics": [
@@ -440,15 +487,15 @@
         "netease-cloud-music"
       ],
       "releasesUrl": "https://api.github.com/repos/wangchenyan/ponymusic/releases{/id}",
-      "updatedAt": "2026-11-13T13:26:11Z",
+      "updatedAt": "2026-11-14T23:32:27Z",
       "createdAt": "2015-11-26T06:18:37Z",
       "pushedAt": "2026-09-16T13:15:25Z",
-      "downloadCount": 13629,
+      "downloadCount": 13639,
       "openIssuesCount": 11,
       "archived": false,
       "latestReleaseDate": "2025-10-30T09:30:41Z",
-      "releaseRecency": 379,
-      "releaseRecencyText": "Released 379 days ago"
+      "releaseRecency": 380,
+      "releaseRecencyText": "Released 380 days ago"
     },
     {
       "id": 311451920,
@@ -461,7 +508,7 @@
       "description": "▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/moneytoo/Player",
-      "stargazersCount": 2808,
+      "stargazersCount": 2811,
       "forksCount": 310,
       "language": "Java",
       "topics": [
@@ -477,15 +524,15 @@
         "video-player"
       ],
       "releasesUrl": "https://api.github.com/repos/moneytoo/Player/releases{/id}",
-      "updatedAt": "2026-11-14T05:57:55Z",
+      "updatedAt": "2026-11-15T01:59:26Z",
       "createdAt": "2020-11-09T20:05:41Z",
       "pushedAt": "2026-11-12T19:42:30Z",
-      "downloadCount": 194592,
+      "downloadCount": 195144,
       "openIssuesCount": 87,
       "archived": false,
       "latestReleaseDate": "2026-09-11T21:01:50Z",
-      "releaseRecency": 63,
-      "releaseRecencyText": "Released 63 days ago"
+      "releaseRecency": 64,
+      "releaseRecencyText": "Released 64 days ago"
     },
     {
       "id": 49649355,
@@ -498,7 +545,7 @@
       "description": "Android Music Player",
       "defaultBranch": "compose",
       "htmlUrl": "https://github.com/rRemix/APlayer",
-      "stargazersCount": 1862,
+      "stargazersCount": 1864,
       "forksCount": 223,
       "language": "Kotlin",
       "topics": [
@@ -507,15 +554,15 @@
         "musicplayer"
       ],
       "releasesUrl": "https://api.github.com/repos/rRemix/APlayer/releases{/id}",
-      "updatedAt": "2026-11-13T23:58:20Z",
+      "updatedAt": "2026-11-15T09:17:34Z",
       "createdAt": "2016-01-14T13:38:47Z",
-      "pushedAt": "2026-11-13T23:27:28Z",
-      "downloadCount": 351302,
-      "openIssuesCount": 22,
+      "pushedAt": "2026-11-14T22:12:00Z",
+      "downloadCount": 351836,
+      "openIssuesCount": 23,
       "archived": false,
       "latestReleaseDate": "2026-11-12T11:43:33Z",
-      "releaseRecency": 1,
-      "releaseRecencyText": "Released yesterday"
+      "releaseRecency": 2,
+      "releaseRecencyText": "Released 2 days ago"
     },
     {
       "id": 73614722,
@@ -528,7 +575,7 @@
       "description": "Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-while-cache support",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/CarGuo/GSYVideoPlayer",
-      "stargazersCount": 21530,
+      "stargazersCount": 21532,
       "forksCount": 4320,
       "language": "Java",
       "topics": [
@@ -544,15 +591,15 @@
         "videocache"
       ],
       "releasesUrl": "https://api.github.com/repos/CarGuo/GSYVideoPlayer/releases{/id}",
-      "updatedAt": "2026-11-13T21:59:33Z",
+      "updatedAt": "2026-11-14T18:39:09Z",
       "createdAt": "2016-11-13T12:34:31Z",
       "pushedAt": "2026-11-11T02:44:39Z",
-      "downloadCount": 74432,
+      "downloadCount": 74447,
       "openIssuesCount": 15,
       "archived": false,
       "latestReleaseDate": "2026-11-11T02:49:07Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "releaseRecency": 4,
+      "releaseRecencyText": "Released 4 days ago"
     },
     {
       "id": 987110251,
@@ -565,20 +612,20 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/PixelPlayerHQ/PixelPlayer",
-      "stargazersCount": 6974,
-      "forksCount": 574,
+      "stargazersCount": 6981,
+      "forksCount": 576,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/PixelPlayerHQ/PixelPlayer/releases{/id}",
-      "updatedAt": "2026-11-14T07:54:19Z",
+      "updatedAt": "2026-11-15T03:25:42Z",
       "createdAt": "2025-05-20T15:33:18Z",
       "pushedAt": "2026-09-21T07:25:24Z",
-      "downloadCount": 422945,
-      "openIssuesCount": 681,
+      "downloadCount": 423613,
+      "openIssuesCount": 685,
       "archived": false,
       "latestReleaseDate": "2026-06-13T21:44:52Z",
-      "releaseRecency": 153,
-      "releaseRecencyText": "Released 153 days ago"
+      "releaseRecency": 154,
+      "releaseRecencyText": "Released 154 days ago"
     },
     {
       "id": 600800971,
@@ -591,7 +638,7 @@
       "description": "A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/namidaco/namida",
-      "stargazersCount": 6849,
+      "stargazersCount": 6859,
       "forksCount": 374,
       "language": "Dart",
       "topics": [
@@ -607,15 +654,15 @@
         "youtube-player"
       ],
       "releasesUrl": "https://api.github.com/repos/namidaco/namida/releases{/id}",
-      "updatedAt": "2026-11-14T08:23:06Z",
+      "updatedAt": "2026-11-15T06:21:46Z",
       "createdAt": "2023-02-12T16:36:03Z",
-      "pushedAt": "2026-11-08T18:05:00Z",
-      "downloadCount": 852010,
-      "openIssuesCount": 68,
+      "pushedAt": "2026-11-14T22:30:05Z",
+      "downloadCount": 853551,
+      "openIssuesCount": 60,
       "archived": false,
       "latestReleaseDate": "2026-09-19T18:38:12Z",
-      "releaseRecency": 55,
-      "releaseRecencyText": "Released 55 days ago"
+      "releaseRecency": 56,
+      "releaseRecencyText": "Released 56 days ago"
     },
     {
       "id": 32483164,
@@ -628,7 +675,7 @@
       "description": "a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/clangen/musikcube",
-      "stargazersCount": 4864,
+      "stargazersCount": 4863,
       "forksCount": 322,
       "language": "C++",
       "topics": [
@@ -647,15 +694,15 @@
         "wasapi"
       ],
       "releasesUrl": "https://api.github.com/repos/clangen/musikcube/releases{/id}",
-      "updatedAt": "2026-11-14T02:30:44Z",
+      "updatedAt": "2026-11-14T15:50:26Z",
       "createdAt": "2015-03-18T20:41:57Z",
       "pushedAt": "2026-03-23T02:00:57Z",
-      "downloadCount": 151113,
+      "downloadCount": 151162,
       "openIssuesCount": 179,
       "archived": false,
       "latestReleaseDate": "2025-09-21T07:16:59Z",
-      "releaseRecency": 419,
-      "releaseRecencyText": "Released 419 days ago"
+      "releaseRecency": 420,
+      "releaseRecencyText": "Released 420 days ago"
     },
     {
       "id": 56722299,
@@ -668,8 +715,8 @@
       "description": "Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/mpv-android/mpv-android",
-      "stargazersCount": 3697,
-      "forksCount": 541,
+      "stargazersCount": 3701,
+      "forksCount": 540,
       "language": "Kotlin",
       "topics": [
         "android-app",
@@ -680,15 +727,15 @@
         "video-player"
       ],
       "releasesUrl": "https://api.github.com/repos/mpv-android/mpv-android/releases{/id}",
-      "updatedAt": "2026-11-14T08:30:05Z",
+      "updatedAt": "2026-11-15T07:55:17Z",
       "createdAt": "2016-04-20T21:29:44Z",
       "pushedAt": "2026-11-08T13:12:38Z",
-      "downloadCount": 363848,
-      "openIssuesCount": 169,
+      "downloadCount": 365148,
+      "openIssuesCount": 170,
       "archived": false,
       "latestReleaseDate": "2026-09-17T15:33:45Z",
-      "releaseRecency": 57,
-      "releaseRecencyText": "Released 57 days ago"
+      "releaseRecency": 58,
+      "releaseRecencyText": "Released 58 days ago"
     },
     {
       "id": 390549311,
@@ -701,20 +748,20 @@
       "description": "A multi-platform local music player in continuous development since 2020, serving over one million users. This repository is used for issue tracking and official Android package releases.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Moriafly/SaltPlayerSource",
-      "stargazersCount": 7646,
+      "stargazersCount": 7651,
       "forksCount": 229,
       "language": null,
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/Moriafly/SaltPlayerSource/releases{/id}",
-      "updatedAt": "2026-11-14T07:55:10Z",
+      "updatedAt": "2026-11-15T06:44:59Z",
       "createdAt": "2021-07-29T00:32:09Z",
       "pushedAt": "2026-11-06T09:58:22Z",
-      "downloadCount": 255874,
-      "openIssuesCount": 774,
+      "downloadCount": 256196,
+      "openIssuesCount": 775,
       "archived": false,
       "latestReleaseDate": "2026-11-02T08:29:13Z",
-      "releaseRecency": 12,
-      "releaseRecencyText": "Released 12 days ago"
+      "releaseRecency": 13,
+      "releaseRecencyText": "Released 13 days ago"
     },
     {
       "id": 133509731,
@@ -727,7 +774,7 @@
       "description": "NOVA opeN sOurce Video plAyer: main repository to build them all",
       "defaultBranch": "nova",
       "htmlUrl": "https://github.com/nova-video-player/aos-AVP",
-      "stargazersCount": 4805,
+      "stargazersCount": 4809,
       "forksCount": 287,
       "language": "HTML",
       "topics": [
@@ -739,15 +786,15 @@
         "video"
       ],
       "releasesUrl": "https://api.github.com/repos/nova-video-player/aos-AVP/releases{/id}",
-      "updatedAt": "2026-11-13T12:46:38Z",
+      "updatedAt": "2026-11-15T01:59:16Z",
       "createdAt": "2018-05-15T11:59:08Z",
       "pushedAt": "2026-11-10T21:13:49Z",
-      "downloadCount": 572745,
-      "openIssuesCount": 979,
+      "downloadCount": 573654,
+      "openIssuesCount": 983,
       "archived": false,
       "latestReleaseDate": "2026-11-11T11:26:29Z",
-      "releaseRecency": 2,
-      "releaseRecencyText": "Released 2 days ago"
+      "releaseRecency": 3,
+      "releaseRecencyText": "Released 3 days ago"
     },
     {
       "id": 291841401,
@@ -760,8 +807,8 @@
       "description": "An open source music player made for Jellyfin",
       "defaultBranch": "redesign",
       "htmlUrl": "https://github.com/finamp-app/finamp",
-      "stargazersCount": 4581,
-      "forksCount": 325,
+      "stargazersCount": 4584,
+      "forksCount": 327,
       "language": "Dart",
       "topics": [
         "flutter",
@@ -770,15 +817,15 @@
         "music"
       ],
       "releasesUrl": "https://api.github.com/repos/finamp-app/finamp/releases{/id}",
-      "updatedAt": "2026-11-14T08:22:57Z",
+      "updatedAt": "2026-11-15T06:02:16Z",
       "createdAt": "2020-08-31T22:51:36Z",
-      "pushedAt": "2026-11-13T16:41:03Z",
-      "downloadCount": 142754,
+      "pushedAt": "2026-11-15T06:56:16Z",
+      "downloadCount": 142904,
       "openIssuesCount": 402,
       "archived": false,
       "latestReleaseDate": "2026-10-29T20:24:39Z",
-      "releaseRecency": 15,
-      "releaseRecencyText": "Released 15 days ago"
+      "releaseRecency": 16,
+      "releaseRecencyText": "Released 16 days ago"
     },
     {
       "id": 862412685,
@@ -791,8 +838,8 @@
       "description": "一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.",
       "defaultBranch": "dev",
       "htmlUrl": "https://github.com/GhostenEditor/Ghosten-Player",
-      "stargazersCount": 3434,
-      "forksCount": 212,
+      "stargazersCount": 3437,
+      "forksCount": 213,
       "language": "Dart",
       "topics": [
         "aliyundrive",
@@ -808,15 +855,15 @@
         "video-player"
       ],
       "releasesUrl": "https://api.github.com/repos/GhostenEditor/Ghosten-Player/releases{/id}",
-      "updatedAt": "2026-11-14T00:14:01Z",
+      "updatedAt": "2026-11-15T03:18:43Z",
       "createdAt": "2024-09-24T14:56:56Z",
       "pushedAt": "2026-11-01T14:08:22Z",
-      "downloadCount": 83648,
-      "openIssuesCount": 56,
+      "downloadCount": 83824,
+      "openIssuesCount": 57,
       "archived": false,
       "latestReleaseDate": "2026-09-22T15:50:17Z",
-      "releaseRecency": 52,
-      "releaseRecencyText": "Released 52 days ago"
+      "releaseRecency": 53,
+      "releaseRecencyText": "Released 53 days ago"
     },
     {
       "id": 555519447,
@@ -829,20 +876,20 @@
       "description": null,
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/google-ai-edge/mediapipe-samples",
-      "stargazersCount": 2888,
-      "forksCount": 788,
+      "stargazersCount": 2889,
+      "forksCount": 790,
       "language": "Jupyter Notebook",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/google-ai-edge/mediapipe-samples/releases{/id}",
-      "updatedAt": "2026-11-13T14:04:57Z",
+      "updatedAt": "2026-11-15T03:46:09Z",
       "createdAt": "2022-10-21T18:43:33Z",
       "pushedAt": "2026-11-12T17:54:22Z",
-      "downloadCount": 22257,
+      "downloadCount": 22267,
       "openIssuesCount": 113,
       "archived": false,
       "latestReleaseDate": "2025-05-01T00:18:24Z",
-      "releaseRecency": 562,
-      "releaseRecencyText": "Released 562 days ago"
+      "releaseRecency": 563,
+      "releaseRecencyText": "Released 563 days ago"
     },
     {
       "id": 200432345,
@@ -855,7 +902,7 @@
       "description": "A portable and vast media library solution.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/zoriya/Kyoo",
-      "stargazersCount": 2566,
+      "stargazersCount": 2568,
       "forksCount": 84,
       "language": "TypeScript",
       "topics": [
@@ -872,15 +919,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/zoriya/Kyoo/releases{/id}",
-      "updatedAt": "2026-11-13T11:55:28Z",
+      "updatedAt": "2026-11-15T08:12:03Z",
       "createdAt": "2019-08-04T00:12:27Z",
-      "pushedAt": "2026-11-14T07:33:39Z",
-      "downloadCount": 13542,
-      "openIssuesCount": 53,
+      "pushedAt": "2026-11-14T19:10:53Z",
+      "downloadCount": 13558,
+      "openIssuesCount": 50,
       "archived": false,
       "latestReleaseDate": "2026-11-01T16:10:16Z",
-      "releaseRecency": 12,
-      "releaseRecencyText": "Released 12 days ago"
+      "releaseRecency": 13,
+      "releaseRecencyText": "Released 13 days ago"
     },
     {
       "id": 1071031551,
@@ -893,7 +940,7 @@
       "description": "Your next music player",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/Kopuz-org/kopuz",
-      "stargazersCount": 1987,
+      "stargazersCount": 1991,
       "forksCount": 115,
       "language": "Rust",
       "topics": [
@@ -913,15 +960,15 @@
         "yt-music"
       ],
       "releasesUrl": "https://api.github.com/repos/Kopuz-org/kopuz/releases{/id}",
-      "updatedAt": "2026-11-14T02:11:11Z",
+      "updatedAt": "2026-11-15T05:50:24Z",
       "createdAt": "2025-10-06T19:13:18Z",
-      "pushedAt": "2026-11-13T10:42:15Z",
-      "downloadCount": 23232,
-      "openIssuesCount": 77,
+      "pushedAt": "2026-11-14T19:49:41Z",
+      "downloadCount": 23496,
+      "openIssuesCount": 78,
       "archived": false,
       "latestReleaseDate": "2026-11-05T16:52:36Z",
-      "releaseRecency": 8,
-      "releaseRecencyText": "Released 8 days ago"
+      "releaseRecency": 9,
+      "releaseRecencyText": "Released 9 days ago"
     }
   ]
 }
