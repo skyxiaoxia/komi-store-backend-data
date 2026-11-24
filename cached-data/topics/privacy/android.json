@@ -1,8 +1,8 @@
 {
   "category": "topics/privacy",
   "platform": "android",
-  "lastUpdated": "2026-11-23T10:27:10.793096Z",
-  "totalCount": 8,
+  "lastUpdated": "2026-11-24T12:08:12.949426Z",
+  "totalCount": 10,
   "repositories": [
     {
       "id": 254202848,
@@ -15,7 +15,7 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/florisboard/florisboard",
-      "stargazersCount": 8797,
+      "stargazersCount": 8800,
       "forksCount": 771,
       "language": "Kotlin",
       "topics": [
@@ -26,15 +26,15 @@
         "kotlin-android"
       ],
       "releasesUrl": "https://api.github.com/repos/florisboard/florisboard/releases{/id}",
-      "updatedAt": "2026-11-23T09:30:01Z",
+      "updatedAt": "2026-11-24T07:00:46Z",
       "createdAt": "2020-04-08T21:18:23Z",
       "pushedAt": "2026-11-18T23:10:55Z",
-      "downloadCount": 294909,
+      "downloadCount": 295330,
       "openIssuesCount": 476,
       "archived": false,
       "latestReleaseDate": "2025-11-28T15:17:55Z",
-      "releaseRecency": 359,
-      "releaseRecencyText": "Released 359 days ago"
+      "releaseRecency": 360,
+      "releaseRecencyText": "Released 360 days ago"
     },
     {
       "id": 987110251,
@@ -47,20 +47,20 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/PixelPlayerHQ/PixelPlayer",
-      "stargazersCount": 7035,
-      "forksCount": 588,
+      "stargazersCount": 7041,
+      "forksCount": 589,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/PixelPlayerHQ/PixelPlayer/releases{/id}",
-      "updatedAt": "2026-11-23T06:57:00Z",
+      "updatedAt": "2026-11-24T10:45:02Z",
       "createdAt": "2025-05-20T15:33:18Z",
       "pushedAt": "2026-11-23T07:35:50Z",
-      "downloadCount": 428348,
-      "openIssuesCount": 5,
+      "downloadCount": 428900,
+      "openIssuesCount": 6,
       "archived": false,
       "latestReleaseDate": "2026-06-13T21:44:52Z",
-      "releaseRecency": 162,
-      "releaseRecencyText": "Released 162 days ago"
+      "releaseRecency": 163,
+      "releaseRecencyText": "Released 163 days ago"
     },
     {
       "id": 467842934,
@@ -73,20 +73,54 @@
       "description": "Customizable and privacy-conscious open-source keyboard",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/HeliBorg/HeliBoard",
-      "stargazersCount": 6641,
+      "stargazersCount": 6653,
       "forksCount": 707,
       "language": "Kotlin",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/HeliBorg/HeliBoard/releases{/id}",
-      "updatedAt": "2026-11-23T10:48:42Z",
+      "updatedAt": "2026-11-24T12:04:39Z",
       "createdAt": "2022-03-09T08:38:32Z",
       "pushedAt": "2026-11-15T21:39:09Z",
-      "downloadCount": 488461,
-      "openIssuesCount": 888,
+      "downloadCount": 489610,
+      "openIssuesCount": 890,
       "archived": false,
       "latestReleaseDate": "2026-10-12T17:32:37Z",
-      "releaseRecency": 41,
-      "releaseRecencyText": "Released 41 days ago"
+      "releaseRecency": 42,
+      "releaseRecencyText": "Released 42 days ago"
+    },
+    {
+      "id": 1380117,
+      "name": "lantern",
+      "fullName": "getlantern/lantern",
+      "owner": {
+        "login": "getlantern",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/624178?v=4"
+      },
+      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/getlantern/lantern",
+      "stargazersCount": 16905,
+      "forksCount": 11037,
+      "language": "Dart",
+      "topics": [
+        "accelerator",
+        "censorship",
+        "circumvention",
+        "gfw",
+        "lantern",
+        "router",
+        "vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/getlantern/lantern/releases{/id}",
+      "updatedAt": "2026-11-24T12:32:17Z",
+      "createdAt": "2011-02-17T22:12:29Z",
+      "pushedAt": "2026-11-24T12:17:35Z",
+      "downloadCount": 124791965,
+      "openIssuesCount": 31,
+      "archived": false,
+      "latestReleaseDate": "2026-11-23T15:10:55Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 257841809,
@@ -99,20 +133,55 @@
       "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/uazo/cromite",
-      "stargazersCount": 8538,
+      "stargazersCount": 8544,
       "forksCount": 339,
       "language": "C++",
       "topics": [],
       "releasesUrl": "https://api.github.com/repos/uazo/cromite/releases{/id}",
-      "updatedAt": "2026-11-23T09:30:01Z",
+      "updatedAt": "2026-11-24T11:29:18Z",
       "createdAt": "2020-04-22T08:38:25Z",
-      "pushedAt": "2026-11-21T10:36:42Z",
-      "downloadCount": 4103349,
-      "openIssuesCount": 602,
+      "pushedAt": "2026-11-23T11:43:59Z",
+      "downloadCount": 4107786,
+      "openIssuesCount": 603,
       "archived": false,
       "latestReleaseDate": "2026-09-15T11:51:14Z",
-      "releaseRecency": 68,
-      "releaseRecencyText": "Released 68 days ago"
+      "releaseRecency": 70,
+      "releaseRecencyText": "Released 70 days ago"
+    },
+    {
+      "id": 497607901,
+      "name": "httpsms",
+      "fullName": "NdoleStudio/httpsms",
+      "owner": {
+        "login": "NdoleStudio",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13936519?v=4"
+      },
+      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API with end to end encryption supported.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/NdoleStudio/httpsms",
+      "stargazersCount": 6380,
+      "forksCount": 1174,
+      "language": "Go",
+      "topics": [
+        "android-sms",
+        "android-sms-sender",
+        "httpsms",
+        "sms",
+        "sms-api",
+        "sms-gateway",
+        "sms-manager",
+        "sms-manager-api"
+      ],
+      "releasesUrl": "https://api.github.com/repos/NdoleStudio/httpsms/releases{/id}",
+      "updatedAt": "2026-11-24T09:03:38Z",
+      "createdAt": "2022-05-29T14:02:55Z",
+      "pushedAt": "2026-11-23T08:00:48Z",
+      "downloadCount": 594116,
+      "openIssuesCount": 4,
+      "archived": false,
+      "latestReleaseDate": "2026-08-23T10:27:35Z",
+      "releaseRecency": 93,
+      "releaseRecencyText": "Released 93 days ago"
     },
     {
       "id": 291438522,
@@ -125,7 +194,7 @@
       "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/siyuan-note/siyuan",
-      "stargazersCount": 47348,
+      "stargazersCount": 47357,
       "forksCount": 3131,
       "language": "TypeScript",
       "topics": [
@@ -142,15 +211,15 @@
         "workspace"
       ],
       "releasesUrl": "https://api.github.com/repos/siyuan-note/siyuan/releases{/id}",
-      "updatedAt": "2026-11-23T08:57:03Z",
+      "updatedAt": "2026-11-24T09:06:56Z",
       "createdAt": "2020-08-30T09:21:35Z",
-      "pushedAt": "2026-11-23T10:43:10Z",
-      "downloadCount": 3979415,
-      "openIssuesCount": 5,
+      "pushedAt": "2026-11-24T11:20:21Z",
+      "downloadCount": 3997198,
+      "openIssuesCount": 6,
       "archived": false,
-      "latestReleaseDate": "2026-11-19T15:00:54Z",
-      "releaseRecency": 3,
-      "releaseRecencyText": "Released 3 days ago"
+      "latestReleaseDate": "2026-11-24T06:56:52Z",
+      "releaseRecency": 0,
+      "releaseRecencyText": "Released today"
     },
     {
       "id": 249995750,
@@ -163,8 +232,8 @@
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/reactive-resume/reactive-resume",
-      "stargazersCount": 46008,
-      "forksCount": 4966,
+      "stargazersCount": 46041,
+      "forksCount": 4967,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -179,15 +248,15 @@
         "typescript"
       ],
       "releasesUrl": "https://api.github.com/repos/reactive-resume/reactive-resume/releases{/id}",
-      "updatedAt": "2026-11-23T10:27:40Z",
+      "updatedAt": "2026-11-24T12:23:21Z",
       "createdAt": "2020-03-25T14:08:22Z",
       "pushedAt": "2026-11-20T03:14:03Z",
-      "downloadCount": 1699,
+      "downloadCount": 1762,
       "openIssuesCount": 10,
       "archived": false,
       "latestReleaseDate": "2026-11-14T02:39:57Z",
-      "releaseRecency": 9,
-      "releaseRecencyText": "Released 9 days ago"
+      "releaseRecency": 10,
+      "releaseRecencyText": "Released 10 days ago"
     },
     {
       "id": 266231149,
@@ -200,8 +269,8 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "defaultBranch": "master",
       "htmlUrl": "https://github.com/logseq/logseq",
-      "stargazersCount": 45692,
-      "forksCount": 2882,
+      "stargazersCount": 45691,
+      "forksCount": 2877,
       "language": "Clojure",
       "topics": [
         "clojure",
@@ -217,15 +286,15 @@
         "pkm"
       ],
       "releasesUrl": "https://api.github.com/repos/logseq/logseq/releases{/id}",
-      "updatedAt": "2026-11-23T10:38:30Z",
+      "updatedAt": "2026-11-24T10:03:05Z",
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-11-23T09:57:51Z",
-      "downloadCount": 97739944,
+      "pushedAt": "2026-11-24T07:07:28Z",
+      "downloadCount": 97882104,
       "openIssuesCount": 926,
       "archived": false,
       "latestReleaseDate": "2026-10-07T14:18:57Z",
-      "releaseRecency": 46,
-      "releaseRecencyText": "Released 46 days ago"
+      "releaseRecency": 47,
+      "releaseRecencyText": "Released 47 days ago"
     },
     {
       "id": 877230294,
@@ -238,8 +307,8 @@
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/blinkospace/blinko",
-      "stargazersCount": 11237,
-      "forksCount": 806,
+      "stargazersCount": 11244,
+      "forksCount": 805,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -252,15 +321,15 @@
         "self-hosted"
       ],
       "releasesUrl": "https://api.github.com/repos/blinkospace/blinko/releases{/id}",
-      "updatedAt": "2026-11-23T06:42:21Z",
+      "updatedAt": "2026-11-24T09:32:18Z",
       "createdAt": "2024-10-23T10:04:59Z",
       "pushedAt": "2026-11-05T06:11:07Z",
-      "downloadCount": 38067,
+      "downloadCount": 38152,
       "openIssuesCount": 443,
       "archived": false,
       "latestReleaseDate": "2026-11-05T02:51:35Z",
-      "releaseRecency": 18,
-      "releaseRecencyText": "Released 18 days ago"
+      "releaseRecency": 19,
+      "releaseRecencyText": "Released 19 days ago"
     }
   ]
 }
